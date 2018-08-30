@@ -8,6 +8,8 @@
 
 	<!-- Assets -->
 	<link href="assets/css/main.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/brands.css" integrity="sha384-rf1bqOAj3+pw6NqYrtaE1/4Se2NBwkIfeYbsFdtiR6TQz0acWiwJbv1IM/Nt/ite" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/fontawesome.css" integrity="sha384-1rquJLNOM3ijoueaaeS5m+McXPJCGdr5HcA03/VHXxcp2kX2sUrQDmFc3jR5i/C7" crossorigin="anonymous">
 	<link href="assets/img/favicon.png" rel="shortcut icon" type="image/png"/>
 
 	<!-- Standard SEO -->
@@ -25,7 +27,7 @@
 	<meta name="dcterms.Publisher" content="Justyn Jen" />
 	<meta name="dcterms.Type" content="text/html" />
 	<meta name="dcterms.Coverage" content="{{page.url}}" />
-	<meta name="dcterms.Rights" content="Copyright &copy;{{site.time | date: '%y'}} Justyn Jen" />
+	<meta name="dcterms.Rights" content="{{site.time | date: '%Y'}} Justyn Jen" />
 	<meta name="dcterms.Title" content="{{page.seo.title}}" />
 	<meta name="dcterms.Creator" content="Truth &amp; Co." />
 	<meta name="dcterms.Subject" content="Justyn Jen" />
@@ -92,19 +94,33 @@
 	<main role="main">
 		{{content}}
 
-		<div data-is
-			data-is-api="/instashow/api/index.php"
-			data-is-source="@justynjen"
-			data-is-width="auto"
-			data-is-layout="grid"
-			data-is-columns="5"
-			data-is-rows="1"
-			data-is-lang="en">
-		</div>
+		<section class="section-instagram">
+			<div class="row column">
+				<h2 class="section-heading green">@justynjen</h2>
+			</div>
+
+			<div data-is
+				data-is-access-token="198328286.08fa85c.bca53104fa414a11905639390cf437d6"
+				data-is-layout="slider"
+				data-is-columns="5"
+				data-is-rows="1"
+				data-is-limit="5"
+				data-is-responsive='{ "720": { "columns": 2, "rows": 1 }}'>
+			</div>
+		</section>
 	</main>
 
 	<footer class="site-footer">
+		<div class="footer-content">
+			<div class="row column">
+				{% include social-icons.html %}
+				<img src="assets/img/map.png" alt="World Map">
+			</div>
+		</div>
 
+		<div class="footer-copyright">
+			&copy; {{site.time | date: '%Y'}} Justyn Jen. <a href="http://truthand.co">Site by Truth &amp; Co</a>
+		</div>
 	</footer>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>

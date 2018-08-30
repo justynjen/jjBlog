@@ -41,7 +41,7 @@ $large-nav-height                      : 90px;
 $small-nav-height                      : 60px;
 
 // Footer
-$footer-background-color               : $white;
+$footer-background-color               : $lightgrey;
 $footer-text-color                     : $black;
 $footer-link-color                     : $black;
 
@@ -93,20 +93,17 @@ main {
 }
 
 .site-footer {
-	position: relative;
   background: $footer-background-color;
   color: $footer-text-color;
   font-size: $small-font-size;
   overflow: hidden;
-  z-index: map-get($zindex, footer);
 	.footer-content {
-		padding: 1.5rem 0;
+		padding: 3rem 0;
 	}
 	.footer-copyright {
-		font-size: $small-font-size;
+    background: white;
     padding: 1.5rem 0;
     opacity: .5;
-		text-align: center;
 		overflow: hidden;
 	}
   a {
@@ -595,11 +592,22 @@ figure {
 
 .social-icons li {
   display: inline-block;
+  margin: 0 0.5em 3em;
   a {
+    display: inline-block;
     font-size: 1.25rem;
-		padding: 0 0.75em;
-  }
-  &:first-child a {
-    padding-left: 0;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 50%;
+    background: rgba(0,0,0,0.05);
+    background: $accent-color;
+    color: white;
+    transition: all .2s;
+    &:hover {
+      opacity: 0.8;
+      color: white;
+    }
   }
 }
