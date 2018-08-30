@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="p:domain_verify" content="2cc660a0130908e76504c52111568ee0"/>
+	<title>{{page.title}}</title>
+
+	<!-- Assets -->
+	<link href="assets/css/main.css" rel="stylesheet">
+	<link href="assets/img/favicon.png" rel="shortcut icon" type="image/png"/>
+
+	<!-- Standard SEO -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="referrer" content="always" />
+	<meta name="keywords" content="Justyn Jen" />
+	<meta name="description" content="{{page.seo.description}}" />
+	<link rel="canonical" href="{{page.url}}" />
+
+	<!-- Dublin Core basic info -->
+	<meta name="dcterms.Identifier" content="{{page.url}}" />
+	<meta name="dcterms.Format" content="text/html" />
+	<meta name="dcterms.Relation" content="Justyn Jen" />
+	<meta name="dcterms.Language" content="en" />
+	<meta name="dcterms.Publisher" content="Justyn Jen" />
+	<meta name="dcterms.Type" content="text/html" />
+	<meta name="dcterms.Coverage" content="{{page.url}}" />
+	<meta name="dcterms.Rights" content="Copyright &copy;{{site.time | date: '%y'}} Justyn Jen" />
+	<meta name="dcterms.Title" content="{{page.seo.title}}" />
+	<meta name="dcterms.Creator" content="Truth &amp; Co." />
+	<meta name="dcterms.Subject" content="Justyn Jen" />
+	<meta name="dcterms.Contributor" content="Justyn Jen" />
+	<meta name="dcterms.Description" content="{{page.seo.description}}" />
+
+	<!-- Facebook OpenGraph -->
+	<meta property="og:type" content="website" />
+	<meta property="og:locale" content="en_gb" />
+	<meta property="og:url" content="{{page.url}}" />
+	<meta property="og:title" content="{{page.seo.title}}" />
+	<meta property="og:description" content="{{page.seo.description}}" />
+	<meta property="og:image" content="{{page.seo.social-image_path}}" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta property="og:site_name" content="Justyn Jen" />
+	<meta property="og:see_also" content="https://twitter.com/justynjen" />
+	<meta property="og:see_also" content="https://www.instagram.com/justynjen" />
+
+	<!-- Twitter Card -->
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="@justynjen" />
+	<meta name="twitter:title" content="{{page.seo.title}}" />
+	<meta name="twitter:description" content="{{page.seo.description}}" />
+	<meta name="twitter:image" content="{{page.seo.social-image_path}}" />
+
+	<!-- WebSite -->
+	<script type="application/ld+json">
+	{
+	    "@context": "http://schema.org",
+	    "@type": "WebSite",
+	    "name": "Muse",
+	    "description": "{{page.seo.description}}",
+	    "url": "{{page.url}}",
+	    "image": "{{page.seo.social-image_path}}",
+	    "sameAs": ["https://twitter.com/justynjen","https://www.instagram.com/justynjen"],
+	    "creator": {
+	        "@type": "Organization",
+	        "name": "Truth &amp; Co.",
+	        "description": "Truth &amp; Co. is a creative agency started by two optimists working to bridge the gap between digital and print in the music industry.",
+	        "url": "http://truthand.co"
+	    }
+	}
+	</script>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-97903484-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-97903484-2');
+  </script>
+
+	<!--[if lt IE 9]>
+		<script type="text/javascript" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+
+<body>
+	<header class="site-header">
+
+	</header>
+
+	<main role="main">
+		{{content}}
+
+		<div data-is
+			data-is-api="/instashow/api/index.php"
+			data-is-source=""
+			data-is-access-token="198328286.08fa85c.bca53104fa414a11905639390cf437d6"
+			data-is-width="auto"
+			data-is-layout="grid"
+			data-is-columns="5"
+			data-is-rows="1"
+			data-is-lang="en">
+		</div>
+	</main>
+
+	<footer class="site-footer">
+
+	</footer>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="/instashow/elfsight-instagram-feed.js"></script>
+	<script src="//assets.pinterest.com/js/pinit.js" async defer></script>
+
+	<!-- MailerLite Universal -->
+	<script>
+	(function(m,a,i,l,e,r){ m['MailerLiteObject']=e;function f(){
+	var c={ a:arguments,q:[]};var r=this.push(c);return "number"!=typeof r?r:f.bind(c.q);}
+	f.q=f.q||[];m[e]=m[e]||f.bind(f.q);m[e].q=m[e].q||f.q;r=a.createElement(i);
+	var _=a.getElementsByTagName(i)[0];r.async=1;r.src=l+'?v'+(~~(new Date().getTime()/1000000));
+	_.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
+
+	var ml_account = ml('accounts', '1122916', 'a4z5v5t3z1', 'load');
+	</script>
+	<!-- End MailerLite Universal -->
+</body>
+</html>

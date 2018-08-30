@@ -1,0 +1,104 @@
+---
+layout: default
+---
+
+<section class="bgPosts center" style="background-image:url('{{page.feature-image_path}}');">
+  <div>
+
+  </div>
+</section>
+<section class="grid">
+  <h2 class="centered"> {{page.title}} </h2>
+  <p> {{page.subtitle}} </p>
+    <div class="col-8_xs-12 content">
+
+      {{content}}
+
+    </div>
+    <div class="sidebar col-3_xs-12" id="sidebar">
+      <img class="sidebarImage"src="/images/bali/insta-tour5.jpg" alt="">
+      <h3 class="shorelines lineHeight center">Hello!</h3>
+      <p>My name is Justyn. Pronounced Just(in). Most people want to know if I was given this name for a reason, but as I always tell them, no my name has no meaning. It is just a name my dad was set on naming me whether I was a boy or not. I know now that I was given this name because I was meant to stand out and what better way to stand out then to be a girl with boy’s name. That’s the first question I get everytime I introduce myself.</p>
+      <div class="grid center">
+        <div class="col-12 padding">
+          <a href="http://instagram.com/justynjen"><i class="padding fa fa-instagram fa-2x" aria-hidden="true"></i></a>
+          <a href="http://pinterest.com/justynjen"><i class="fa fa-pinterest fa-2x padding" aria-hidden="true"></i></a>
+          <a href="http://facebook.com/justynjen"><i class="fa fa-facebook fa-2x padding" aria-hidden="true"></i></a>
+          <a href="http://twitter.com/justynjen"><i class="fa fa-twitter fa-2x padding" aria-hidden="true"></i></a>
+        </div>
+      <h4 class="shorelines lineHeight center portfolio">Top Posts</h4>
+      <div class="blog-posts grid-middle-center">
+
+        {% for post in site.posts limit:4 %}
+
+        <div class="blog-post col-12 center">
+          <img class="bg blogImage" src="{{ post.feature-image_path }} " alt="">
+          <div class="center">
+            <h4 class="center"><a href="{{ post.url }}">{{ post.title }}</a><br /></h4>
+
+
+          </div>
+        </div>
+
+        {% endfor %}
+
+      </div>
+
+      </div>
+    </div>
+</section>
+<section>
+
+  <h3 class="shorelines center col-12">Comment</h3>
+
+  <div id="disqus_thread"></div>
+  <script>
+
+  /**
+  *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+  *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+
+  var disqus_config = function () {
+  this.page.url = 'http://justynjen.com/blog';  // Replace PAGE_URL with your page's canonical URL variable
+  this.page.identifier = 'blog'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+  };
+
+  (function() { // DON'T EDIT BELOW THIS LINE
+  var d = document, s = d.createElement('script');
+  s.src = 'https://justynjen.disqus.com/embed.js';
+  s.setAttribute('data-timestamp', +new Date());
+  (d.head || d.body).appendChild(s);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+</section>
+
+<section class="blog">
+  <h2 class="center shorelines">Read Next</h2>
+  <div class="blog-posts grid-middle-center">
+
+     {% for post in site.posts limit:4 %}
+
+    <div class="blog-post col-3_sm-6_xs-12">
+     <img class="bg blogImage" src="{{ post.feature-image_path }} " alt="">
+     <div class="blogContainer center">
+       <h4 class="center blogPosts"><a href="{{ post.url }}">{{ post.title }}</a><br /></h4>
+  			   <a href="{{post.url}}" class="postUrl"> Read More</a>
+      </div>
+     </div>
+
+     {% endfor %}
+
+    </div>
+
+</section>
+<section class="subscribe center">
+  <h2 class="shorelines lineHeight"> Grab the Freebie</h2>
+  <hr class="center"> </hr>
+  <div class="ml-form-embed"
+  data-account="1122916:a4z5v5t3z1"
+  data-form="885308:f9j5b2">
+</div>
+</section>

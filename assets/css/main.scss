@@ -1,0 +1,173 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
+@import "foundation";
+@import "fonts";
+@import "base";
+
+.highlighter {
+  position: relative;
+  &:after {
+    position: absolute;
+    top: 50%; left: 50%;
+    content: '-';
+    opacity: 0.75;
+    z-index: -1;
+    transform: translate(-50%, -50%);
+    color: $accent-color;
+    font-size: 28em;
+    margin-top: 155px;
+  }
+}
+
+.underline {
+  display: inline-block;
+  box-shadow: inset 0px -3px $green;
+}
+
+.section-heading {
+  @extend .highlighter;
+  font-family: $alt-font;
+  text-transform: lowercase;
+  text-align: center;
+  font-size: 3.25em;
+  margin-bottom: 1em;
+  &:after {
+    color: $yellow;
+    font-size: 18em;
+    margin-top: 60px;
+  }
+}
+
+.masthead {
+  height: 75vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  h1 {
+    @extend .highlighter;
+    font-family: $alt-font;
+    padding: 0 1em;
+    &:after {
+      transform: translate(-47%, -50%) scaleX(1.2);
+    }
+  }
+}
+
+
+
+/********************
+  SUBSCRIBE FORM
+********************/
+
+.mailing-list {
+  background: $lightgrey;
+}
+
+.subscribe-form {
+  form {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  input[type="email"] {
+    width: 100%;
+    margin: 0 10px 10px 0;
+    border: 0;
+    box-shadow: 0 0 60px rgba(0,0,0,0.075);
+  }
+  @include medium-up {
+    input[type="email"] {
+      width: auto;
+      flex-grow: 1;
+      margin-bottom: 0;
+    }
+  }
+}
+
+
+
+/********************
+  BLOG ITEM
+********************/
+.blog-item {
+  overflow: visible;
+  figure {
+    margin-bottom: 3em;
+  }
+  figcaption {
+    position: absolute;
+    bottom: 1em;
+    left: -1em;
+    width: 75%;
+    background: rgba(0,206,201,0.85);
+    padding: 1em 1.5em;
+  }
+  h4 {
+    color: white;
+    margin: 0;
+  }
+}
+
+
+/********************
+  HOME PAGE
+********************/
+
+.section-intro {
+  padding: 0;
+  .row {
+    max-width: none;
+    .column {
+      padding: 3em 1.5em;
+      @include medium-up {
+        padding: 3em;
+      }
+    }
+    .column.intro-image {
+      background: url(https://d1qmdf3vop2l07.cloudfront.net/real-slipper.cloudvent.net/compressed/982f8f29f526cf3db3f2b23df746ae59.jpg) center center no-repeat;
+      background-size: cover;
+      min-height: 200px;
+    }
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.section-stats {
+  background: $darkgrey;
+  color: white;
+  text-align: center;
+  line-height: 1;
+  .stat-name {
+    font-family: $alt-font;
+    text-transform: lowercase;
+    font-size: 1.15em;
+    margin-bottom: .25em;
+    color: rgba(255,255,255,0.5);
+  }
+  .stat-count {
+    font-family: $heading-font;
+    font-size: 2.75em;
+    font-weight: bold;
+  }
+  @include medium-up {
+    .stat-name {
+      font-size: 1.5em;
+    }
+    .stat-count {
+      font-size: 4em;
+    }
+  }
+  @include large-up {
+    .stat-name {
+      font-size: 1.65em;
+    }
+    .stat-count {
+      font-size: 5em;
+    }
+  }
+}
