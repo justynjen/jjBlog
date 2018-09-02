@@ -20,9 +20,12 @@ title: Justyn Jen
   </div>
 </section>
 
-<section class="mailing-list">
-  <div class="row column">
-    {% include mailer.html %}
+<section class="section-mailing-list">
+  <div class="row align-center">
+    <div class="small-12 medium-11 columns">
+      <h3>Get My Latest Posts Directly in Your Inbox!</h3>
+      {% include mailing-list.html %}
+    </div>
   </div>
 </section>
 
@@ -52,11 +55,9 @@ title: Justyn Jen
 
   <div class="row column">
     <div class="slider">
-      {% include blog-item.html %}
-      {% include blog-item.html %}
-      {% include blog-item.html %}
-      {% include blog-item.html %}
-      {% include blog-item.html %}
+      {% for post in site.posts limit:9 %}
+        {% include entry-item.html %}
+      {% endfor %}
     </div>
   </div>
 </section>

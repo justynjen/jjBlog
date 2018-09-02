@@ -59,52 +59,81 @@
   }
 }
 
-.masthead {
-  height: 75vh;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  h1 {
-    @extend .highlighter;
-    font-family: $alt-font;
-    padding: 0 1em;
-    &:after {
-      transform: translate(-47%, -50%) scaleX(1.2);
-    }
-  }
+h5, .h5 {
+  font-family: $body-font;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 1.5em;
 }
 
 
 
 /********************
-  SUBSCRIBE FORM
+  HEADER
 ********************/
 
-.mailing-list {
-  background: $lightgrey;
+.main-nav {
+  box-shadow: 0 5px 20px rgba(0,0,0,0.05);
 }
 
-.subscribe-form {
-  form {
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
+
+
+/********************
+  SIDEBAR
+********************/
+
+.sidebar {
+  text-align: center;
+  p {
+    font-size: 0.9em;
   }
-  input[type="email"] {
-    width: 100%;
-    margin: 0 10px 10px 0;
-    border: 0;
-    box-shadow: 0 0 60px rgba(0,0,0,0.075);
+  section {
+    padding: 1.5em;
+    margin-bottom: 3em;
+    background: $lightgrey;
+    border-top: 3px solid $accent-color;
   }
-  @include medium-up {
-    input[type="email"] {
-      width: auto;
-      flex-grow: 1;
+  .sidebar-intro {
+    border-top: 0;
+    img {
+      margin: -1.5em -1.5em 1.5em;
+      max-width: calc(100% + 3em);
+    }
+    p {
       margin-bottom: 0;
     }
   }
+  .sidebar-entries {
+    .entry-item {
+      margin: 0 0 1.5em;
+      &:last-of-type {
+        margin-bottom: 0em;
+      }
+    }
+  }
+  .sidebar-mailing-list {
+    input, button {
+      padding: 1em;
+    }
+    button {
+      font-size: .9em;
+      padding: 1em 3em;
+    }
+  }
+  @include large-up {
+    padding-left: 1.5em;
+  }
 }
 
+.sidebar-pinterest {
+  display: none;
+}
+
+.posts {
+  .sidebar-pinterest {
+    display: block;
+  }
+}
 
 
 /********************
@@ -122,6 +151,40 @@
 
 
 /********************
+  SUBSCRIBE FORM
+********************/
+
+.subscribe-form {
+  input[type="email"] {
+    width: 100%;
+  }
+}
+
+.section-mailing-list {
+  background: $lightgrey;
+  .subscribe-form {
+    form {
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+    }
+    input[type="email"] {
+      margin: 0 10px 10px 0;
+      box-shadow: 0 0 60px rgba(0,0,0,0.075);
+    }
+    @include medium-up {
+      input[type="email"] {
+        width: auto;
+        flex-grow: 1;
+        margin-bottom: 0;
+      }
+    }
+  }
+}
+
+
+
+/********************
   INSTAGRAM FEED
 ********************/
 
@@ -132,8 +195,9 @@
 
 
 /********************
-  BLOG ITEM
+  ENTRY ITEMS
 ********************/
+
 .slider {
   .slick-arrow {
     &:before {
@@ -147,9 +211,8 @@
   }
 }
 
-.blog-item {
+.entry-item {
   display: block;
-  padding: 0 15px;
   figure {
     transition: all .25s;
   }
@@ -182,10 +245,34 @@
   }
 }
 
+.section-blog {
+  .entry-item {
+    padding: 0 15px;
+  }
+}
+
+
+
+
 
 /********************
   HOME PAGE
 ********************/
+
+.masthead {
+  height: 75vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  h1 {
+    @extend .highlighter;
+    font-family: $alt-font;
+    padding: 0 1em;
+    &:after {
+      transform: translate(-47%, -50%) scaleX(1.2);
+    }
+  }
+}
 
 .section-intro {
   padding: 0;
@@ -246,3 +333,131 @@
 .section-blog {
   background: $lightgrey;
 }
+
+
+
+/********************
+  BLOG PAGE
+********************/
+
+.blog-entry {
+  font-size: .9em;
+  margin-bottom: 5em;
+  display: flex;
+  .blog-entry-image {
+    display: block;
+    margin-bottom: 1.5em;
+  }
+  img {
+    min-height: 100%;
+  }
+  .read-more {
+    @extend .h5;
+    display: block;
+    margin-top: 1.5em;
+    padding-bottom: 10px;
+    color: $accent-color;
+    border-bottom: 1px solid $accent-color;
+    transition: all .25s;
+    &:hover {
+      color: $main-text-color;
+      padding-left: 5px;
+    }
+  }
+  @include large-up {
+    .blog-entry-image {
+      margin-bottom: 0;
+    }
+    .blog-entry-content {
+      display: flex;
+      flex-flow: column;
+      height: 100%;
+    }
+    .read-more {
+      margin-top: auto;
+      margin-bottom: 0;
+    }
+  }
+}
+
+
+/********************
+  BLOG POSTS
+********************/
+
+main {
+  padding: 1.5em 0 0;
+  @include medium-up {
+    padding: 3em 0 0;
+  }
+}
+
+.entry-post {
+  h4 {
+    font-family: $alt-font;
+    font-size: 2.25em;
+    margin-top: 1.5em;
+  }
+  img {
+    margin-bottom: 1.5em;
+  }
+  @include medium-up {
+    img {
+      width: 50%;
+      &:nth-of-type(odd) {
+        float: left;
+        margin: 0 1.5em 0 0;
+      }
+      &:nth-of-type(even) {
+        float: right;
+        margin: 0 0 0 1.5em;
+      }
+      &:last-of-type {
+        float: none;
+        margin: 0;
+        display: none;
+      }
+    }
+  }
+}
+
+.entry-title {
+  font-size: 1.25em;
+  margin: 1.5em 0 0;
+  @include medium-up {
+    font-size: 1.5em;
+    margin: 0;
+  }
+}
+
+.entry-featured-image {
+  position: relative;
+  max-height: 360px;
+  margin-bottom: 1.5em;
+  overflow-y: hidden;
+  img {
+    width: 100%;
+  }
+  @include medium-up {
+    .entry-title {
+      position: absolute;
+      bottom: 1.5em;
+      background: $accent-color;
+      color: white;
+      left: 0;
+      padding: .75em 1.5em;
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
+/********************
+  JUSTYN CUSTOM CSS
+********************/

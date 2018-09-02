@@ -1,5 +1,4 @@
-{% for post in site.posts limit: 8 %}
-<a class="blog-item" href="{{ post.url }}">
+<a class="entry-item" href="{{ post.url }}">
   <figure>
     <div class="three-two">
       <img src="{{ post.feature-image_path }}" alt="{{post.title}}">
@@ -10,4 +9,3 @@
     </figcaption>
   </figure>
 </a>
-{% endfor %}

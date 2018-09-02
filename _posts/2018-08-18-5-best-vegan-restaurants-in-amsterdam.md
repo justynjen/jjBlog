@@ -2,6 +2,7 @@
 layout: posts
 date: 2018-08-18 14:00:00
 feature-image_path: /uploads/img-20180813-220042-908-1.jpg
+pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: 5 Best Vegan Restaurants in Amsterdam
 Author: Justyn
 tags:

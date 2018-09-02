@@ -1,0 +1,24 @@
+<aside class="sidebar">
+  <section class="sidebar-intro">
+    <img src="https://d1qmdf3vop2l07.cloudfront.net/real-slipper.cloudvent.net/compressed/982f8f29f526cf3db3f2b23df746ae59.jpg" alt="Justyn Jen">
+    <h5>I'm Justyn</h5>
+    <p>I’m a freelancer with a passion for writing, taking photos and helping others live their best life. I share personal travel stories as well as tips for finding the best wifi, cafes and working spaces around the world. I have been traveling for just about 3 years now and have been lucky enough to fund my traveling through working remote.</p>
+  </section>
+
+  <section class="sidebar-pinterest">
+    <h5>Pin this Post</h5>
+    <img src="{{ page.pinterest-image_path}}" alt="{{ post.title }}">
+  </section>
+
+  <section class="sidebar-entries">
+    <h5>Latest Posts</h5>
+    {% for post in site.posts limit:3 %}
+      {% include entry-item.html %}
+    {% endfor %}
+  </section>
+
+  <section class="sidebar-mailing-list">
+    <h5>Subscribe</h5>
+    {% include mailing-list.html %}
+  </section>
+</aside>

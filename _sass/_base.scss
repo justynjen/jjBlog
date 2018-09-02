@@ -10,7 +10,7 @@ $base-line-height                      : 1.5;
 $small-font-size                       : 0.9em;
 
 // Sizes
-$max-content-width                     : 1200px;
+$max-content-width                     : 1180px;
 $block-grid-padding                    : 0px;
 $tablet-width                          : 40em;
 $desktop-width                         : 64em;
@@ -31,7 +31,6 @@ $heading-color                         : $black;
 $accent-color                          : $turquoise;
 $input-bg-color                        : $white;
 $input-text-color                      : $black;
-$input-border-color                    : rgba(0,0,0,.1);
 
 // Navigation
 $navigation-background-color           : $white;
@@ -172,9 +171,9 @@ input, textarea, select {
   margin-bottom: 1em;
   background: $input-bg-color;
   color: $input-text-color;
-  border: 1px solid $input-border-color;
   padding: 1.2em;
   transition: all $ts;
+  border: 0;
 }
 
 textarea {
@@ -207,7 +206,7 @@ dl, dt, dd {
   background: $accent-color;
   color: white;
   border: 1px solid transparent;
-  padding: 1.2em 3em;
+  padding: 1em 3em;
   text-align: center;
   cursor: pointer;
   border-radius: 0;
@@ -394,12 +393,10 @@ h3 {
 
 h4 {
   font-size: 1.25em;
-	margin-bottom: 1.5em;
 }
 
 h5 {
   font-size: 1em;
-  margin-bottom: 0;
 }
 
 h6 {

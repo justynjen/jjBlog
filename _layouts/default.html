@@ -87,12 +87,12 @@
 	<![endif]-->
 </head>
 
-<body>
+<body{% if page.slug %} class="{{ page.layout }}"{% endif %}>
 	<header class="site-header">
 		<a class="nav-trigger hide-for-large">Menu <span></span></a>
 		<div class="main-nav">
 			<div class="row column">
-				<a class="logo" href="{{site.url}}">Justyn Jen</a>
+				<a class="logo" href="/">Justyn Jen</a>
 
 				<nav class="desktop-nav right show-for-large">
 					{% include main-nav.html %}
@@ -130,7 +130,7 @@
 		<div class="footer-content">
 			<div class="row column">
 				{% include social-icons.html %}
-				<img src="assets/img/map.png" alt="World Map">
+				<img src="/assets/img/map.png" alt="World Map">
 			</div>
 		</div>
 

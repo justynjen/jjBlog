@@ -1,10 +1,3 @@
-// window.onload = function() {
-//   $('#loading').fadeOut(250, function() {
-//     $(this).remove();
-//   });
-// };
-
-
 $(document).ready(function(){
   // --------------------------------------------------
   // Mobile Nav
@@ -73,76 +66,15 @@ $(document).ready(function(){
 
 
 
-  $('p').each(function() {
+  $('p, h3').each(function() {
     var $this = $(this);
     if ($this.html().replace(/\s|&nbsp;/g, '').length == 0)
       $this.remove();
   });
 
-
-
-  // --------------------------------------------------
-  // Is On Screen
-  // --------------------------------------------------
-
-  var winScrollTop=0;
-
-  $.fn.is_on_screen = function(){
-      var win = $(window);
-      var viewport = {
-          top : win.scrollTop(),
-          left : win.scrollLeft()
-      };
-      //viewport.right = viewport.left + win.width();
-      viewport.bottom = viewport.top + win.height();
-      var bounds = this.offset();
-      //bounds.right = bounds.left + this.outerWidth();
-      bounds.bottom = bounds.top + this.outerHeight();
-      return (!(viewport.bottom < bounds.top || viewport.top > bounds.bottom));
-  };
-
-
-
-  // --------------------------------------------------
-  // Parallax
-  // --------------------------------------------------
-  function parallax() {
-    var scrolled = $(window).scrollTop();
-    $('.parallax').each(function() {
-      var speed = $(this).attr('data-speed');
-      var firstTop = $(this).offset().top;
-      var moveTop = (firstTop-winScrollTop)*0.5;
-
-      if ($(this).is('#intro.parallax')) {
-        // $(this).css('background-position-y',(0+(scrolled*speed))+'px');
-        $(this).css('background-position-y','calc(100% + '+(0+(scrolled*speed))+'px)');
-      }
-
-      else {
-        $(this).css('background-position-y',(0-(moveTop*speed))+'px');
-        // $(this).css('transform','translateY('+(0+(scrolled*speed))+'px)');
-      }
-    });
-  }
-
-  $(window).scroll(function(){
-    winScrollTop = $(this).scrollTop();
-    parallax();
+  $("p:has(img)").before(function() { // or use .after()
+    return $(this).find("img");
   });
 
-
-
-
-
-  jQuery(document).ready(function(){
-    $(window).scroll(function(e){
-    	parallaxScroll();
-  	});
-
-  	function parallaxScroll(){
-  		var scrolled = $(window).scrollTop();
-      $('#bg').css('transform','translateY('+(0+(scrolled*.1))+'px)');
-  	}
-
-   });
+  $("p:empty").remove();
 });

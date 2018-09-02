@@ -1,0 +1,35 @@
+---
+layout: default
+title: Blog | Justyn Jen
+---
+
+<div class="row align-justify">
+  <div class="small-12 medium-8 columns">
+    <h1 class="section-heading turquoise">Read the Blog</h1>
+    {% for post in site.posts %}
+      <article class="blog-entry">
+        <div class="row">
+          <div class="small-12 large-6 columns">
+            <a class="blog-entry-image" href="{{ post.url }}">
+              <figure class="three-two">
+                <img src="{{ post.feature-image_path }}" alt="{{ post.title }}">
+              </figure>
+            </a>
+          </div>
+
+          <div class="small-12 large-6 columns">
+            <div class="blog-entry-content">
+              <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+              <p>{{ post.excerpt | truncatewords: 60 | strip_html }}</p>
+              <a class="read-more" href="{{ post.url }}">Read More &rsaquo;</a>
+            </div>
+          </div>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+
+  <div class="small-12 medium-4 columns">
+    {% include sidebar.html %}
+  </div>
+</div>
