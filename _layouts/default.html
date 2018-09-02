@@ -7,7 +7,8 @@
 	<title>{{page.title}}</title>
 
 	<!-- Assets -->
-	<link href="assets/css/main.css" rel="stylesheet">
+	<link href="/assets/css/main.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css" />
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/brands.css" integrity="sha384-rf1bqOAj3+pw6NqYrtaE1/4Se2NBwkIfeYbsFdtiR6TQz0acWiwJbv1IM/Nt/ite" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/fontawesome.css" integrity="sha384-1rquJLNOM3ijoueaaeS5m+McXPJCGdr5HcA03/VHXxcp2kX2sUrQDmFc3jR5i/C7" crossorigin="anonymous">
 	<link href="assets/img/favicon.png" rel="shortcut icon" type="image/png"/>
@@ -88,7 +89,22 @@
 
 <body>
 	<header class="site-header">
+		<a class="nav-trigger hide-for-large">Menu <span></span></a>
+		<div class="main-nav">
+			<div class="row column">
+				<a class="logo" href="{{site.url}}">Justyn Jen</a>
 
+				<nav class="desktop-nav right show-for-large">
+					{% include main-nav.html %}
+				</nav>
+			</div>
+		</div>
+
+		<nav class="mobile-nav">
+			<div class="absolute-center">
+				{% include main-nav.html %}
+			</div>
+		</nav>
 	</header>
 
 	<main role="main">
@@ -124,6 +140,8 @@
 	</footer>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
+	<script src="/assets/js/app.js"></script>
 	<script src="/instashow/elfsight-instagram-feed.js"></script>
 	<script src="//assets.pinterest.com/js/pinit.js" async defer></script>
 
