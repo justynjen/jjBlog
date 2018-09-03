@@ -62,7 +62,7 @@
 h5, .h5 {
   font-family: $body-font;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.025em;
   margin-bottom: 1.5em;
 }
 
@@ -264,6 +264,7 @@ h5, .h5 {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  margin-top: -1.5em;
   h1 {
     @extend .highlighter;
     font-family: $alt-font;
@@ -271,6 +272,9 @@ h5, .h5 {
     &:after {
       transform: translate(-47%, -50%) scaleX(1.2);
     }
+  }
+  @include medium-up {
+    margin-top: -3em;
   }
 }
 
@@ -351,17 +355,20 @@ h5, .h5 {
   img {
     min-height: 100%;
   }
+  h3:hover {
+    color: $accent-color;
+  }
   .read-more {
     @extend .h5;
     display: block;
     margin-top: 1.5em;
     padding-bottom: 10px;
-    color: $accent-color;
     border-bottom: 1px solid $accent-color;
     transition: all .25s;
     &:hover {
       color: $main-text-color;
       padding-left: 5px;
+      border-color: $main-text-color;
     }
   }
   @include large-up {
@@ -422,8 +429,8 @@ main {
 }
 
 .entry-title {
-  font-size: 1.25em;
-  margin: 1.5em 0 0;
+  font-size: 1.5em;
+  margin: 0 0 1em;
   @include medium-up {
     font-size: 1.5em;
     margin: 0;

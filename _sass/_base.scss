@@ -430,7 +430,6 @@ h6 {
     letter-spacing: 0;
     transition: all .2s;
     &:hover {
-      opacity: 0.8;
       box-shadow: none;
     }
   }
@@ -515,6 +514,9 @@ h6 {
   z-index: map-get($zindex, modal);
   &:hover {
     box-shadow: none;
+  }
+  &.fixed {
+    position: fixed;
   }
   span, span::before, span::after {
     position: absolute;
@@ -615,9 +617,9 @@ figure {
   a {
     display: inline-block;
     font-size: 1.25rem;
-    width: 50px;
-    height: 50px;
-    line-height: 50px;
+    width: 48px;
+    height: 48px;
+    line-height: 48px;
     text-align: center;
     border-radius: 50%;
     background: rgba(0,0,0,0.05);

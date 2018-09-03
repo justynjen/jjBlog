@@ -78,3 +78,12 @@ $(document).ready(function(){
 
   $("p:empty").remove();
 });
+
+
+$(window).scroll(function() {
+var scroll = $(window).scrollTop();
+if (scroll >= 50) {
+  $(".nav-trigger").addClass("fixed");
+} else {
+  $(".nav-trigger").removeClass("fixed");
+}
