@@ -77,13 +77,3 @@ And for those of you on the hunt for Stroopwafels that you can enjoy, don’t ge
 
 Alright, now you know where you can find dutch sweets, fries and everything in between.
 {: .present-before-paste}
-
-**Let me know in the comments what your favorite vegan bites were in Amsterdam!**
-{: .present-before-paste}
-
-##### Pin for later!&nbsp;
-
-&nbsp;
-
-![](/uploads/vegan-restaurants-amsterdam-2.png){: .blogPostimage}
-{: .present-before-paste}
