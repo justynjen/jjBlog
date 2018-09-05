@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-04-24 00:00:00
-feature-image_path: /uploads/adult-book-business-297755.jpg
+feature-image_path: /uploads/haute-stock-photography-sand.jpg
 pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: 15 Tools That Every Digital Nomad Should Have
 Author: Justyn
@@ -76,6 +76,6 @@ This eReader is the best for travel because it has those pages that actually loo
 
 This may seem like a lot, but I swear I can’t take a trip without all of this with me. My business just wouldn’t run the same without it. What do you have to have in order to have your digital nomad business run smoothly?
 
-&nbsp;
+ 
 
 > \*\* This post contains affiliate links, which means if you buy anything, I get a portion of the proceeds at no additional cost to you! This simply means that I get to keep doing what I love, thanks to your support. Thanks in advance! \*\*
