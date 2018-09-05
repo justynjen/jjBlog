@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-04-01 00:00:00
-feature-image_path: /uploads/dsc03925.jpg
+feature-image_path: /uploads/east-timor-kids.jpg
 pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: A Girl's Guide to East Timor
 Author: Justyn
