@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-03-31 00:00:00
-feature-image_path: /uploads/dsc07210.jpg
+feature-image_path: /uploads/justynpyramid.jpg
 pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: 10 Things I loved about Egypt
 Author: Justyn
@@ -10,7 +10,7 @@ tags:
   - Israel
   - Middle East
 comments: true
-category: [Travel, Middle East]
+category:
 published: true
 ---
 
