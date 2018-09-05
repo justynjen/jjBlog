@@ -25,8 +25,6 @@ _options:
 
 I didn’t know this, but Maine is a foodie HEAVEN. And I am a total foodie. Luckily for me, there are about 15 coffee shops just on the street I am living on (And no, they are not all Starbucks and Dunkin) I haven’t even been here a week yet but I have already tested them all! I am always looking for the best Wi-Fi, the best coffee and the best vibe for work. So here’s my faves! Organized by time of day you want to head over.
 
-![](/uploads/2018-04-23-08-08-33-1.png)
-
 #### #1 Where I start every day is called Yordprom.
 
 This place is where I start everyday because they have killer Wi-Fi and amazing Vietnamese Coffee. I start my days there because I usually can’t make it any further up the road without coffee in the mornings lol.
@@ -57,8 +55,6 @@ This place looks tiny but has plenty of seating on the inside. They participate 
 
 The Speckled Ax is awesome! Except for the fact that they have no Wi-Fi. KIND OF A BUMMER GUYS. But they do have awesome drinks, really cool staff and a nice vibe. Overall I was very impressed, but as a person that needs to work, I wouldn’t be able to go back.
 
-![](/uploads/2018-04-23-08-07-32-1.png)
-
 #### #6 Bard Coffee
 
 They have great coffee for a really great price and they also have two high speed wi-fi networks that you can jump on and use. The staff at Bard is extremely friendly and happy to have you sit and work all day, no matter how busy they get. I loved it at Bard! A big plus, they also have Italian Sodas that looks amazing.
@@ -67,11 +63,9 @@ They have great coffee for a really great price and they also have two high spee
 
 ##### ![](/uploads/dsc07704.png)
 
-#####  
+##### &nbsp;
 
 ##### Now for the evenings - because all these awesome coffee shops close at like 5pm!
-
- 
 
 #### #7 B.Good
 
