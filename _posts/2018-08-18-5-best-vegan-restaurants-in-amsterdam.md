@@ -38,7 +38,7 @@ Just make sure that you make a reservation. It was very busy. There menu is 100%
 
 &nbsp;
 
-![](/uploads/vegan-junk-food-bar-amsterdam.png){: .blogPostimage}&nbsp;&nbsp;
+![Photo from the Vegan Junk Food bar in Amsterdam, Netherlands. This location was in De Pijp.](/uploads/vegan-junk-food-bar-amsterdam.png){: .blogPostimage}&nbsp;&nbsp;
 {: .present-before-paste}
 
 I love their loaded fries. I had the loaded Supreme and I loved every bite of it. I also loved their traditional veggie burger but that was all I had the chance to try. I could have eaten everything on the menu it was so good!
