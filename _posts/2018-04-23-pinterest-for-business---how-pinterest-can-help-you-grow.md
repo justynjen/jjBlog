@@ -6,10 +6,10 @@ title: Pinterest For Business - How Pinterest Can Help You Grow
 Author: Justyn
 tags:
   - Work Online
-  - Digital Nomads
   - Pinterest
-comments: true
-category: Digital Nomad
+  - Freelancing
+comments: false
+category: Freelancing
 _options:
   image_path:
     width: 90
