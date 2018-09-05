@@ -32,25 +32,17 @@ First, go ahead and switch to a business account
 
 Then you need to set up the right boards for your business
 
- 
-
 ![](/uploads/screenshot-38-1.png)
-
- 
 
 After that you should sign up for [Tailwindapp](https://www.tailwindapp.com/i/justynjen) and use it to your advantage! I usually am pinning at least 20-25 times a day!
 
- 
-
 ![](/uploads/screenshot-40.png){: srcset="/uploads/screenshot-40.png 504w, /uploads/screenshot-40@2x.png 1008w"}
-
- 
 
 The next thing to do is just be putting out new pins constantly. Like I said above, I usually put out 20 pins a day at least.
 
 Another important thing to do is create multiple pins for every product and post that you have.
 
-Lastly, make sure that you have analytics setup for your website so that you can track all of your growth. 
+Lastly, make sure that you have analytics setup for your website so that you can track all of your growth.&nbsp;
 
 With all of this, you should see a serious change in your business and Pinterest traffic in just a matter of weeks!
 
@@ -58,6 +50,6 @@ Does that sound a bit overwhelming or you just don’t know where to start? That
 
 ![](/uploads/screenshot-41.png){: srcset="/uploads/screenshot-41.png 1009w, /uploads/screenshot-41@2x.png 2018w"}
 
-I have worked out a strategy on how to target and direct that growth in the shortest amount of time. If you would like to learn more about it, you can book a [FREE 15 minute consultation](https://calendly.com/justyngourdin/15-minute-consult) with me and I will take a look at your accounts and let you know how I can help you make magic for your business through Pinterest. 
+I have worked out a strategy on how to target and direct that growth in the shortest amount of time. If you would like to learn more about it, you can book a [FREE 15 minute consultation](https://calendly.com/justyngourdin/15-minute-consult) with me and I will take a look at your accounts and let you know how I can help you make magic for your business through Pinterest.&nbsp;
 
 Also - get $15 free for your Tailwind account by signing up [here!](https://www.tailwindapp.com/i/justynjen)
