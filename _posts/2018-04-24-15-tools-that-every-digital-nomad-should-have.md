@@ -6,10 +6,8 @@ title: 15 Tools That Every Digital Nomad Should Have
 Author: Justyn
 tags:
   - Work Online
-  - Digital Nomads
-  - Pinterest
-comments: true
-category: Digital Nomad
+comments: false
+category: Freelancing
 _options:
   image_path:
     width: 90
@@ -28,21 +26,15 @@ Being a digital nomad requires that you have a few essential things with you all
 
 #### HP Spectre Laptop.
 
-This Laptop is amazing. I cannot speak highly of it. It’s light weight and extremely powerful. It has an incredible 4k touch screen that I use for Digital Illustration. The screen has 4k resolution and this computer is a winner when it comes to multitasking.
-
-[![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=US&amp;ASIN=B076QQRWZF&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=_SL160_&amp;tag=justynjen07-20)](https://www.amazon.com/gp/product/B076QQRWZF/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B076QQRWZF&amp;linkCode=as2&amp;tag=justynjen07-20&amp;linkId=5e37456efd9b9e13bb01c8f73e81d2d8)![](//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&amp;l=am2&amp;o=1&amp;a=B076QQRWZF)
+This Laptop is amazing. I cannot speak highly of it. It’s light weight and extremely powerful. It has an incredible 4k touch screen that I use for Digital Illustration. The screen has 4k resolution and this computer is a winner when it comes to multitasking.![](//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&amp;l=am2&amp;o=1&amp;a=B076QQRWZF)
 
 #### The Surface Arc Mouse.
 
-This mouse folds up to be basically flat. I love it. The battery life lasts forever and it folds right down to fit into my computer bag. I love having a mouse on hand.
-
-[![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=US&amp;ASIN=B00FG7MZP0&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=_SL160_&amp;tag=justynjen07-20)](https://www.amazon.com/gp/product/B00FG7MZP0/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00FG7MZP0&amp;linkCode=as2&amp;tag=justynjen07-20&amp;linkId=4328e332ee86100cd780d166ba3c0085)![](//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&amp;l=am2&amp;o=1&amp;a=B00FG7MZP0)
+This mouse folds up to be basically flat. I love it. The battery life lasts forever and it folds right down to fit into my computer bag. I love having a mouse on hand.![](//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&amp;l=am2&amp;o=1&amp;a=B00FG7MZP0)
 
 #### The Surface Pro Pen.
 
 I promise I don’t even have a surface, I just LOVE their products for touch screen computers and travel. This pen is amazing. It takes my design work to the next levels, and allows me to make personal notes of my portfolio to point out to people exactly what I want them to see. (Certain computers do come with their own pen, but it your doesn’t, check this out!) Another GREAT option is the [Wacom Bamboo Ink Smart Stylus Black Active Touch Pen Stylus for Windows 10 Touchscreen Input Devices Surface Pro - CS321AK](https://www.amazon.com/gp/product/B076VQB8DQ/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B076VQB8DQ&amp;linkCode=as2&amp;tag=justynjen07-20&amp;linkId=d6ac9b298f38926af03de3c1acbb7af3)![](//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&amp;l=am2&amp;o=1&amp;a=B076VQB8DQ)
-
-[![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=US&amp;ASIN=B072K5TXGT&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=_SL160_&amp;tag=justynjen07-20)](https://www.amazon.com/gp/product/B072K5TXGT/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B072K5TXGT&amp;linkCode=as2&amp;tag=justynjen07-20&amp;linkId=ecb06f61ca9728dbcd8eab518c2217d7)![](//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&amp;l=am2&amp;o=1&amp;a=B072K5TXGT)
 
 #### Battery pack.
 
@@ -56,8 +48,6 @@ What better way to stay organized then with a power cord organizer?! This way yo
 
 I really cannot recommend enough that you grab one of these before taking off on your next trip. Let me just tell you a quick horror story about foreign plugs and power. THEY ARENT GREAT. I spent about 7 months living in Bali and during that time I had two friends gopros break and my LAPTOP BROKE. The power in Bali blew my motherboard. That’s right. It fried my computer. And you know why? Because I used some cheapo plug that I bought for a dollar. And like I said, I had multiple friends blow their gopros and have them just stop charging. Not to mention phones blowing and more. The power in the country was wack and now I always travel with a high tech power converter to make sure that NEVER happens to me again. Check this one out, it does a great job and I always feel much safer using it. Don’t risk it guys! This is a lot cheaper than replacing all your nice electronics when they blow out.
 
-[![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=US&amp;ASIN=B01E140XWA&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=_SL160_&amp;tag=justynjen07-20)](https://www.amazon.com/gp/product/B01E140XWA/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B01E140XWA&amp;linkCode=as2&amp;tag=justynjen07-20&amp;linkId=1a291f2776b3a38ad3181324416f7ed1)![](//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&amp;l=am2&amp;o=1&amp;a=B01E140XWA)
-
 #### [Roost Laptop Stand ](https://www.amazon.com/gp/product/B01C9KG8IG/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B01C9KG8IG&amp;linkCode=as2&amp;tag=justynjen07-20&amp;linkId=cf2811f73502d76c252843e988fcb71a)![](//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&amp;l=am2&amp;o=1&amp;a=B01C9KG8IG).
 
 This is the best way to save your back when you are always working from your laptop. They always say that it’s best no to be looking down at your screen all day, and this guy folds right up to travel with you! You can easily throw it in your laptop bag and head out and about.
@@ -65,8 +55,6 @@ This is the best way to save your back when you are always working from your lap
 #### Travel Microphone.
 
 Now a travel microphone might not be for everyone, but I really think that it comes in handy more than people think it will. This little guy folds right up to fit basically anywhere. Pull him out to record podcasts, interviews, webinars, online classes and more. Never be hard to hear again! This will change everything for you. Plus I really think it just looks so cute.
-
-[![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=US&amp;ASIN=B00FQE337M&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=_SL160_&amp;tag=justynjen07-20)](https://www.amazon.com/gp/product/B00FQE337M/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00FQE337M&amp;linkCode=as2&amp;tag=justynjen07-20&amp;linkId=ee1f666af47df117aa56f85df16ac306)![](//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&amp;l=am2&amp;o=1&amp;a=B00FQE337M)
 
 #### [Yuntec Wireless Headphones](https://www.amazon.com/gp/product/B07C19HBSC/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B07C19HBSC&amp;linkCode=as2&amp;tag=justynjen07-20&amp;linkId=07d2451d104b19d2809f6a25bbc677d3)![](//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&amp;l=am2&amp;o=1&amp;a=B07C19HBSC).
 
