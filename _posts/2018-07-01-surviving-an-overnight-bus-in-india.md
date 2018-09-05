@@ -27,8 +27,6 @@ We made one stop on the journey and everyone was sick. I was basically dying. I 
 
 That’s why I have decided to share with you everything you need to be more prepared than I was for those treacherous overnight buses in India.
 
-&nbsp;
-
 #### What to pack for an overnight bus in India
 
 1. Plenty on Motion Sickness medicine. I mean PLENTLY. Like basically pack enough for the entire bus full of people and then just hand it out to them as they get on.
@@ -52,12 +50,4 @@ Here’s just a few things to have done before you get on the bus!
 
 Those are my best tips for surviving those long haul overnight buses through India! I hope that you can learn from my mistakes and have a much more pleasant experience!
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/img-0377-1.png "Photo by http://birdwinks.com"){: srcset="/uploads/img-0377-1.png 321w, /uploads/img-0377-1@2x.png 642w"}
-
-##### &nbsp;
-
-##### Pin this for later!
-
-##### &nbsp;
-
-![](/uploads/overnight-bus-india-3.png){: srcset="/uploads/overnight-bus-india-3.png 364w, /uploads/overnight-bus-india-3@2x.png 728w"}&nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/img-0377-1.png "Photo by http://birdwinks.com"){: srcset="/uploads/img-0377-1.png 321w, /uploads/img-0377-1@2x.png 642w"}&nbsp; &nbsp;
