@@ -26,7 +26,7 @@ Eating just might be my favorite thing in the world to do. This being said, I lo
 &nbsp;
 {: .present-before-paste}
 
-#### The Meatless District -
+#### The Meatless District&nbsp;
 
 &nbsp;
 {: .present-before-paste}
