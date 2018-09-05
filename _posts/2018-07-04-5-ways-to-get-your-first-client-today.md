@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-07-04 14:00:00
-feature-image_path: /uploads/haute-chocolate-styled-stock-photography.jpg
+feature-image_path: /uploads/haute-chocolate-styled-stock-photography-black-white.jpg
 pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: 5 Ways to Get Your First Client Today!
 Author: Justyn
