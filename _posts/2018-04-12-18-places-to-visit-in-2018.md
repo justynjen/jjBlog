@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-04-12 00:00:00
-feature-image_path: /uploads/desert-2435404-1920-1.jpg
+feature-image_path: /uploads/dessert.jpg
 pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: 18 Places to Visit in 2018
 Author: Justyn
@@ -29,7 +29,7 @@ I have wanted to go to Cambodia for a long time. It was actually part of my plan
 
 #### New Zealand.
 
-&nbsp;Mountains, fresh air and kiwi’s. Why wouldn’t I want to go? I have always heard the best things about New Zealand and I really hope that this year I can make it to this stunning country.
+ Mountains, fresh air and kiwi’s. Why wouldn’t I want to go? I have always heard the best things about New Zealand and I really hope that this year I can make it to this stunning country.
 
 ![](/uploads/new-zealand-679068-1920.jpg)
 
