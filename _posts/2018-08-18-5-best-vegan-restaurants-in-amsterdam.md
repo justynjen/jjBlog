@@ -18,7 +18,7 @@ Eating just might be my favorite thing in the world to do. This being said, I lo
 
 However, more and more cities have their favorites popping up in some of the tastiest vegan versions ever. I’ve made it my mission to find those restaurants and basically eat the entire menu before leaving the city. Check out what my 5 favorite vegan restaurants in Amsterdam were!
 
-##### Here’s my favorites:
+##### **Here’s my favorites:**
 
 #### The Meatless District&nbsp;
 
