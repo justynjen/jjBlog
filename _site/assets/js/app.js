@@ -87,3 +87,4 @@ if (scroll >= 50) {
 } else {
   $(".nav-trigger").removeClass("fixed");
 }
+});
