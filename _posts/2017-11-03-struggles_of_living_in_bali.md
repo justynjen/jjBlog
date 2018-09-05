@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-03-24 00:00:00
-feature-image_path: /img/bali/volcano.jpg
+feature-image_path: /img/volcano.jpg
 pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: Living Abroad in Bali - The Struggle Edition
 Author: Justyn
