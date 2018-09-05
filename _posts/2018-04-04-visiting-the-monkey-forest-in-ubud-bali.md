@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-04-04 00:00:00
-feature-image_path: /uploads/barbary-ape-2882769-1280.jpg
+feature-image_path: /uploads/monkey-forest-bali.jpg
 pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: 'Visiting the Monkey Forest in Ubud, Bali'
 Author: Justyn
@@ -10,7 +10,7 @@ tags:
   - Work Online
   - Digital Nomads
 comments: true
-category: [Travel, Bali]
+category:
 published: true
 ---
 
