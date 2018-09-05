@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-04-28 00:00:00
-feature-image_path: /uploads/dsc07055-3.jpg
+feature-image_path: /uploads/dsc07011%402x.png
 pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: How I Spent The Weekend In Nazareth
 Author: Justyn
