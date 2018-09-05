@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-04-23 00:00:00
-feature-image_path: /uploads/dsc07691.jpg
+feature-image_path: /uploads/bard-coffee-wall.jpg
 title: 'The 8 BEST Places to Eat and Work From in Portland, Maine'
 pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 Author: Justyn
@@ -53,7 +53,7 @@ They have great coffee for a really great price and they also have two high spee
 
 ##### ![](/uploads/dsc07704.png)
 
-##### &nbsp;
+#####  
 
 ##### Now for the evenings - because all these awesome coffee shops close at like 5pm!
 
