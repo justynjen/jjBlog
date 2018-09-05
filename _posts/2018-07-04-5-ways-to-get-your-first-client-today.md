@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-07-04 14:00:00
-feature-image_path: /uploads/haute-stock-photography-sand-final-6.jpg
+feature-image_path: /uploads/haute-chocolate-styled-stock-photography.jpg
 pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: 5 Ways to Get Your First Client Today!
 Author: Justyn
@@ -18,7 +18,7 @@ Welcome to the wonderful and challenging world of Freelancing. You are now on th
 2. **Guru** - got totally screwed out of $2,000 because my client disappeared and they did nothing to help me.
 3. **Fiverr** - nothing I do is worth $5. NOTHING.
 
-Keep in mind that this style of websites are designed for people with no budget, or for freelancers from overseas to get work. I don't know a single freelancer who feels like they got what their work was worth, from a site like this.&nbsp;
+Keep in mind that this style of websites are designed for people with no budget, or for freelancers from overseas to get work. I don't know a single freelancer who feels like they got what their work was worth, from a site like this. 
 
 So what do you do instead?
 
