@@ -6,23 +6,21 @@ title: 18 Places to Visit in 2018
 Author: Justyn
 tags:
   - '-travel'
-  - Work Online
-  - Digital Nomads
-comments: true
+  - Bucketlist
+comments: false
 category: Travel
 _options:
   image_path:
     width: 90
     height: 120
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
     expandable: true
   content:
     width: 90
     height: 120
-    resize_style: "cover"
-    mime_type: "image/png"
-# other options
+    resize_style: cover
+    mime_type: image/png
 ---
 
 Starting the year off right, I decided to choose 18 places that I wanted to visit in 2018.
@@ -41,7 +39,7 @@ I have wanted to go to Cambodia for a long time. It was actually part of my plan
 
 #### New Zealand.
 
- Mountains, fresh air and kiwi’s. Why wouldn’t I want to go? I have always heard the best things about New Zealand and I really hope that this year I can make it to this stunning country.
+&nbsp;Mountains, fresh air and kiwi’s. Why wouldn’t I want to go? I have always heard the best things about New Zealand and I really hope that this year I can make it to this stunning country.
 
 ![](/uploads/new-zealand-679068-1920.jpg)
 
@@ -84,8 +82,6 @@ Since we are talking about Latvia, I really can’t wait to visit it’s neighbo
 #### Poland.
 
 This is actually Lithuania’s neighbor country but more than just trying to hit more than one country in the area, Poland has an ambiance from WWII about it that I have always wanted to explore. You know how much I love history so this place will be awesome. It also has great prices compared to the rest of Europe, so it's a great place to hit if you have a tighter budget.
-
-![](blob:https://app.cloudcannon.com/62d44b7d-2242-425d-b7e4-d3376087b0f2)
 
 #### South Korea.
 
