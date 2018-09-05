@@ -2,23 +2,12 @@
 layout: posts
 date: 2018-03-24 00:00:00
 feature-image_path: /img/feb-paper-3.jpg
+pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: Great destinations for love this season.
 Author: Justyn
 comments: true
 category: Travel
-_options:
-  image_path:
-    width: 90
-    height: 120
-    resize_style: "contain"
-    mime_type: "image/jpeg"
-    expandable: true
-  content:
-    width: 90
-    height: 120
-    resize_style: "cover"
-    mime_type: "image/png"
-# other options
+published: true
 ---
 
 Are you thinking you still need to spice things up more and make all of February your time for love? Then read this, take notes and book a trip for you and your special someone ASAP!
