@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-07-01 14:00:00
-feature-image_path: /uploads/pexels-photo-744802.jpeg
+feature-image_path: /uploads/india-overnight-bus.jpeg
 pinterest-image_path: /uploads/overnight-bus-india.png
 title: Surviving an Overnight Bus in India
 Author: Justyn
@@ -52,5 +52,4 @@ Here’s just a few things to have done before you get on the bus!
 
 Those are my best tips for surviving those long haul overnight buses through India! I hope that you can learn from my mistakes and have a much more pleasant experience!
 
-<<<<<<< HEAD
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/img-0377-1.png "Photo by http://birdwinks.com"){: srcset="/uploads/img-0377-1.png 321w, /uploads/img-0377-1@2x.png 642w"}
+«««&lt; HEAD                                  ![](/uploads/img-0377-1.png "Photo by http://birdwinks.com"){: srcset="/uploads/img-0377-1.png 321w, /uploads/img-0377-1@2x.png 642w"}
