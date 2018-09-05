@@ -1,2 +1,38 @@
 sass:
     style: compressed
+
+categories:
+  - Travel
+  - Freelancing
+  - Expat
+  - Work
+  - Countries
+  - Cities
+  - Blogging
+  - Bali
+  - Middle East
+
+gems:
+  - jekyll-archives
+
+
+jekyll-archives:
+  enabled: all
+  layout: 'archive'
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "default"
+
+
+permalink: /:title/

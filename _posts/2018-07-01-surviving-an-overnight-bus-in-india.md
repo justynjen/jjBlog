@@ -2,6 +2,7 @@
 layout: posts
 date: 2018-07-01 14:00:00
 feature-image_path: /uploads/pexels-photo-744802.jpeg
+pinterest-image_path: /uploads/overnight-bus-india.png
 title: Surviving an Overnight Bus in India
 Author: Justyn
 tags:
