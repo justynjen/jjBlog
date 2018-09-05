@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-04-23 00:00:00
-feature-image_path: /uploads/haute-stock-photography-muted-citrus-collection-final-24.jpg
+feature-image_path: /uploads/black-coffee-blur-cup-and-saucer.jpg
 pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: Pinterest For Business - How Pinterest Can Help You Grow
 Author: Justyn
@@ -32,7 +32,7 @@ The next thing to do is just be putting out new pins constantly. Like I said abo
 
 Another important thing to do is create multiple pins for every product and post that you have.
 
-Lastly, make sure that you have analytics setup for your website so that you can track all of your growth.&nbsp;
+Lastly, make sure that you have analytics setup for your website so that you can track all of your growth. 
 
 With all of this, you should see a serious change in your business and Pinterest traffic in just a matter of weeks!
 
@@ -40,6 +40,6 @@ Does that sound a bit overwhelming or you just don’t know where to start? That
 
 ![](/uploads/screenshot-41.png){: srcset="/uploads/screenshot-41.png 1009w, /uploads/screenshot-41@2x.png 2018w"}
 
-I have worked out a strategy on how to target and direct that growth in the shortest amount of time. If you would like to learn more about it, you can book a [FREE 15 minute consultation](https://calendly.com/justyngourdin/15-minute-consult) with me and I will take a look at your accounts and let you know how I can help you make magic for your business through Pinterest.&nbsp;
+I have worked out a strategy on how to target and direct that growth in the shortest amount of time. If you would like to learn more about it, you can book a [FREE 15 minute consultation](https://calendly.com/justyngourdin/15-minute-consult) with me and I will take a look at your accounts and let you know how I can help you make magic for your business through Pinterest. 
 
 Also - get $15 free for your Tailwind account by signing up [here!](https://www.tailwindapp.com/i/justynjen)
