@@ -8,7 +8,7 @@ tags:
   - '-travel'
   - Work Online
   - Digital Nomads
-comments: true
+comments: false
 ---
 
 I am starting a new feature on my blog called Women Crush Wednesday where once a month I am going to feature boss babes that are killing the online world. I want to feature entrepreneurs that are kicking ass out there in the world. This week I am featuring Taylor Lane, Founder of Remote Like Me. 
