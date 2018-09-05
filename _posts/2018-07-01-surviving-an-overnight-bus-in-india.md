@@ -53,14 +53,3 @@ Those are my best tips for surviving those long haul overnight buses through Ind
 
 <<<<<<< HEAD
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/img-0377-1.png "Photo by http://birdwinks.com"){: srcset="/uploads/img-0377-1.png 321w, /uploads/img-0377-1@2x.png 642w"}
-
-##### &nbsp;
-
-##### Pin this for later!
-
-##### &nbsp;
-
-![](/uploads/overnight-bus-india-3.png){: srcset="/uploads/overnight-bus-india-3.png 364w, /uploads/overnight-bus-india-3@2x.png 728w"}&nbsp; &nbsp;
-=======
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/img-0377-1.png "Photo by http://birdwinks.com"){: srcset="/uploads/img-0377-1.png 321w, /uploads/img-0377-1@2x.png 642w"}&nbsp; &nbsp;
->>>>>>> 2e861ac466c9994af73885ba0045f7d68e0ea546
