@@ -2,27 +2,16 @@
 layout: posts
 date: 2018-04-11 00:00:00
 feature-image_path: /uploads/haute-stock-photography-relax-collection-final-5.jpg
+pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: 9 Kick Ass Books to Jump Start Yourself
 Author: Justyn
 tags:
-  - '-travel'
+  - Travel
   - Work Online
   - Digital Nomads
 comments: true
 category: Digital Nomad
-_options:
-  image_path:
-    width: 90
-    height: 120
-    resize_style: "contain"
-    mime_type: "image/jpeg"
-    expandable: true
-  content:
-    width: 90
-    height: 120
-    resize_style: "cover"
-    mime_type: "image/png"
-# other options
+published: true
 ---
 
 The first thing that you should know about me is that I LOVE to read. I was that nerd that read under the covers every night thinking that my mom just wouldn't notice. I just wanted to share my favorite books with you that are totally going to change your life. I know they changed mine!

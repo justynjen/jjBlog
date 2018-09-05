@@ -1,7 +1,8 @@
 ---
 layout: posts
-date: 2017-11-02
+date: 2018-08-18 14:00:00
 feature-image_path: /img/bali/rice2.jpg
+pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: The Best Things About Living in Bali
 Author: Justyn
 tags:
@@ -9,19 +10,8 @@ tags:
   -bali
 comments: true
 category: [Travel, Bali]
-_options:
-  image_path:
-    width: 90
-    height: 120
-    resize_style: "contain"
-    mime_type: "image/jpeg"
-    expandable: true
-  content:
-    width: 90
-    height: 120
-    resize_style: "cover"
-    mime_type: "image/png"
-# other options
+published: true
+
 ---
 So I know, you may have freaked out a little bit by that post “The Struggles of moving to Bali”, but hey it’s a hard life. Not that hard however, which is why I want to write about all the best things that Bali has to offer.
 

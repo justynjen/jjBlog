@@ -2,13 +2,16 @@
 layout: posts
 date: 2018-04-25 00:00:00
 feature-image_path: /uploads/28871131-1866216556735452-5076665498350038270-n.jpg
+pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: 'WCW: Taylor, Founder of Remote Like Me'
 Author: Justyn
 tags:
-  - '-travel'
+  - travel
   - Work Online
   - Digital Nomads
+  - Freelancing
 comments: false
+published: true
 ---
 
 I am starting a new feature on my blog called Women Crush Wednesday where once a month I am going to feature boss babes that are killing the online world. I want to feature entrepreneurs that are kicking ass out there in the world. This week I am featuring Taylor Lane, Founder of Remote Like Me. 

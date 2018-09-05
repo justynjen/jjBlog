@@ -2,6 +2,7 @@
 layout: posts
 date: 2018-03-29 00:00:00
 feature-image_path: /uploads/haute-stock-photography-pink-mint-marble-final-15.jpg
+pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: 7 Ted Talks Everyone Should Listen Too
 Author: Justyn
 tags:
@@ -10,19 +11,7 @@ tags:
   - Self Improvement
 comments: true
 category: Digital Nomad
-_options:
-  image_path:
-    width: 90
-    height: 120
-    resize_style: "contain"
-    mime_type: "image/jpeg"
-    expandable: true
-  content:
-    width: 90
-    height: 120
-    resize_style: "cover"
-    mime_type: "image/png"
-# other options
+published: true
 ---
 
 I decided to share with you a few of my favorite tedtalks! I really think that these are something that everyone can benefit from.&nbsp;

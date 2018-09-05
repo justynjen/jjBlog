@@ -2,11 +2,13 @@
 layout: posts
 date: 2018-04-28 00:00:00
 feature-image_path: /uploads/dsc07055-3.jpg
+pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: How I Spent The Weekend In Nazareth
 Author: Justyn
 tags:
-  - '-travel'
+  - travel
 comments: true
+published: true
 ---
 
 After spending some time in Tel Aviv and Jerusalem I decided to take the bus over to Nazareth for a few days. This also helped me get to Amman because there is a bus that goes directly from Nazareth to Amman every other day.

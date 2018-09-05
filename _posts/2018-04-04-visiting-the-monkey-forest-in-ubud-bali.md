@@ -2,27 +2,16 @@
 layout: posts
 date: 2018-04-04 00:00:00
 feature-image_path: /uploads/barbary-ape-2882769-1280.jpg
+pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: 'Visiting the Monkey Forest in Ubud, Bali'
 Author: Justyn
 tags:
-  - '-travel'
+  - Travel
   - Work Online
   - Digital Nomads
 comments: true
 category: [Travel, Bali]
-_options:
-  image_path:
-    width: 90
-    height: 120
-    resize_style: "contain"
-    mime_type: "image/jpeg"
-    expandable: true
-  content:
-    width: 90
-    height: 120
-    resize_style: "cover"
-    mime_type: "image/png"
-# other options
+published: true
 ---
 
 Step back in time, into a Wizard of Oz fairy tale of lions, tigers and monkeys oh my! Good for more than just monkeys, the monkey forest is huge and beautiful. You wander through twists and turns of vine covered trees and hanging bridges, with monkeys swinging around, their babies clinging tight to them.

@@ -2,27 +2,16 @@
 layout: posts
 date: 2018-03-26 00:00:00
 feature-image_path: /uploads/dsc07055.jpg
+pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: 10 Things I love about Israel
 Author: Justyn
 tags:
-  - '-travel'
+  - Travel
   - Israel
   - Middle East
 comments: true
 category: [Travel, Middle East]
-_options:
-  image_path:
-    width: 90
-    height: 120
-    resize_style: "contain"
-    mime_type: "image/jpeg"
-    expandable: true
-  content:
-    width: 90
-    height: 120
-    resize_style: "cover"
-    mime_type: "image/png"
-# other options
+published: true
 ---
 
 Everyone keeps asking what I love about Israel and quite honestly I am not sure that I can even put it into words! But let’s see…

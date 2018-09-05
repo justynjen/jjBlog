@@ -2,25 +2,15 @@
 layout: posts
 date: 2018-04-12 00:00:00
 feature-image_path: /uploads/desert-2435404-1920-1.jpg
+pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: 18 Places to Visit in 2018
 Author: Justyn
 tags:
-  - '-travel'
+  - Travel
   - Bucketlist
 comments: false
 category: Travel
-_options:
-  image_path:
-    width: 90
-    height: 120
-    resize_style: contain
-    mime_type: image/jpeg
-    expandable: true
-  content:
-    width: 90
-    height: 120
-    resize_style: cover
-    mime_type: image/png
+published: true
 ---
 
 Starting the year off right, I decided to choose 18 places that I wanted to visit in 2018.

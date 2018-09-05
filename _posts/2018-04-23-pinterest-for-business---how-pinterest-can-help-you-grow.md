@@ -2,6 +2,7 @@
 layout: posts
 date: 2018-04-23 00:00:00
 feature-image_path: /uploads/haute-stock-photography-muted-citrus-collection-final-24.jpg
+pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: Pinterest For Business - How Pinterest Can Help You Grow
 Author: Justyn
 tags:
@@ -10,18 +11,7 @@ tags:
   - Freelancing
 comments: false
 category: Freelancing
-_options:
-  image_path:
-    width: 90
-    height: 120
-    resize_style: contain
-    mime_type: image/jpeg
-    expandable: true
-  content:
-    width: 90
-    height: 120
-    resize_style: cover
-    mime_type: image/png
+published: true
 ---
 
 Are you on Pinterest? Chances are, that answer is yes! However, are you using Pinterest to help you grow your business? That answer might be no…<br><br>Your next question for me might be something like, “How can Pinterest help me grow my business? Pinterest is for cooking and weddings and wasting time.” You have never been more wrong.<br><br>Pinterest is one of the most effective ways to send traffic to your website or blog and explode your business. It's about time we take Pinterest out of the social media category and put it in the business tools category.<br><br>Pinterest is the strongest tool to grow blog traffic for sure. Bloggers looking to up their traffic and make money through their affiliates, should be ALL over Pinterest. Another great way for bloggers to make money with Pinterest is to have their products on Pinterest for people to see and buy. I have found that worksheets, downloads and eBooks are great products to sell on Pinterest!<br><br>Does your business have physical products? No worries! Things like home furnishings, scrapbook/journaling supplies, clothes, kitchen wares, art and photos also do well selling on Pinterest. It can actually help you sell everything. You see brands like Target and Nike advertising on Pinterest, so why would you ignore this platform for selling! I've been helping bloggers and small business owners grow their following and drive thousands of people to their websites every month! How am I doing that?

@@ -5,6 +5,7 @@ feature-image_path: /uploads/pexels-photo-744802.jpeg
 pinterest-image_path: /uploads/overnight-bus-india.png
 title: Surviving an Overnight Bus in India
 Author: Justyn
+published: true
 tags:
   - '-travel'
   - India

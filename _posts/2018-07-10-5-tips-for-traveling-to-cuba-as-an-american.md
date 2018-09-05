@@ -2,6 +2,7 @@
 layout: posts
 date: 2018-07-10 14:00:00
 feature-image_path: /uploads/matthew-kane-146076-unsplash.jpg
+pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: 5 Tips for Traveling to Cuba as an American
 Author: Justyn
 tags:
@@ -9,6 +10,7 @@ tags:
   - Cuba
   - Tips for Traveling
 comments: true
+published: true
 ---
 
 When I heard they were opening the border so that I could finally fly into Cuba, I got my mom on board and we planned a trip. I had always wanted to go to Cuba, and it was never an option. It still wasn't the easiest, which is why I have put together this post to help others travel as well! (On their own - there is always the cruise option if you wanted to do that)&nbsp;

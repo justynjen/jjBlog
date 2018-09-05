@@ -1,8 +1,8 @@
 ---
 layout: posts
 date: 2018-04-04 00:00:00
-feature-image_path: >-
-  /uploads/haute-chocolate-styled-stock-photography-black-white-rose-gold-final-24.jpg
+feature-image_path: /uploads/haute-chocolate-styled-stock-photography-black-white-rose-gold-final-24.jpg
+pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: How I Got Started As A Digital Nomad
 Author: Justyn
 tags:
@@ -11,20 +11,7 @@ tags:
   - Digital Nomads
 comments: true
 category: Digital Nomad
-_options:
-  image_path:
-    width: 90
-    height: 120
-    resize_style: "contain"
-    mime_type: "image/jpeg"
-    expandable: true
-  content:
-    width: 90
-    height: 120
-    resize_style: "cover"
-    mime_type: "image/png"
-# other options
-
+published: true
 ---
 
 Do you ever wonder how I travel to amazing places and make spectacular adventures without coming back to the states to work? That is the biggest question I get from almost everyone. They wonder what I do for money, how I do it and how I get to travel all the time while doing it. This post is meant to teach you all my secrets!<br><br>First things first, I do not travel the world for free and I do not travel without working. Surprise! I work full time online while also traveling full time (which is a full-time job). So, you could say that I am a busy woman. But, I am living the life of my dreams! And you can too.<br><br>I started working online less than a year ago. Before that I was just traveling full time and running out of money. You may have heard my story before of how I got started working but let me share it again.<br><br>After 2 years of full time travel I ran out of money. I spent my last dollars on a blogging course in Bali with the Blonde Abroad and that was it. Unfortunately, shortly after the retreat began, I realized that I wasn’t going to start making money immediately on my blog just because I spent two weeks working with an awesome blogger. &nbsp;Which then made me realize that my only options were to look for some kind of job abroad or fly home. Then I remembered I didn’t have any money to book a ticket home so, I was stranded in Bali with nowhere to live, no job and obviously, no money.<br><br>That’s when things were truly bad, but also actually good. I was swimming at the pool with some friends when I confided in them that I had no money and nowhere to live. My new bestie Esther offered to let me live with her while she did a pet sitting gig in Denpasar. &nbsp;This meant free accommodation just for helping her take care of two street puppies while I figured out what to do with my life. I was all over it!<br><br>As soon as we moved in together I began to learn SO MUCH from Esther. This amazing woman runs 2 successful businesses online and eventually she started offering me small jobs here and there, like newsletters and blog writing for her.<br><br>One of her businesses is called the [Virtual Assistant Internship](https://virtualassistantinternship.com?aff=justynjen). She hired me to update the site and fix a broken plugin because she just didn’t have the time and she knew that I would do a great job. After going through the content in the [90 Day VA course](https://virtualassistantinternship.com?aff=justynjen), I started to apply the things I was learning to my own blog. I shared with Esther about the traffic I started getting towards my blog and how her course really made all the difference. Next thing I knew, she offered me a job managing her membership site.<br><br>And this is where it all began for me.

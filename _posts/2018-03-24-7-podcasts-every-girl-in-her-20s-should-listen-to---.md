@@ -2,27 +2,16 @@
 layout: posts
 date: 2018-03-24 00:00:00
 feature-image_path: /uploads/haute-stock-styled-photography-grey-days-final-10.jpg
+pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: 7 Podcasts Every Girl In Her 20’s Should Listen To...
 Author: Justyn
 tags:
-  - '-travel'
-  - Enlighten
+  - Travel
+  - Enlightened
   - Podcasts  
 comments: true
 category: Digital Nomad
-_options:
-  image_path:
-    width: 90
-    height: 120
-    resize_style: "contain"
-    mime_type: "image/jpeg"
-    expandable: true
-  content:
-    width: 90
-    height: 120
-    resize_style: "cover"
-    mime_type: "image/png"
-# other options
+published: true
 ---
 
 Ever since dropping out of school I have tried to find ways to continue teaching myself new things. I decided to do that through podcasts. Podcasts are amazing for many reasons. You can listen to Podcasts that teach you something new and interesting, ones that inspire you or just ones that make you laugh out loud. In personal life and work life, podcasts can be amazing. I try to listen to one every morning with my breakfast and coffee, before I start my day! Here are some of my favorites!

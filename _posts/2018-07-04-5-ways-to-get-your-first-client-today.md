@@ -2,16 +2,15 @@
 layout: posts
 date: 2018-07-04 14:00:00
 feature-image_path: /uploads/haute-stock-photography-sand-final-6.jpg
+pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: 5 Ways to Get Your First Client Today!
 Author: Justyn
 tags:
-  - '-travel'
-  - India
-  - Overnight Buses
+  - Work Online
+  - Freelancing
 comments: true
+published: true
 ---
-
-&nbsp;
 
 Welcome to the wonderful and challenging world of Freelancing. You are now on the magical journey of trying to figure out how you can start getting your first clients. Let’s talk for a quick second about the places that **I do not recommend** going for these clients.
 

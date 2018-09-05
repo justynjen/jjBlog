@@ -3,24 +3,14 @@ layout: posts
 date: 2018-04-23 00:00:00
 feature-image_path: /uploads/dsc07691.jpg
 title: 'The 8 BEST Places to Eat and Work From in Portland, Maine'
+pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 Author: Justyn
 tags:
   - '-travel'
   - Digital Nomads
 comments: true
 category: Travel
-_options:
-  image_path:
-    width: 90
-    height: 120
-    resize_style: contain
-    mime_type: image/jpeg
-    expandable: true
-  content:
-    width: 90
-    height: 120
-    resize_style: cover
-    mime_type: image/png
+published: true
 ---
 
 I didn’t know this, but Maine is a foodie HEAVEN. And I am a total foodie. Luckily for me, there are about 15 coffee shops just on the street I am living on (And no, they are not all Starbucks and Dunkin) I haven’t even been here a week yet but I have already tested them all! I am always looking for the best Wi-Fi, the best coffee and the best vibe for work. So here’s my faves! Organized by time of day you want to head over.

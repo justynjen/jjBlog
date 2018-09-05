@@ -1,6 +1,6 @@
 ---
 layout: posts
-date: 2017-11-03
+date: 2018-03-24 00:00:00
 feature-image_path: /img/bali/volcano.jpg
 title: Living Abroad in Bali - The Struggle Edition
 Author: Justyn

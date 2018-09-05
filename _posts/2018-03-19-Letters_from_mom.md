@@ -1,26 +1,15 @@
 ---
 layout: posts
-date: 2018-03-19
+date: 2018-03-24 00:00:00
 feature-image_path: /img/lettersFrommom.jpg
+pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: Letter's From Mom
 Author: Justyn
 tags:
   -travel
 comments: true
 category: [Travel, Lifestyle]
-_options:
-  image_path:
-    width: 90
-    height: 120
-    resize_style: "contain"
-    mime_type: "image/jpeg"
-    expandable: true
-  content:
-    width: 90
-    height: 120
-    resize_style: "cover"
-    mime_type: "image/png"
-# other options
+published: false
 ---
 ####   Hi World,
 

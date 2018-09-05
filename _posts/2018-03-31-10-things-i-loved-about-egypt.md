@@ -2,27 +2,16 @@
 layout: posts
 date: 2018-03-31 00:00:00
 feature-image_path: /uploads/dsc07210.jpg
+pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: 10 Things I loved about Egypt
 Author: Justyn
 tags:
-  - '-travel'
+  - Travel
   - Israel
   - Middle East
 comments: true
 category: [Travel, Middle East]
-_options:
-  image_path:
-    width: 90
-    height: 120
-    resize_style: "contain"
-    mime_type: "image/jpeg"
-    expandable: true
-  content:
-    width: 90
-    height: 120
-    resize_style: "cover"
-    mime_type: "image/png"
-# other options
+published: true
 ---
 
 I think that I have dreamed of going to Egypt since I was about 8 years old and they taught us about it in school. I found their culture to be fascinating. Mummies, pyramids, hieroglyphics and more. I used to imagine myself as Cleopatra with my sleek black cat and the desert all around me. Now, while Egypt wasn't a thing like my 8 year old self imagined it to be, I still fell in love with this wild country. Here's 10 things I loved about Egypt.

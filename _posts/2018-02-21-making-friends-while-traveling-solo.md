@@ -2,23 +2,12 @@
 layout: posts
 date: 2018-02-21 00:00:00
 feature-image_path: /uploads/dscf8879.jpg
+pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: Making Friends while Traveling Solo
 Author: Justyn
 comments: true
 category: Travel
-_options:
-  image_path:
-    width: 90
-    height: 120
-    resize_style: "contain"
-    mime_type: "image/jpeg"
-    expandable: true
-  content:
-    width: 90
-    height: 120
-    resize_style: "cover"
-    mime_type: "image/png"
-# other options
+published: true
 ---
 
 Traveling solo and making friends from around the world means more opportunity for a free couch around the world.
