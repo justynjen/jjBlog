@@ -1,16 +1,16 @@
 ---
 layout: posts
 date: 2018-03-24 00:00:00
-feature-image_path: /uploads/haute-stock-styled-photography-grey-days-final-10.jpg
+feature-image_path: /uploads/haute-stock-styled-photography-grey.jpg
 pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: 7 Podcasts Every Girl In Her 20’s Should Listen To...
 Author: Justyn
 tags:
   - Travel
   - Enlightened
-  - Podcasts  
+  - Podcasts
 comments: true
-category: Digital Nomad
+category:
 published: true
 ---
 
@@ -24,8 +24,7 @@ I love listening to [Gretchen Rubin in her Happier podcast](https://gretchenrubi
 
 #### 2. We Have Concerns with Jeff Cannata and Anthony Carboni
 
-![](/uploads/wehaveconcernspodcast.png)
-[We Have Concerns](http://wehaveconcerns.com/) is actually one my sister introduced me to when I told her she should try listening to podcasts. It is a shorter but informative listen that brings facts and humor as Jeff and Anthony discuss current events to old history, science, philosophy and more. The episodes are only 15-20 minutes long and worth listening to. They make me think and laugh at the same time which is good for the mind… I think LOL
+![](/uploads/wehaveconcernspodcast.png)[We Have Concerns](http://wehaveconcerns.com/) is actually one my sister introduced me to when I told her she should try listening to podcasts. It is a shorter but informative listen that brings facts and humor as Jeff and Anthony discuss current events to old history, science, philosophy and more. The episodes are only 15-20 minutes long and worth listening to. They make me think and laugh at the same time which is good for the mind… I think LOL
 
 #### 3. Enwaken Radio with David Morelli
 
@@ -45,7 +44,7 @@ This HAS to be my favorite, most helpful, inspiring and downright awesome podcas
 
 Now this is a bit longer per episode so if you are looking for something to listen to while cleaning or driving or you just find yourself bored one afternoon then delve into [this podcast with Katie Dalebout](http://katiedalebout.com/podcast/) as she invites a different guest speaker on and talks about life in general. Whether it's a light conversation or super personal, talking about productivity or sex; she digs into it. More than just talking though, she brings an informative and down to earth aspectic to her shows that I found I enjoyed and think you might as well.
 
-#### 6. &nbsp;The Upgrade by Lifehacker
+#### 6.  The Upgrade by Lifehacker
 
 I am new to [this podcast](https://lifehacker.com/tag/the-upgrade) but enjoy it so far because it is a light listen “How to” on all kinds of topic such as: how to talk to people or more importantly, how to identify a cult and how to prevent your mind from being hacked. One episode I particularly enjoyed was “How to Be a Clean Person with Jolie Kerr” because at one point in the episode she talks about keeping your towels cleaner, softer and fluffy. I don’t have a struggle with this exactly seeing as I am always using other people’s towels in my nomadic lifestyle but my sister on the other hand has a weird obsession with laundry and I immediately thought of her. That’s another great thing about podcasts is no matter what lifestyle you lead each show or episode can be relevant to you for many different reasons. Jolie brings up more great tips on getting rid of weird breath or stinky feet that everyone should know about as well.
 
@@ -59,6 +58,4 @@ There are many ways you can listen to podcasts. I use DoublePod on Android and I
 
 I am always looking for more fun podcasts of all kinds to listen to so comment with your favorites and tell me why!
 
-Pin It!
-<a data-pin-do="buttonBookmark" href="https://www.pinterest.com/pin/create/button/"></a>
-![](/uploads/7-podcasts-1.png)
+Pin It!![](/uploads/7-podcasts-1.png)

@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-03-29 00:00:00
-feature-image_path: /uploads/haute-stock-photography-pink-mint-marble-final-15.jpg
+feature-image_path: /uploads/haute-stock-photography-pink-mint-marble.jpg
 pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: 7 Ted Talks Everyone Should Listen Too
 Author: Justyn
@@ -10,11 +10,11 @@ tags:
   - Ted Talks
   - Self Improvement
 comments: true
-category: Digital Nomad
+category:
 published: true
 ---
 
-I decided to share with you a few of my favorite tedtalks! I really think that these are something that everyone can benefit from.&nbsp;
+I decided to share with you a few of my favorite tedtalks! I really think that these are something that everyone can benefit from. 
 
 #### Inside the mind of a master procrastinator | Tim Urban
 
@@ -44,7 +44,7 @@ Honestly, it doesn’t get any more inspiring than listening to Cassie De Pecol 
 
 #### ![](/uploads/how-10-years-of-travel-helped-me-find-belonging-by-phil-cha1.PNG)
 
-This is one of my most favorite Ted Talks that you must listen to or watch! [“I’m home: How 10 years of travel helped me find belonging” by Phil Cha](https://www.youtube.com/watch?v=bXBgitBX5Q0)&nbsp;has been a pivotal talk for me in discerning who I am and what I want. I know it doesn’t seem like it but I struggle with belonging and the need to feel loved and like I am a part of something bigger. Sometimes, just like most of you I am sure, I start to get down and feel like I need to change something about who I am or what I want so that I can feel like I fit somewhere. Phil really brought it home for me that I am where I belong and am gathering up pieces of myself as I go and am adding them to an already whole picture that continues to grow. Let him inspire you as much as he did me. Remember to always surround yourself with the best raindrops!
+This is one of my most favorite Ted Talks that you must listen to or watch! [“I’m home: How 10 years of travel helped me find belonging” by Phil Cha](https://www.youtube.com/watch?v=bXBgitBX5Q0) has been a pivotal talk for me in discerning who I am and what I want. I know it doesn’t seem like it but I struggle with belonging and the need to feel loved and like I am a part of something bigger. Sometimes, just like most of you I am sure, I start to get down and feel like I need to change something about who I am or what I want so that I can feel like I fit somewhere. Phil really brought it home for me that I am where I belong and am gathering up pieces of myself as I go and am adding them to an already whole picture that continues to grow. Let him inspire you as much as he did me. Remember to always surround yourself with the best raindrops!
 
 #### The Benefits of Rejection | Magna Gopal
 
@@ -58,7 +58,7 @@ This was an excellent talk that put words to what we feel when we are the ones s
 
 WTF! Wow, that’s fun! Wouldn’t life be so much sweeter if more people saw WTF and thought wow that’s fun? [“The Skill of Humor” by Andrew Tarvin](https://www.youtube.com/watch?v=MdZAMSyn_As) was an excellent way to remind me that humor is a choice. You could say that unfortunate things tend to happen to me. I swear my luggage is ALWAYS the one getting shoveled through for one and lately it seems like my airlines enjoy waiting for me to show up to the airport to inform me my flight was cancelled before I even needed to get up at 2 am to get there. I could easily look at these things in a negative aspect but instead, I choose to laugh and enjoy. Humor is also an excellent way to get to know someone. Being able to smile and laugh with a person, whether a long time friend or a stranger, will connect you in a more meaningful way. I don’t know anyone who doesn’t like to laugh so you should listen to Andrew as he teaches about humor through humor.
 
-&nbsp;
+ 
 
 Pin this to share with friends!
 
