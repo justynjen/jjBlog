@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-03-24 00:00:00
-feature-image_path: /img/feb-paper-3.jpg
+feature-image_path: /assets/img/feb-paper-3.jpg
 pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: Great destinations for love this season.
 Author: Justyn
