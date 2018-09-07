@@ -32,13 +32,23 @@ Also - if you love shopping, they have an adorable shop setup that you can find 
 
 #### Cugh House (Coworking Space)
 
+Cugh House is a great cafe but it's also a coworking space. Come to eat and never leave!&nbsp;
+
 #### Cloud 9&nbsp;
+
+The perfect set up right on the rice paddies. Beware because it's right on the Shortcut in Canggu which is a treacherous road to drive down.&nbsp;
 
 #### Peloton Super Shop
 
+EVERYTHING VEGAN. I tried to eat everything on the menu but I didn't have enough time. I am telling you, their food is amazing. My favorite thing to eat at Peloton was the jackfruit tacos or the arranchini balls. Let's face it though, Peloton is amazing.&nbsp;
+
 #### Eko Cafe
 
+Yum yum yum, get Eko in my tum. Hah but for reals. They have fresh and delicious treats and strong wi-fi so you can really spend the day. I like Eko but beware because at certain times of day, it's really busy. I find that going really early is great, or after the first rush of the day. A lot of places in Bali tend to be really busy so just get used to that.&nbsp;&nbsp;
+
 #### Coffee Cartel
+
+I discovered this place by mistake actually, and it's great because it was never busy when I went. It's got plenty of space and really good corn fritters and beetroot lattes. I went with a group of my friends to work and we ordered one of everything to try! So I can easily tell you it's all yum. Also the staff are so sweet and they don't care if you hangout there forever.
 
 #### Oka’s Bakery and Cafe.
 
