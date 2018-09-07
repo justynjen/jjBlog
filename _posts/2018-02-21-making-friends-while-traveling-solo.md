@@ -1,9 +1,9 @@
 ---
 layout: posts
 date: 2018-02-21 00:00:00
-feature-image_path: /uploads/dscf8879.jpg
+feature-image_path: /uploads/justyn-dogs-india.jpg
 pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
-title: Making Friends while Traveling Solo
+title: Making Friends While Traveling Solo
 Author: Justyn
 comments: true
 category: Travel
