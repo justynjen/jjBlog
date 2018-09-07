@@ -13,7 +13,7 @@ tags:
 comments: false
 ---
 
-Norway is one of the most stunning countries that I have ever been too but it’s also one of the most expensive. I also went in the winter, and so some of my tips are more effective in warmer months because they involve spending a lot of time outside! But in Norway, why wouldn’t you want to spend all of your time outside!
+Norway is one of the most stunning countries that I have ever been too but it’s also one of the most expensive. I also went in the winter which didn't help and so some of my tips are more effective in warmer months because they involve spending a lot of time outside! But in Norway, why wouldn’t you want to spend all of your time outside!
 
 ### Here’s my 10 tips on how you can save money in Norway this year!
 
@@ -41,13 +41,13 @@ I did rent a car, even though it was pretty spendy. I just wanted to be able to 
 
 I stayed in Oslo for two nights coming and one night leaving and it was easily the most expensive part of my entire trip. If you really want to save money in Norway, I would avoid spending too much time in Oslo.
 
-#### Take your cans and bottles back to the store 
+#### Take your cans and bottles back to the store&nbsp;
 
 That’s right, you can actually earn some coin while you are staying in Norway! Just return all your bottles and cans to the stores and you can get a few coins back here and there. If you want to drink a lot, this can be extremely helpful. Imagine taking a 12 pack of beer back to the store to get some money back for those. I wish that every country gave people and easy incentive to recycle like the Scandinavian countries do!
 
-#### Travel with people 
+#### Travel with people&nbsp;
 
-I traveled alone but I do know that it’s cheaper to do things with other people. It’s cheaper to eat and cook from the grocery store, book hotel rooms, rent cars, and go on tours if you are with other people. So while traveling alone is amazing, traveling with people could actually help you save money in Norway! 
+I traveled alone but I do know that it’s cheaper to do things with other people. It’s cheaper to eat and cook from the grocery store, book hotel rooms, rent cars, and go on tours if you are with other people. So while traveling alone is amazing, traveling with people could actually help you save money in Norway!&nbsp;
 
 Are you traveling alone? Go ahead and stay in a hostel or get on couchsurfing and make some friends for the rest of your trip. That's what I did!
 
