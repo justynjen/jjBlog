@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-08-18 14:00:00
-feature-image_path: /assets/img/ridge-walk-bali.jpg
+feature-image_path: /assets/img/mt-agung-volcano3.jpg
 pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: The Best Things About Living in Bali
 Author: Justyn
