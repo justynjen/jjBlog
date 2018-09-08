@@ -13,7 +13,7 @@ tags:
 comments: false
 ---
 
-1. Book a hostel - I recommend these 2.&nbsp;
+1. Book a hostel - I recommend these 2. (But get a private room)
 2. Organize a taxi pickup with your hostel.&nbsp;
 3. Find a buddy to visit slums with.
 4. Wear really appropriate clothing - pants and long sleeves and long dresses
@@ -29,4 +29,7 @@ comments: false
 14. Be polite to people in the street - but don't go inside Bazaars with people. Politely decline.&nbsp;
 15. Get a Sim Card at the airport - mine was 30 gigs for only $6
 16. Take the train to Luxor and stay for a few nights
-17. &nbsp;
+17. Grab yourself some Nescafe - you'll need it
+18. Avoid the nonalcoholic beer. It's nasty yo
+19. Get cash out of the ATM. I never paid with card
+20. Head to the museums later in the day. Kids are there for school trips and they will want 100 pictures and they will follow you around the whole time.
