@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-09-07 14:00:00
-feature-image_path: /uploads/lofoten-islands-norway.jpeg
+feature-image_path: /uploads/pyramids-of-giza-egypt.jpg
 pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: 30 Tips For Traveling Alone in Egypt
 Author: Justyn
@@ -13,3 +13,20 @@ tags:
 comments: false
 ---
 
+1. Book a hostel - I recommend these 2.&nbsp;
+
+2. Organize a taxi pickup with your hostel.&nbsp;
+
+3. Find a buddy to visit slums with.
+
+4. Wear really appropriate clothing - pants and long sleeves and long dresses
+
+5. Book tours at the hotel
+
+6. Get a driver for going to the pyramids
+
+7. Get your visa at the airport bank
+
+8. Order food at the hostel for delivery&nbsp;
+
+9.&nbsp;
