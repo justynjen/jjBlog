@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-09-07 14:00:00
-feature-image_path:
+feature-image_path: /uploads/kyoto-red-gate.jpg
 pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
 title: A Solo Girls Guide to Japan
 Author: Justyn
@@ -21,7 +21,7 @@ Need I say more?
 
 Here is my recent trip to Japan, what I did and why you should definitely go solo!
 
-I just recently took the most amazing solo trip to Japan. For those of you girls out there who want to take your first solo trip, Japan is the place to do it. I love traveling solo and before I left, everyone told me not to travel alone to Japan. They never said it was dangerous, cause it’s 100% not, they just said I would be alone A LOT. That it’s not the place you go to meet people. I thought that wouldn’t be too bad, so I could get lots of work done. That wasn’t the case though! While I was alone a lot while I was in the less traveled Western Japan, I met loads of people and I became friends with some amazing Japanese people that endured our language barrier and we were able to really get to know each other. Japan is one of the best places that I have been too. It is just unreal. You can wander aimlessly through giant metropolises, sit quietly in the ambiance of shrines, temples and giant Buddha’s and eat anything and everything that you may have ever wanted to eat. From Octopus balls, to conveyor sushi to ramen to giant robots and monster cafes; Japan has it all.&nbsp;
+I just recently took the most amazing solo trip to Japan. For those of you girls out there who want to take your first solo trip, Japan is the place to do it. I love traveling solo and before I left, everyone told me not to travel alone to Japan. They never said it was dangerous, cause it’s 100% not, they just said I would be alone A LOT. That it’s not the place you go to meet people. I thought that wouldn’t be too bad, so I could get lots of work done. That wasn’t the case though! While I was alone a lot while I was in the less traveled Western Japan, I met loads of people and I became friends with some amazing Japanese people that endured our language barrier and we were able to really get to know each other. Japan is one of the best places that I have been too. It is just unreal. You can wander aimlessly through giant metropolises, sit quietly in the ambiance of shrines, temples and giant Buddha’s and eat anything and everything that you may have ever wanted to eat. From Octopus balls, to conveyor sushi to ramen to giant robots and monster cafes; Japan has it all. 
 
 #### Tokyo
 
@@ -39,15 +39,15 @@ After 2 nights in Hakone and lots of hiking, I decided to head onwards to Matsum
 
 #### Kurobe Alpine Route to Kanazawa
 
-In the morning from Matsumoto I did the Kurobe Alpine route to Kanazawa. I was able to see the Kurobe Dam, the gorgeous mt (whatever) and the snow wall! I spent the following couple of nights in Kanazawa. &nbsp;Known best for its sushi, I helped myself to lots of that and managed to try some kinds that I wouldn’t have otherwise eaten, so it was fun. Make sure to check out the gardens and castle there, the gardens are one of the top in Japan and the castle is just as beautiful as you would expect. You can also wander through the geisha district and the samarui districts that are unlike any other!
+In the morning from Matsumoto I did the Kurobe Alpine route to Kanazawa. I was able to see the Kurobe Dam, the gorgeous mt (whatever) and the snow wall! I spent the following couple of nights in Kanazawa.  Known best for its sushi, I helped myself to lots of that and managed to try some kinds that I wouldn’t have otherwise eaten, so it was fun. Make sure to check out the gardens and castle there, the gardens are one of the top in Japan and the castle is just as beautiful as you would expect. You can also wander through the geisha district and the samarui districts that are unlike any other!
 
 #### Shirakawa-Go
 
-Enroute to Takayama I made a stop at Shirakawa, a unesco world heritage site. The &nbsp;bus ride is only an hour from Kanazawa and then another hour afterwards to Takayama. I just was able to buy my tickets at the station.
+Enroute to Takayama I made a stop at Shirakawa, a unesco world heritage site. The  bus ride is only an hour from Kanazawa and then another hour afterwards to Takayama. I just was able to buy my tickets at the station.
 
 #### Takayama
 
-From there I headed to Takayama, where I was able to ride a bike all over, visit the teddy bear museum and caf&eacute;, and explore tons of the cutest little streets that I have been too. Takayama was beautiful and while you can see plenty of beautiful things, I was also able to catch up on writing and relax for a bit.
+From there I headed to Takayama, where I was able to ride a bike all over, visit the teddy bear museum and café, and explore tons of the cutest little streets that I have been too. Takayama was beautiful and while you can see plenty of beautiful things, I was also able to catch up on writing and relax for a bit.
 
 #### Kyoto
 
