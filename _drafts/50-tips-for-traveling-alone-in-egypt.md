@@ -41,4 +41,6 @@ comments: false
 
 14. Be polite to people in the street - but don't go inside Bazaars with people. Politely decline.&nbsp;
 
-15.&nbsp;
+15. Get a Sim Card at the airport - mine was 30 gigs for only $6
+
+16.&nbsp;
