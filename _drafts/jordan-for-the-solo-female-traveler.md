@@ -44,3 +44,33 @@ My bus was pretty empty. I had plenty of space to myself and I was enjoying the 
 Next up, the border crossing. Now the border crossing is a long process. And make sure that you have cash. You have to pay fees when you are leaving Israel and when you are entering Jordan. I exchanged the rest of my Israeli money for Jordanian Dinars at the border because why not. This way I could pay for my Jordanian Visa in cash. (They do take card though but I sometimes get nervous that my card won’t work or that it will get denied and then what?)
 
 Heading into Jordan was pretty comical. The people there are so nice. They were slightly concerned that I was coming solo, which is pretty typical for me (even the UK gets concerned when I travel solo). The man at immigration offered to let me stay with his family, however staying at the border didn’t seem ideal.
+
+<br>
+
+When I decided to go to Israel, I instantly decided that I should also go to Jordan. An enchanted desert of Petra, Wadi Rum and Falafel.
+
+My favorite moment from Jordan, I went to a restaurant looking for dinner and asked the guy, “Do you have anything without meat?” The guy, “Oh yes of course, we have chicken!” Me, “No, without meat, NO meat.” Him, “Well we have mixed meat…” Me, “Do you have falafel?” Him, “Oh yes yes we always have falafel.”
+
+I loved Jordan. It was amazing. The perfect mix of Israel and Egypt. The perfect mix of overwhelming and underwhelming. If that makes sense.
+
+The people in Jordan were so kind. Everyone was so helpful and thoughtful.
+
+Visiting Amman
+
+Where to stay, what to see and what to do.
+
+Some of the places that you should visit in Jordan
+
+Petra - How to get there, costs where to stay
+
+Wadi Rum - How to get there, costs, where to stay
+
+Other??
+
+Typical costs in Jordan
+
+Super Cheap!
+
+Facts you should know about Jordan
+
+The Visa costs WAY more if you are staying less then 3 days. If you stay in the country more than 3 days it’s pretty cheap. If you get the Jordan Pass you don’t have to pay the Visa fee plus you get like 2 days at Petra and entrances to Wadi Rum and everything else in the country.
