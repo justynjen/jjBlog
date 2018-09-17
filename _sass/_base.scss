@@ -206,11 +206,14 @@ dl, dt, dd {
   background: $accent-color;
   color: white;
   border: 1px solid transparent;
-  padding: 1em 3em;
+  padding: .75em 3em .9em;
   text-align: center;
   cursor: pointer;
   border-radius: 0;
   transition: all $ts ease;
+  text-transform: uppercase;
+  font-size: .9em;
+  letter-spacing: .05em;
   &:hover, &.active {
     background: #333;
     border-color: #333;
@@ -225,6 +228,9 @@ dl, dt, dd {
       border-color: $accent-color;
 			color: white;
     }
+  }
+  & + .button {
+    margin-left: 10px;
   }
 }
 
@@ -355,7 +361,7 @@ h1, h2, h3, h4, h5, h6,
   font-weight: $heading-font-weight;
   color: $heading-color;
   a {
-    color: $heading-color;
+    // color: $heading-color;
     &:hover {
       color: $accent-color;
     }
@@ -393,10 +399,12 @@ h3 {
 
 h4 {
   font-size: 1.25em;
+  line-height: 1.4;
 }
 
 h5 {
   font-size: 1em;
+  line-height: 1.5;
 }
 
 h6 {

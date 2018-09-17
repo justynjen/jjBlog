@@ -170,7 +170,7 @@ h5, .h5 {
     }
     input[type="email"] {
       margin: 0 10px 10px 0;
-      box-shadow: 0 0 60px rgba(0,0,0,0.075);
+      box-shadow: 0 0 60px rgba(0,0,0,0.05);
     }
     @include medium-up {
       input[type="email"] {
@@ -179,6 +179,16 @@ h5, .h5 {
         margin-bottom: 0;
       }
     }
+  }
+}
+
+.section-contact-form {
+  background: $lightgrey;
+  input, textarea {
+    width: 100%;
+  }
+  .button {
+    width: initial;
   }
 }
 
@@ -270,7 +280,14 @@ h5, .h5 {
     font-family: $alt-font;
     padding: 0 1em;
     &:after {
-      transform: translate(-47%, -50%) scaleX(1.2);
+      display: none;
+      @include medium-up {
+        display: block;
+        transform: translate(-50%, -100%) scaleX(1.2);
+      }
+      @include large-up {
+        transform: translate(-47%, -50%) scaleX(1.2);
+      }
     }
   }
   @include medium-up {
@@ -458,9 +475,20 @@ main {
 }
 
 
+/********************
+  ABOUT PAGE
+********************/
 
-
-
+.section-about {
+  p:last-of-type {
+    margin-bottom: 0;
+  }
+  h5 {
+    @include large-up {
+      padding:0.5em 5em;
+    }
+  }
+}
 
 
 
