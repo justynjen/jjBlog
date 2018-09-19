@@ -7,7 +7,7 @@ title: 10 Ways a Blogging Retreat Changed me as a Blogger
 Author: Justyn
 comments: true
 category: Blogging
-published: true
+published: false
 ---
 
 Today I want to talk about how doing a blogging retreat changed me as a blogger. Cause let’s be honest – 2 years ago none of you viewers had ever even heard of my little piece of the internet. I attended a blogging retreat with the Institute of Code and the Blonde Abroad. The coolest thing about it is that I was being taught by two different women entrepreneurs, and I learned how to run a kick ass business. That’s right. Blogging is a business and I’ll punch you in the face if you tell me it’s not. Enough of that, here’s 10 things I learned that changed the way I blog.

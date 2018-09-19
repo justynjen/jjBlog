@@ -3,7 +3,7 @@ layout: posts
 date: 2018-04-23 00:00:00
 feature-image_path: /uploads/bard-coffee-wall.jpg
 title: 'The 8 BEST Places to Eat and Work From in Portland, Maine'
-pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
+pinterest-image_path: /uploads/portland-maine-pin.jpg
 Author: Justyn
 tags:
   - '-travel'

@@ -2,7 +2,7 @@
 layout: posts
 date: 2018-04-12 00:00:00
 feature-image_path: /uploads/cape-town-overlook.jpg
-pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
+pinterest-image_path: /uploads/2018-bucket-list-pin.jpg
 title: 18 Places to Visit in 2018
 Author: Justyn
 tags:

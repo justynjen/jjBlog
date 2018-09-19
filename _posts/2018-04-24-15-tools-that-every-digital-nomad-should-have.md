@@ -2,8 +2,8 @@
 layout: posts
 date: 2018-04-24 00:00:00
 feature-image_path: /uploads/haute-stock-photography-sand.jpg
-pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
-title: 15 Tools That Every Digital Nomad Should Have
+pinterest-image_path: /uploads/freelancer-tools-pin.jpg
+title: 15 Tools That Every Freelancer Needs To Work From Anywhere
 Author: Justyn
 tags:
   - Work Online
@@ -30,7 +30,9 @@ I promise I don’t even have a surface, I just LOVE their products for touch sc
 
 Having a really good battery pack can really change things for you. Being able to charge your phone on the go is amazing. This way you can always be available to check the map, answer an email, call someone, or do anything else while out and about. Just throw the [Anker PowerCore External Battery Pack](https://www.amazon.com/gp/product/B00X5RV14Y/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00X5RV14Y&amp;linkCode=as2&amp;tag=justynjen07-20&amp;linkId=fbe67f8801a333f5ec3f791e343f36a9)![](//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&amp;l=am2&amp;o=1&amp;a=B00X5RV14Y) into your bag and you are ready to go all day, and all night.
 
-#### [BAGSMART Travel Universal Cable Organizer Electronics Accessories Case](https://www.amazon.com/gp/product/B017SKRWL4/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B017SKRWL4&amp;linkCode=as2&amp;tag=justynjen07-20&amp;linkId=f4ba58a30a67154500fe3fc6e466bde5)![](//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&amp;l=am2&amp;o=1&amp;a=B017SKRWL4).
+#### travel universal cabel
+
+[BAGSMART Travel Universal Cable Organizer Electronics Accessories Case](https://www.amazon.com/gp/product/B017SKRWL4/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B017SKRWL4&amp;linkCode=as2&amp;tag=justynjen07-20&amp;linkId=f4ba58a30a67154500fe3fc6e466bde5)![](//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&amp;l=am2&amp;o=1&amp;a=B017SKRWL4).
 
 What better way to stay organized then with a power cord organizer?! This way you can always find what you are looking for. No more lost cords, anywhere! I love it. I swear I have always been that person that loses all their cords and then finds them all tangled into one jumbled mess! But no more! Now I can always find everything and it’s amazing. You have to get one of these. Just throw it into your bag and you will always have everything you need.
 

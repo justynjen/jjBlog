@@ -2,8 +2,8 @@
 layout: posts
 date: 2017-11-04 00:00:00
 feature-image_path: /assets/img/insta-tour5.jpg
-pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
-title: '11 Best Cafe''s to Eat & Work From in Canguu, Bali'
+pinterest-image_path: /uploads/cafes-bali-pin.jpg
+title: '11 Best Cafes to CoWork From in Canguu, Bali'
 Author: Justyn
 comments: true
 category:

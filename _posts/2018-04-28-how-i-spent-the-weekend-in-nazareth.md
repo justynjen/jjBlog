@@ -1,8 +1,8 @@
 ---
 layout: posts
 date: 2018-04-28 00:00:00
-feature-image_path: /uploads/dsc07011%402x.png
-pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
+feature-image_path: /uploads/nazareth-israel.jpg
+pinterest-image_path: /uploads/nazareth-pin.jpg
 title: How I Spent The Weekend In Nazareth
 Author: Justyn
 tags:

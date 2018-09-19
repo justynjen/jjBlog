@@ -2,7 +2,7 @@
 layout: posts
 date: 2018-04-25 00:00:00
 feature-image_path: /uploads/antiqua-guatemala.png
-pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
+pinterest-image_path: /uploads/Taylor-pin.jpg
 title: 'WCW: Taylor, Founder of Remote Like Me'
 Author: Justyn
 tags:

@@ -2,7 +2,7 @@
 layout: posts
 date: 2018-09-07 14:00:00
 feature-image_path: /uploads/kyoto-red-gate.jpg
-pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
+pinterest-image_path: /uploads/japan-solo-pin.jpg
 title: A Solo Girls Guide to Japan
 Author: Justyn
 published: true

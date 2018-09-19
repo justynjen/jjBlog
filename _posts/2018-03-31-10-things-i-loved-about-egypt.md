@@ -2,7 +2,7 @@
 layout: posts
 date: 2018-03-31 00:00:00
 feature-image_path: /uploads/justynpyramid.jpg
-pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
+pinterest-image_path: /uploads/pyramids-of-giza-pin.jpg
 title: 10 Things I loved about Egypt
 Author: Justyn
 tags:

@@ -7,7 +7,7 @@ title: How I went to 50 Countries before I was 22.
 Author: Justyn
 comments: true
 category: Travel
-published: true
+published: false
 ---
 
 My favorite past time is looking back at the photos of where I have been. Reminiscing on the people I have met, the places I have seen, the food I have eaten, over the past 2.5 years. I am 2 pages away from having a full passport and that reminded me that I have been to a LOT of places. I have eaten a LOT of things, met a LOT of people and have a LOT of crazy memories. But how did I get here? Well, I consider myself a bit of a budget travel queen. Budget travel can get you really far, let me tell you how.

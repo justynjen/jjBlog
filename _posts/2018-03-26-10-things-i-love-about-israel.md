@@ -2,7 +2,7 @@
 layout: posts
 date: 2018-03-26 00:00:00
 feature-image_path: /uploads/Israel-Jerusalem.jpg
-pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
+pinterest-image_path: /uploads/israel-pin.jpg
 title: 10 Things I love about Israel
 Author: Justyn
 tags:

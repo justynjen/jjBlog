@@ -2,7 +2,7 @@
 layout: posts
 date: 2018-04-11 00:00:00
 feature-image_path: /uploads/haute-stock-photography-relax-collection.jpg
-pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
+pinterest-image_path: /uploads/kickass-books-pin.jpg
 title: 9 Kick Ass Books to Jump Start Yourself
 Author: Justyn
 tags:
