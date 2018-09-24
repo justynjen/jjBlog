@@ -20,25 +20,25 @@ Are you ready? I am going to share with you all my Austin eats. Austin had such 
 
 #### torchy's tacos!
 
-My favorite tacos in Austin were from Torchy's Tacos! I had their fried avocado tacos with their guac and chips. For Vegans, just make sure you ask for them without dairy (They come with cheese)
+My favorite tacos in Austin were from [Torchy's Tacos!](https://torchystacos.com/){: target="_blank"} I had their fried avocado tacos with their guac and chips. For Vegans, just make sure you ask for them without dairy (They come with cheese)
 
 Torchy's was amazing, fresh food and they also had really great staff! It was easy to order and the food came out very quickly.&nbsp;
 
 #### papadom
 
-Papadom had an entire back menu of vegan options! Their Indian food was so authentic and fresh. It was a bit spicy but not overwhelmingly so. I was lucky to go with a group of about 10 girls who all ordered Vegan so I was able to try many different things. If you are a vegan, you know this hardly ever happens!&nbsp;
+[Papadom](http://www.papadomaustin.com/){: target="_blank"} had an entire back menu of vegan options! Their Indian food was so authentic and fresh. It was a bit spicy but not overwhelmingly so. I was lucky to go with a group of about 10 girls who all ordered Vegan so I was able to try many different things. If you are a vegan, you know this hardly ever happens!&nbsp;
 
 Personally I had the Aloo Gobi because I love cauliflower but the Yellow Dalh was my next favorite. We also grabbed the Garlic Naan. The Aloo Gobi was cooked perfectly. The cauliflower was soft and crunchy at the same time. The portions were also huge so you could even just order a few things to share.&nbsp;
 
 #### mai thai
 
-I want to start by saying the staff at Mai Thai were some of the most amazing staff that I have ever met. Secondly, I had their Pad Thai (without the egg) and it was delicious! We also got a pot of the Tom Kah. The Tom Kah was so smooth and full of coconut flavor. It was also pleasantly spicy. All the flavors worked so well together.
+I want to start by saying the staff at [Mai Thai](http://www.maithaiaustin.com/) were some of the most amazing staff that I have ever met. Secondly, I had their Pad Thai (without the egg) and it was delicious! We also got a pot of the Tom Kah. The Tom Kah was so smooth and full of coconut flavor. It was also pleasantly spicy. All the flavors worked so well together.
 
-#### arlos
+#### arlo's
 
-For burgers, I was so impressed by Arlos! Their menu was completely Vegan and full of flavor. The reason that I keep stressing the flavor of these options is because a lot of times you get people that think vegan food is bland and boring. I am just here to tell you that all the places I tried were not that way!&nbsp;
+For burgers, I was so impressed by [Arlo's!](http://www.arlostruck.com/){: target="_blank"} Their menu was completely vegan and full of flavor. The reason that I keep stressing the flavor of these options is because a lot of times you get people that think vegan food is bland and boring. I am just here to tell you that all the places I tried were not that way!&nbsp;
 
-I got the BBQ burger at Arlos because I wanted to have an option to at least have a little of the BBQ in Texas! There was so much tangy BBQ sauce on this burger that I was dripping in it by the end and so happy! The burger was bean and chipotle as well.&nbsp;
+I got the BBQ burger at Arlo's because I wanted to have an option to at least have a little of the BBQ in Texas! There was so much tangy BBQ sauce on this burger that I was dripping in it by the end and so happy! The burger was bean and chipotle as well.&nbsp;
 
 ![](blob:https://app.cloudcannon.com/735701b4-e7d5-4932-a7fe-4784e6dcf427)
 
