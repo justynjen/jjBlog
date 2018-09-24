@@ -2,7 +2,7 @@
 layout: posts
 date: 2018-09-26 14:00:00
 feature-image_path: /uploads/img-20180922-164604-118.jpg
-pinterest-image_path:
+pinterest-image_path: /uploads/artboard-1-100.jpg
 title: Vegan's Guide to Austin
 Author: Justyn
 published: true
