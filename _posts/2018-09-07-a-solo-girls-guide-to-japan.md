@@ -5,7 +5,7 @@ feature-image_path: /uploads/kyoto-red-gate.jpg
 pinterest-image_path: /uploads/japan-solo-pin.jpg
 title: A Solo Girls Guide to Japan
 Author: Justyn
-published: true
+published: false
 tags:
   - '-travel'
   - Amsterdam
