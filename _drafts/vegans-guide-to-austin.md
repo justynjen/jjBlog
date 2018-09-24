@@ -40,7 +40,7 @@ For burgers, I was so impressed by Arlos! Their menu was completely Vegan and fu
 
 I got the BBQ burger at Arlos because I wanted to have an option to at least have a little of the BBQ in Texas! There was so much tangy BBQ sauce on this burger that I was dripping in it by the end and so happy! The burger was bean and chipotle as well.&nbsp;
 
-![](blob:https://app.cloudcannon.com/023fa89b-3aef-4a5b-8ee8-12d39da85bb1)
+![](blob:https://app.cloudcannon.com/735701b4-e7d5-4932-a7fe-4784e6dcf427)
 
 I went with Michelle, a fellow blogger staying at my hostel and she got the 'chicken' tacos. They were so fresh and crispy. You could really tell that the guacamole that came with them was fresh and made daily as well as the chips. All together, I would definitely eat at Arlos again!&nbsp;
 
@@ -49,5 +49,7 @@ And lastly, vegan options for dessert!&nbsp;
 #### dolce bacio
 
 Woohoo [Dolce Bacio](http://www.dolcebaciogelato.com/){: target="_blank"} was creamy and perfect! They are a newer food truck focusing mainly on Gelato at the moment. What I loved about Dolce was that they made the Gelato right there in front of you and for vegans, they had more than just fruit flavors! I say this because a lot of Gelato for vegans is just fruit but Dolce Bacio had a black and white flavor that was dark chocolate and coconut. The combination of those flavors were mouthwatering. The owners (unfortunately I didn't catch their names) also allowed us and even encouraged us to try every flavor they had! If you are going I recommend the fresh passion fruit, strawberry or black and white!
+
+![](/uploads/20180918-183339.jpg)
 
 That's it for my vegan foodies guide of Austin. Stay tuned and enter your email below to be the first to know where to eat vegan around the world!
