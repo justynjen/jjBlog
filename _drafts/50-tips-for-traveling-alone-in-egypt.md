@@ -3,9 +3,9 @@ layout: posts
 date: 2018-09-07 14:00:00
 feature-image_path: /uploads/pyramids-of-giza-egypt.jpg
 pinterest-image_path: /uploads/vegan-restaurants-amsterdam-2.png
-title: 30 Tips For Traveling Alone in Egypt
+title: 20 Tips For Traveling Alone in Egypt
 Author: Justyn
-published: true
+published: false
 tags:
   - '-travel'
   - Amsterdam
