@@ -43,3 +43,5 @@ I want to help you prepare for your trip to Jordan so you aren't as taken off gu
 
 1. People didn't understand that I didn't eat meat. I would ask a restaurant if they had meatless options and was often offered chicken or fish. It's easier to just ask if they have falafel, hummus or vegetables.&nbsp;
 2. Get comfortable with lots of Falafel. I ate falafel balls everyday while I was in Jordan. It was a lot easier than trying to explain my diet. (And I do mean falafel balls, not wraps or anything like that, they just serve you falafel balls with hummus)
+
+My biggest takeaways from Jordan were how nice the people were and how safe I felt all the time. While there are people who want to scam you, I found that if you are nice, ask for a reasonable price and talk to the locals, that goes a long way. Don't be nervous about your solo trip to Jordan and I hope that these tips help you feel even more prepared when you go.&nbsp;
