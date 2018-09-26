@@ -68,7 +68,7 @@ I think at this point it's pretty obvious that Travel Con was a huge success. I 
 
 26. Don't go to the same destinations that everyone is going to. Go somewhere unique. Next time you are planning your trip, skip Paris and Venice and Berlin and find somewhere off the beaten path to go.&nbsp;
 
-27. Be aware of overtourism. Are you unsure of what overtourism is?&nbsp;
+27. Be aware of overtourism. Are you unsure of what overtourism is? Overtourism is when you go to a place, promote it and the next year when you return, it's overrun by the people you shared that place with.&nbsp;
 
 28. Use descriptive writing in your blog posts. Remember, you want to make people imagine themselves in your shoes. How can they do that if you don't describe the sites, tastes and sounds?
 
