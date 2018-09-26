@@ -68,11 +68,11 @@ I think at this point it's pretty obvious that Travel Con was a huge success. I 
 
 26. Don't go to the same destinations that everyone is going to. Go somewhere unique. Next time you are planning your trip, skip Paris and Venice and Berlin and find somewhere off the beaten path to go.&nbsp;
 
-27. Be aware of overtourism. Are you unsure of what overtourism is? Overtourism is when you go to a place, promote it and the next year when you return, it's overrun by the people you shared that place with.&nbsp;
+27. Be aware of overtourism. Are you unsure of what overtourism is? Overtourism is when you go to a place, promote it and the next year when you return, it's overrun by the people you shared that place with. Next time you stumble upon somewhere amazing, ask yourself one question "Is this place going to benefit from people coming here?" If the answer is no, don't share that place.&nbsp;
 
 28. Use descriptive writing in your blog posts. Remember, you want to make people imagine themselves in your shoes. How can they do that if you don't describe the sites, tastes and sounds?
 
-29. Be true to your style, but remember to put a little effort in at times
+29. Be true to your style, but remember to put a little effort in at times. This one might not apply to you but it sure did for me! I realized that I never took photos because I never felt like I looked as cute as other girls. Well that's a pretty simple fix.. You can stay true to your style, but put a little effort in. It'll go a long way in your confidence and your brand.
 
 30. Don't be afraid to look dumb, silly, or anything else
 
