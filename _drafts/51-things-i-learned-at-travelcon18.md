@@ -58,11 +58,11 @@ I think at this point it's pretty obvious that Travel Con was a huge success. I 
 
 21. Be nice to people. Be nice to everyone. That's just important. You don't want to be the blogger that's hard to work with or mean. Also, it's very important that you are nice to the people in the countries that you are traveling too.&nbsp;
 
-22. Understand the culture of the place you are traveling to and respect that culture. You can learn so much about a place&nbsp;
+22. Understand the culture of the place you are traveling to and respect that culture. You can learn so much about a place when you embrace the culture and respect people's traditions. They will also love to have you there!
 
-23. Try new things
+23. Try new things. Everyday. Try something new. Do something that challenges you.
 
-24. Eat new things
+24. Eat new things.&nbsp;
 
 25. Get off the beaten path
 
