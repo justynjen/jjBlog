@@ -26,17 +26,17 @@ I think at this point it's pretty obvious that Travel Con was a huge success. I 
 
 5. Under promise and over deliver. This is something I learned from freelancing as well. Always under promise and over deliver. This way when you give results, they are even better than what you originally said they'd be and people will be way more excited to work with you in the future.&nbsp;
 
-6. FIND YOUR VOICE and be true to that voice. Okay guys, I have struggled with this since day one.&nbsp;
+6. FIND YOUR VOICE and be true to that voice. Okay guys, I have struggled with this since day one. I have never been true to my voice mostly because I wasn't even sure yet what my voice was. I didn't know who I was as a person, let alone a blogger and I was constantly trying to mold myself to 'fit in'. Get ready because that's about to change. I am officially me and I hope you are as excited as I am to get to know me ;).
 
-7. Get on the passive income train
+7. Get on the passive income train. I have very few streams of passive income and that is not smart. I love Nomadic Matt's brand because he is thriving from a few wonderful sources of passive income, from courses to eBooks, he has it all. I hope you are ready to see a few more products come your way from my blog as well because I have a few things in the works!&nbsp;
 
-8. Utilize your email list and be working to always be growing that list
+8. Utilize your email list and be working to always be growing that list. I talked with a lot of bloggers that had never sent an email to their list or who weren't even trying to build that list. I know my list isn't huge, but it's something that I put a lot of thought into. Always remember that you own the audience on that list and it's a great way to make money as well.&nbsp;
 
-9. You don't own your social media audience. You own your blog and email list
+9. You don't own your social media audience. You own your blog and email list. Don't put all your eggs in one basket on social media because when that platform dies, like we all know it will, you will no longer have an audience. Convert your current following to your blog and email list. For great tips on how you can do this, check out one of my favorite girl bosses, Jenna Kutcher.&nbsp;
 
-10. It's okay to ask for help
+10. It's okay to ask for help. In fact, you should almost always be asking for help. I don't know about you but I definitely can't do everything and I don't even want to try. Ask for help from those around you. Hire help, do a trade, whatever you have to do! But don't be afraid to ask.&nbsp;
 
-11. It's okay to go offline
+11. It's okay to go offline. I think every blogger that spoke talked about how they needed a break from social media, so they went offline and their audience didn't disappear, the world didn't end, and when they resumed posting, most people admired them for knowing when to step away.
 
 12. It's okay to fail. In fact, you are going to fail
 
