@@ -38,7 +38,7 @@ I think at this point it's pretty obvious that Travel Con was a huge success. I 
 
 11. It's okay to go offline. I think every blogger that spoke talked about how they needed a break from social media, so they went offline and their audience didn't disappear, the world didn't end, and when they resumed posting, most people admired them for knowing when to step away.
 
-12. It's okay to fail. In fact, you are going to fail
+12. It's okay to fail. In fact, you are going to fail so get used to it! Failure doesn't mean you have to quit. Failure just means that you need to try again. (Does that even make sense? haha) Don't give up when you fail. Take a break and when you are ready, start again.&nbsp;
 
 13. Write everyday
 
