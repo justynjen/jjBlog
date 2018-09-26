@@ -40,9 +40,9 @@ I think at this point it's pretty obvious that Travel Con was a huge success. I 
 
 12. It's okay to fail. In fact, you are going to fail so get used to it! Failure doesn't mean you have to quit. Failure just means that you need to try again. (Does that even make sense? haha) Don't give up when you fail. Take a break and when you are ready, start again.&nbsp;
 
-13. Write everyday
+13. Write everyday. Maybe this seemed obvious but I wasn't doing it. If you want to be a good writer you need to write every day! And write a lot. And edit a lot.&nbsp;
 
-14. Read everyday
+14. Read everyday. Read writers that you love.&nbsp;
 
 15. Take pictures everyday and of every day things!&nbsp;
 
