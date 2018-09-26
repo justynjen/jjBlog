@@ -42,23 +42,23 @@ I think at this point it's pretty obvious that Travel Con was a huge success. I 
 
 13. Write everyday. Maybe this seemed obvious but I wasn't doing it. If you want to be a good writer you need to write every day! And write a lot. And edit a lot.&nbsp;
 
-14. Read everyday. Read writers that you love.&nbsp;
+14. Read everyday. Read writers that you love. Read works that you admire. Read things you find funny. In order to be a great writer you have to be a great writer.&nbsp;
 
-15. Take pictures everyday and of every day things!&nbsp;
+15. Take pictures everyday and of every day things! You can use so many pictures for your everyday portfolio. Every picture doesn't have to be perfect just be taking every picture. Pictures also help you remember details that you can refer back to in your writing!&nbsp;
 
-16. Practice the skills that you want to be great at everyday&nbsp;
+16. Practice the skills that you want to be great at everyday. Like the above things, if you want to be great at something, just practice every day. If you want to make videos, do graphic design, write epics emails, or paint nice pictures, you have to be practicing these things daily!&nbsp;
 
-17. Don't be afraid to put yourself out there
+17. Don't be afraid to put yourself out there. I use to let my fear of rejection stop me from doing things that I was really excited about. Don't let fear stop you!&nbsp;
 
-18. YOU HAVE TO SELF PROMOTE
+18. YOU HAVE TO SELF PROMOTE. This for me goes with the above. I have such a hard time self promoting! But if you don't promote yourself, how is anyone going to know what you are doing?! You aren't going to be for everyone, just like everyone and everything isn't for you. And that's okay. Promote yourself anyway.
 
-19. Don't put all your eggs in one basket
+19. Don't put all your eggs in one basket. By this I mean that you shouldn't focus only on Instagram, or Youtube, Facebook or anything else. Put an egg in each of those baskets.&nbsp;
 
-20. Make friends
+20. Make friends. Friends go along way in this world. Make friends that you can travel with or catch up with when you are feeling alone.&nbsp;
 
-21. Be nice to people
+21. Be nice to people. Be nice to everyone. That's just important. You don't want to be the blogger that's hard to work with or mean. Also, it's very important that you are nice to the people in the countries that you are traveling too.&nbsp;
 
-22. Understand the culture of the place you are traveling to and respect that culture
+22. Understand the culture of the place you are traveling to and respect that culture. You can learn so much about a place&nbsp;
 
 23. Try new things
 
