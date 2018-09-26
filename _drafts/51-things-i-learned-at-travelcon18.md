@@ -42,7 +42,7 @@ I think at this point it's pretty obvious that Travel Con was a huge success. I 
 
 13. Write everyday. Maybe this seemed obvious but I wasn't doing it. If you want to be a good writer you need to write every day! And write a lot. And edit a lot.&nbsp;
 
-14. Read everyday. Read writers that you love. Read works that you admire. Read things you find funny. In order to be a great writer you have to be a great writer.&nbsp;
+14. Read everyday. Read writers that you love. Read works that you admire. Read things you find funny. In order to be a great writer you have to be a great writer.&nbsp;&nbsp;
 
 15. Take pictures everyday and of every day things! You can use so many pictures for your everyday portfolio. Every picture doesn't have to be perfect just be taking every picture. Pictures also help you remember details that you can refer back to in your writing!&nbsp;
 
@@ -64,9 +64,9 @@ I think at this point it's pretty obvious that Travel Con was a huge success. I 
 
 24. Eat new things. Go to a new resteraunt that you were too afraid to try, or just order something new on the menu at your favorite food joint.&nbsp;
 
-25. Get off the beaten path. Go to places that no one else is going.&nbsp;
+25. Get off the beaten path. When you go somewhere like Paris, find something new in the city. Consider it a challenge for yourself, your blog and your photography. Find somewhere new.
 
-26. Don't go to the same destinations that everyone is going to. Get somewhere unique.&nbsp;
+26. Don't go to the same destinations that everyone is going to. Go somewhere unique. Next time you are planning your trip, skip Paris and Venice and Berlin and find somewhere off the beaten path to go.&nbsp;
 
 27. Be aware of overtourism. Are you unsure of what overtourism is?&nbsp;
 
