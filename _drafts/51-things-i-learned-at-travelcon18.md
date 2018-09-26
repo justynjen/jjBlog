@@ -60,13 +60,13 @@ I think at this point it's pretty obvious that Travel Con was a huge success. I 
 
 22. Understand the culture of the place you are traveling to and respect that culture. You can learn so much about a place when you embrace the culture and respect people's traditions. They will also love to have you there!
 
-23. Try new things. Everyday. Try something new. Do something that challenges you.
+23. Try new things. Everyday. Try something new. Do something that challenges you. Take a class in a new place that you are, or even better, take a class at home or go to a new place you've been wanting to try. Whatever gets you out there, trying new things!
 
-24. Eat new things.&nbsp;
+24. Eat new things. Go to a new resteraunt that you were too afraid to try, or just order something new on the menu at your favorite food joint.&nbsp;
 
-25. Get off the beaten path
+25. Get off the beaten path. Go to places that no one else is going.&nbsp;
 
-26. Don't go to the same destinations that everyone is going to
+26. Don't go to the same destinations that everyone is going to. Get somewhere unique.&nbsp;
 
 27. Be aware of overtourism
 
