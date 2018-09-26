@@ -20,11 +20,10 @@ I want to help you prepare for your trip to Jordan so you aren't as taken off gu
 #### general tips
 
 1. The Visa costs WAY less if you are staying longer than 3 days
-2. You can take the bus or fly into Jordan
-3. Get the Jordan Pass. It helps with the Visa and everything you want to see (Like Petra)
-4. Get cash for Jordan. I tried to pay for the bus to Petra with my card and it got denied which was very stressful. Then I tried to get cash out and the ATM wouldn't work. Be prepared and take cash with you.
-5. Book a taxi to come get you in advance. That's what I did when I was flying out of Amman. That was I could share the taxi cost with other people, cause you can often go to your hotel or hostel and ask for a shared taxi.
-6. Go to the Dead Sea from Jordan! There were a lot fewer people when I went and it was amazing.&nbsp;
+2. [Get the Jordan Pass.](https://www.jordanpass.jo/Contents/What_is_Jordan_Pass.aspx){: target="_blank"} It helps with the Visa and everything you want to see (Like Petra) The Jordan Pass has varying levels so you can get a pass that really works for you. I know that the pass may seem really spendy, but these tourist attractions in Jordan are expensive as is the Visa, so I promise the pass really does save you money.
+3. Get cash for Jordan. I tried to pay for the bus to Petra with my card and it got denied which was very stressful. Then I tried to get cash out and the ATM wouldn't work. Be prepared and take cash with you.
+4. Book a taxi to come get you in advance. That's what I did when I was flying out of Amman. That was I could share the taxi cost with other people, cause you can often go to your hotel or hostel and ask for a shared taxi.
+5. Go to the Dead Sea from Jordan! There were a lot fewer people when I went and it was amazing.&nbsp;
 
 #### if you're taking the bus
 
@@ -34,8 +33,8 @@ I want to help you prepare for your trip to Jordan so you aren't as taken off gu
 
 #### for petra
 
-1. You can take the bus early in the morning from Amman.&nbsp;
-2. The Jordan pass saves you money and gets you an extra day in Petra so you don't have to try to squeeze everything in during one day. Get it.&nbsp;
+1. You can take the bus early in the morning from Amman and back to Amman around 6pm from Petra.&nbsp;
+2. [The Jordan pass](https://www.jordanpass.jo/Contents/What_is_Jordan_Pass.aspx){: target="_blank"} is the best way to get a ticket for Petra. You can get the 3 day pass and it also pays for your Visa and 40 other attractions. Also, try to spend 3 days in Petra, because you can do so many hikes that I missed out on only having one day.&nbsp;&nbsp;
 3. Keep an eye on the weather, Petra is known for flooding so know that you might need extra days if the weather looks bad.&nbsp;
 4. Stay in Wadi Musa so that you can continue to explore Petra and Wadi Rum
 5. You don't need a guide to see anything once you are inside. I had a run in with a guy who demanded $50 for a tour. He said he would go to the tourist police but luckily when he did, the tourist police took my side (even though there isn't sides to take - you don't need a tour guide walking around Petra)
