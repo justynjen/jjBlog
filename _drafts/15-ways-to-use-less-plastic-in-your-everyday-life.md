@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-09-26 14:00:00
-feature-image_path:
+feature-image_path: /uploads/dustan-woodhouse-675082-unsplash.jpg
 pinterest-image_path:
 title: 15 Easy Ways to Use Less Plastic in Your Everyday Life
 Author: Justyn
@@ -91,9 +91,13 @@ I know it's not your favorite bubbly body wash from Bath and Body Works, but it'
 
 Just sign up [HERE.](https://www.mcsuk.org/plastic-challenge){: target="_blank"} It's free and keeps you in the know.
 
-Remember, there's no excuse for single use plastics! It's a takes a village, but if we all start making these small changes today, we will see results in our earth, which we all share and love.
+Lastly, remember that you don't have to be perfect. Just the fact that you are trying goes a long way. And if you can't afford to make all these changes, come up with creative ways to use less plastic that works for you. Keep in mind the motto, "Progress, not Perfection".
 
 If you are interested in learning more:
 
-* [National Geographic](https://news.nationalgeographic.com/news/2015/01/150109-oceans-plastic-sea-trash-science-marine-debris/)
-* [Plastic-Pollution](http://plastic-pollution.org/)
+* [National Geographic](https://news.nationalgeographic.com/news/2015/01/150109-oceans-plastic-sea-trash-science-marine-debris/){: target="_blank"}
+* [Plastic-Pollution](http://plastic-pollution.org/){: target="_blank"}
+* [The Great Nurdle Hunt](https://www.nurdlehunt.org.uk/images/Leaflets/nurdleppflyerNEWAUGlowres.pdf){: target="_blank"}
+* [The Pacific Institute](http://pacinst.org/){: target="_blank"}
+
+And don't forget to grab the pin over in the sidebar to share this post with everyone! If we all start making tiny changes in our everyday lives, we can start to see huge results in the world.&nbsp;
