@@ -3,7 +3,7 @@ layout: posts
 date: 2018-09-26 14:00:00
 feature-image_path: /uploads/img-20180922-164604-118.jpg
 pinterest-image_path: /uploads/artboard-1-100.jpg
-title: Why I Haven't Quit Blogging Even Though I Only Made $300 in About 3 Years
+title: Why I Haven't Quit Blogging (Even Though I Only Made $300 in About 3 Years)
 Author: Justyn
 published: false
 tags:
@@ -14,7 +14,7 @@ tags:
 comments: false
 ---
 
-Blogging is hard. Travel is hard. Blogging while traveling while also freelancing to make money for it all is damn hard. I have been traveling for over 3 years. Rocking this location independent lifestyle and trotting the globe. However, in 3 years, I have made about $300 from my blog. That's right, a justyn jen income report of around $300 in 3 years. That's pretty awful right? Do you want to know why I only made $300 in 3 years of blogging and yet why I am still trying? Read on...
+Blogging is hard. Travel is hard. Blogging while traveling while also freelancing to make money for it all is damn hard. I have been traveling for over 3 years. Rocking this location independent lifestyle and trotting the globe. However, in 3 years, I have made about $300 from my blog. That's right, a justyn jen income report of around $300 in 3 years. That's pretty awful right? Do you want to know why I only made $300 in 3 years of blogging and yet why I am still trying? Read on…
 
 #### why i didn't quit
 
@@ -22,9 +22,9 @@ You might be asking yourself, if it takes that much time and energy and I am lit
 
 #### what to do when you want to quit
 
-Remind yourself of why you got into this in the first place. Do you want to share a special message? Do you want to make a change? Or just share you story? If you are just in this for the money then you probably should quit.&nbsp;
+Remind yourself of why you got into this in the first place. Do you want to share a special message? Do you want to make a change? Or just share you story? If you are just in this for the money then you probably should quit. 
 
-When I feel like quitting I look back at all the adventures that I have been on and more importantly, I think about all the people that I have met. There have been so many times where I met people who told me how much I inspired them or encouraged them to travel more, quit their job, or just pursue something that they loved. That's why I do this.&nbsp;
+When I feel like quitting I look back at all the adventures that I have been on and more importantly, I think about all the people that I have met. There have been so many times where I met people who told me how much I inspired them or encouraged them to travel more, quit their job, or just pursue something that they loved. That's why I do this. 
 
 I also call my dad whenever I feel like quitting because he always talks me out of every pity party I throw myself. So next time you are feeling discouraged, call you dad. (or whoever that is for you)
 
@@ -58,4 +58,4 @@ Now that you have identified common reasons why you want to quit, try to avoid t
 14. Journal, Scrapbook or look at old photos
 15. Ask for help
 
-Blogging isn't easy, but if you are anything like me, you aren't going to quit. I hope that this has helped you to remember why you started all this. Why you got into blogging or your own business or travel or anything! And if you need a buddy, drop me your email in the sidebar and I can help! It's always easier when you have someone to talk to.&nbsp;
+Blogging isn't easy, but if you are anything like me, you aren't going to quit. I hope that this has helped you to remember why you started all this. Why you got into blogging or your own business or travel or anything! And if you need a buddy, drop me your email in the sidebar and I can help! It's always easier when you have someone to talk to.
