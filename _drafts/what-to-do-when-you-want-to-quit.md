@@ -3,9 +3,9 @@ layout: posts
 date: 2018-09-26 14:00:00
 feature-image_path: /uploads/img-20180922-164604-118.jpg
 pinterest-image_path: /uploads/artboard-1-100.jpg
-title: What to do when you want to quit
+title: Why I Haven't Quit Blogging Even Though I Only Made $300 in About 3 Years
 Author: Justyn
-published: true
+published: false
 tags:
   - '-travel'
   - Vegan Food
