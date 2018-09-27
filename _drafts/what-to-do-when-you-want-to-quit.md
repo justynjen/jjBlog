@@ -18,9 +18,7 @@ Blogging is hard. Travel is hard. Blogging while traveling while also freelancin
 
 #### why i didn't quit
 
-You might be asking yourself, if it takes that much time and energy and I am literally getting no return, why haven't I quit? I haven't yet quit because I love writing and sharing my story. However, it gets so hard when you see SO MANY bloggers out there (mainly on Pinterest) talking about how they made $25,000 in just this year of blogging alone. Let me be the first to tell you that I hate these people. They make me want to quit.&nbsp;
-
-\*\* Okay so hate is a little harsh but it's really discouraging when people are all talk and no action. Everyone can share their magical income report of how their blog killed it, but you don't see the big timers doing that and why is that do you think? Stop using this as click bait! Thanks bye rant over.
+You might be asking yourself, if it takes that much time and energy and I am literally getting no return, why haven't I quit? I haven't yet quit because I love writing and sharing my story. However, it gets so hard when you see SO MANY bloggers out there (mainly on Pinterest) talking about how they made $25,000 in just this year of blogging alone. Let me be the first to tell you that I do not love these people. They make me want to quit. Who else feels this way?
 
 #### what to do when you want to quit
 
