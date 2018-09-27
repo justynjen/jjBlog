@@ -19,7 +19,7 @@ gems:
 jekyll-archives:
   enabled: all
   layout: 'archive'
-  permalinks: 
+  permalinks:
     year: '/:year/'
     month: '/:year/:month/'
     day: '/:year/:month/:day/'
@@ -36,3 +36,5 @@ defaults:
 
 
 permalink: /:title/
+
+paginate: 10
