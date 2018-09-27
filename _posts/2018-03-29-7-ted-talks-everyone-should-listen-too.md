@@ -5,6 +5,7 @@ feature-image_path: /uploads/haute-stock-photography-pink-mint-marble.jpg
 pinterest-image_path: /uploads/ted-talks-pin.jpg
 title: 7 Ted Talks Everyone Should Listen Too
 Author: Justyn
+permalink: 7-ted-talks
 tags:
   - Inspiration
   - Ted Talks

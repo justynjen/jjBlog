@@ -4,6 +4,7 @@ date: 2018-03-24 00:00:00
 feature-image_path: /uploads/haute-stock-styled-photography-grey.jpg
 pinterest-image_path: /uploads/podcasts-pin.jpg
 title: 7 Podcasts Every Girl In Her 20’s Should Listen To
+permalink: podcasts
 Author: Justyn
 tags:
   - Travel

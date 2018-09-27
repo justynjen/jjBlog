@@ -4,6 +4,7 @@ date: 2018-09-07 14:00:00
 feature-image_path: /uploads/lofoten-islands-norway.jpeg
 pinterest-image_path: /uploads/norway-pin.jpg
 title: 10 Ways to Save Money Traveling in Norway
+permalink: save-money-traveling-norway
 Author: Justyn
 published: true
 tags:

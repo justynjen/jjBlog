@@ -4,6 +4,7 @@ date: 2017-11-04 00:00:00
 feature-image_path: /assets/img/insta-tour5.jpg
 pinterest-image_path: /uploads/cafes-bali-pin.jpg
 title: '11 Best Cafes to CoWork From in Canguu, Bali'
+permalink: best-cafes-bali
 Author: Justyn
 comments: true
 category:
