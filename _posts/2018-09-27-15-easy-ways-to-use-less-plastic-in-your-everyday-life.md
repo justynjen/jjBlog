@@ -2,7 +2,7 @@
 layout: posts
 date: 2018-09-27 20:00:00
 feature-image_path: /uploads/dustan-woodhouse-675082-unsplash.jpg
-pinterest-image_path: /uploads/plastics-pin.jpg
+pinterest-image_path: /uploads/artboard-1-101.jpg
 title: 15 Easy Ways to Use Less Plastic in Your Everyday Life
 Author: Justyn
 published: true
