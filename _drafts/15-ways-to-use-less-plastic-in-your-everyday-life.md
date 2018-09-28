@@ -1,11 +1,11 @@
 ---
 layout: posts
-date: 2018-09-26 14:00:00
+date: 2018-09-27 20:00:00
 feature-image_path: /uploads/dustan-woodhouse-675082-unsplash.jpg
 pinterest-image_path: /uploads/plastics-pin.jpg
 title: 15 Easy Ways to Use Less Plastic in Your Everyday Life
 Author: Justyn
-published: false
+published: true
 tags:
   - '-travel'
   - Sustainable Travel
@@ -31,11 +31,11 @@ Now that I have your attention, I am hoping the following tips will encourage yo
 
 #### 1. say no to plastic straws.
 
-[Buy a set of these bamboo straws and keep one in your purse or backpack.](https://amzn.to/2Il7V6R){: target="_blank"} Or switch to paper straws. One of my favorite things from this year has to do with a coffee shop I loved switching to paper straws. Everyday we went to this coffee shop in London and got an iced coffee with no straw. They knew our orders, we loved the cafe but they used so many plastic straws. Then one day I went in and the staff was beyond excited to share with me that they had switched to paper straws so that I could use them! Start saying no to plastic straws and maybe you can see these changes in your own community.&nbsp;
+[Buy a set of these bamboo straws and keep one in your purse or backpack.](https://amzn.to/2Il7V6R){: target="_blank"}&nbsp;One of my favorite things from this year has to do with a coffee shop I loved switching to paper straws. Everyday we went to this coffee shop in London and got an iced coffee with no straw. We loved the cafe but they used so many plastic straws. Then one day I went in and the staff was beyond excited to share with me that they had switched to paper straws so that I could use them! Start saying no to plastic straws and maybe you can see these changes in your own community.&nbsp;
 
 #### 2. don't bag all your fruits and veggies at the grocery store
 
-I know people might look at you funny, but just put them in your cart. You wash them when you get home anyway! It's an unnecessary use of plastic to bag all those fruits and veggies.&nbsp;
+I know people might look at you funny, but just put them in your cart. You wash them when you get home anyway. It's an unnecessary use of plastic to bag all those fruits and veggies.&nbsp;
 
 #### 3. get reusable bags for your grocery shopping
 
@@ -47,7 +47,7 @@ Switch over to a bamboo toothbrush! I love mine, I actually got it at travel con
 
 #### 5. Get a reusable mug/water bottle
 
-Don't use those plastic water bottles! There's no need. Carry with you a reusable bottle and you can even take your own mug to a coffee shop and use that.&nbsp;
+Don't use those plastic water bottles. There's no need. Carry with you a reusable bottle and you can even take your own mug to a coffee shop.&nbsp;
 
 You can find my favorite [collapsible mug here](https://amzn.to/2IkwdxO){: target="_blank"}. You don't even have to worry about it taking up space because it's completely collapses. As for a water bottle, [Hydroflask](https://amzn.to/2DCAuho){: target="_blank"} is my favorite because who doesn't want to cold water forever? Find yours [here](https://amzn.to/2DCAuho){: target="_blank"}. (I've also covered mine in stickers to personalize it, plus I just think it's cute.)
 
@@ -69,7 +69,7 @@ I'm just going to say, probably the best thing ever invented for women everywher
 
 #### 10. support local brands instead of corporations
 
-Whether you are traveling or just at home, look for local brands that you can support instead of those larger corporations. It might cost a bit more, but I promise it's worth it. You are supporting a local family or artisan and you are helping the earth as well. Isn't that worth an extra $1 here and there?
+Whether you are traveling or just at home, look for local brands that you can support instead of those larger corporations. It might cost a bit more, but I promise it's worth it. You are supporting a local family or artisan and you are helping the earth as well.&nbsp;
 
 #### 11. plastic free cotton buds
 
@@ -81,7 +81,7 @@ Next time you want to take a picnic or snacks on the airplane, try packing them 
 
 #### 13. carry camping silverware with you
 
-[This spork](https://amzn.to/2Q9NBYK){: target="_blank"} literally only cost $2 and you can take it anywhere. There's tons of camping silverware out there that you can use, just be careful because I did have a butter knife taken from me along with a jar of peanut butter at security once. But I always travel with a fork and spoon connected by a key chain because then you are just prepared to eat on the go, no matter what. And you can say no to plastic forks and spoons at food trucks or street food stands.
+[This spork](https://amzn.to/2Q9NBYK){: target="_blank"}&nbsp;only cost $2 and you can take it anywhere. There's tons of camping silverware out there that you can use, just be careful because I did have a butter knife taken from me along with a jar of peanut butter at security once. But I always travel with a fork and spoon connected by a key chain because then you are just prepared to eat on the go, no matter what. And you can say no to plastic forks and spoons at food trucks or street food stands.
 
 #### 14. traditional bar of soap with paper wrapping
 
