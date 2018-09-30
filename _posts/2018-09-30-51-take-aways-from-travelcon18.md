@@ -29,7 +29,7 @@ Our first keynote speaker, [Ryan Holiday](https://ryanholiday.net/){: target="_b
 
 This struck me so hard on the first day. I have never felt like I was doing work that only I could do. I think this was partly because I was still on the fence and unsure of my voice. I have since decided to throw all doubt out the window and take off.&nbsp;
 
-**Networking is key to success! **
+**Networking is key to success!**
 
 I have never really networked before TravelCon. Most of the time, I don't even tell people what I do… (I know, very stupid) but TravelCon taught me that people want to hear my story and connect with me. I even met amazing bloggers willing to host me in their cities. (My first stop is to visit Chauntel from [Voyaging Vagabond](https://voyagingvagabond.com/){: target="_blank"} to apple pick in Rhode Island)
 
