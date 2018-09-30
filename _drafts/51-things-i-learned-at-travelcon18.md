@@ -1,9 +1,9 @@
 ---
 layout: posts
 date: 2018-09-26 14:00:00
-feature-image_path:
-pinterest-image_path:
-title: 51 Things I Learned at TravelCon18
+feature-image_path: /uploads/jon-tyson-277923-unsplash.jpg
+pinterest-image_path: /uploads/travelcon-pin.jpg
+title: 51 Take Aways From TravelCon18
 Author: Justyn
 published: true
 tags:
