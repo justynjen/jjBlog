@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-09-30 14:16:00
-feature-image_path: /uploads/jon-tyson-277923-unsplash.jpg
+feature-image_path: /uploads/paolo-nicolello-692918-unsplash.jpg
 pinterest-image_path: /uploads/travelcon-pin.jpg
 title: 51 Take Aways From TravelCon18
 Author: Justyn
