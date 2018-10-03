@@ -8,8 +8,10 @@ Author: Justyn
 published: true
 tags:
   - '-travel'
-  - Amsterdam
-  - Europe
+  - Middle East
+  - Solo Travel
+  - Jordan
+  - Petra
 comments: false
 ---
 
