@@ -3,7 +3,7 @@ layout: posts
 date: 2018-10-03 15:00:00
 feature-image_path: /uploads/jordan-petra-town.jpg
 pinterest-image_path:
-title: 15 Things to Know Before Traveling Alone to Jordan
+title: 15 Tips to Prepare for Your Solo Trip to Jordan
 Author: Justyn
 published: true
 tags:
