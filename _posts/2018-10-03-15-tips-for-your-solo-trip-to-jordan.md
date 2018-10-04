@@ -15,9 +15,9 @@ tags:
 comments: false
 ---
 
-Jordan was unlike any other place that I had been. I was a bit nervous at the start, as I often am when I travel to new place in a new region of the world. The bus dropped me off in the middle of nowhere and everyone wanted me to pay way too much for a taxi into the city. However, regardless of the rough start, Jordan was full of amazing surprises.&nbsp;
+Jordan was unlike any other place that I have been. I was a bit nervous when I first decided to go, as I often am when I travel in a new region of the world. I took the bus from [Nazareth](/how-i-spent-the-weekend-in-nazareth/) to Amman. The bus dropped me off in the middle of nowhere and everyone wanted me to pay way too much for a taxi into the city. However, regardless of the rough start, Jordan was full of amazing surprises.&nbsp;
 
-I want to help you prepare for your trip to Jordan so you aren't as taken off guard as I was at first. Here's 15 things to know before you travel alone to Jordan.&nbsp;
+I want to help you prepare for your trip to Jordan so you aren't as taken off guard as I was at first. Here's 15 things to know before you travel solo to Jordan.&nbsp;
 
 #### general tips
 
