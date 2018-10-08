@@ -12,7 +12,7 @@ published: true
 category: Freelancing
 ---
 
-Being a digital nomad requires that you have a few essential things with you all the time. I easily manage travel full time but I wouldn’t be able to do it without all of these things in my back pack!
+Being a freelancer requires that you have a few essential things with you all the time. I easily manage travel full time but I wouldn’t be able to do it without all of these things in my back pack!
 
 #### HP Spectre Laptop.
 
@@ -60,7 +60,7 @@ This backpack has changed the game for me. This bad boy holds EVERYTHING and ope
 
 #### Google Pixel 2 XL.
 
-This phone might not be your first choice when you think of your next upgrade, but let me let you know right now why you need it as a digital nomad. First thing, my whole life and business are in my google drive and this is the google phone. Meaning this phone connects directly to my business. It also has A TON of storage and an amazing camera. You can snap all the travel pics to make your friends and family jealous. Plus it still costs a lot less than the beloved iPhone. [Find one here.](https://amzn.to/2pEhyVG){: target="_blank"}
+This phone might not be your first choice when you think of your next upgrade, but let me let you know right now why you need it as a freelancer. First thing, my whole life and business are in my google drive and this is the google phone. Meaning this phone connects directly to my business. It also has A TON of storage and an amazing camera. You can snap all the travel pics to make your friends and family jealous. Plus it still costs a lot less than the beloved iPhone. [Find one here.](https://amzn.to/2pEhyVG){: target="_blank"}
 
 #### Portable External Hard Drive&nbsp;
 
@@ -68,13 +68,13 @@ I don’t go anywhere without my storage device. It is my life. Everything goes 
 
 #### Skyroam Solis Portable Wi-Fi.
 
-If you have this bad boy you don’t need much else. Never worry about Wi-Fi again because you finally have your own to carry around with you all the time. I wouldn’t be able to survive without the Skyroam. It’s a total game changer. Every digital nomad out there [needs one of these now.](https://amzn.to/2Rujf4G){: target="_blank"}&nbsp;
+If you have this bad boy you don’t need much else. Never worry about Wi-Fi again because you finally have your own to carry around with you all the time. I wouldn’t be able to survive without the Skyroam. It’s a total game changer. Every freelancer out there [needs one of these now.](https://amzn.to/2Rujf4G){: target="_blank"}&nbsp;
 
 #### Kindle eReader![](//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&amp;l=am2&amp;o=1&amp;a=B06XD5YCKX).
 
 This eReader is the best for travel because it has those pages that actually look like book pages with no glare, meaning that you can now read all your favorites at the beach, in the airport or late at night in bed. eReading is the way of the world, go ahead and jump on board with [this awesome new eReader from Kindle.](https://amzn.to/2pI2oyC){: target="_blank"} The perfect way to relax when you have to work a lot.
 
-This may seem like a lot, but I swear I can’t take a trip without all of this with me. My business just wouldn’t run the same without it. What do you have to have in order to have your digital nomad business run smoothly?
+This may seem like a lot, but I swear I can’t take a trip without all of this with me. My business just wouldn’t run the same without it. What do you have to have in order to have your freelance business run smoothly?
 
 &nbsp;
 
