@@ -1,8 +1,8 @@
 ---
 layout: posts
 date: 2018-10-03 15:00:00
-feature-image_path: /uploads/jordan-petra-town.jpg
-pinterest-image_path: /uploads/artboard-1-103.jpg
+feature-image_path:
+pinterest-image_path:
 title: The Best Vegan & Sustainable Clothing Brands
 Author: Justyn
 published: true
@@ -14,3 +14,4 @@ tags:
   - Petra
 comments: false
 ---
+
