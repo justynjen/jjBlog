@@ -1,8 +1,8 @@
 ---
 layout: posts
 date: 2018-10-08 16:00:00
-feature-image_path:
-pinterest-image_path:
+feature-image_path: /uploads/haute-stock-photography-spots-and-stripes-final-13.jpg
+pinterest-image_path: /uploads/beginners-guide-to-pinterest-100.jpg
 title: A Beginner's Guide to Pinterest
 Author: Justyn
 published: true
@@ -21,7 +21,7 @@ First things first, Pinterest is not another social media network. Please do not
 
 #### Treating Pinterest like a Search Engine
 
-This means that you have to think about your keywords. If you are a beginner on Pinterest then this is the number one place you need to start. If you’ve been attempting to work on Pinterest for &nbsp;a while now then I want you to go back through every single blog post you have and work on this. Every blog post that you write should contain keywords. Keywords are the things that search engines look for when they are scanning for results to give a user. If you aren’t using keywords, then your blogs are never going to show up in search results. For every blog post you write, you need to be doing keyword research and then you need to be using those keywords correctly.
+This means that you have to think about your keywords. If you are a beginner on Pinterest then this is the number one place you need to start. If you’ve been attempting to work on Pinterest for  a while now then I want you to go back through every single blog post you have and work on this. Every blog post that you write should contain keywords. Keywords are the things that search engines look for when they are scanning for results to give a user. If you aren’t using keywords, then your blogs are never going to show up in search results. For every blog post you write, you need to be doing keyword research and then you need to be using those keywords correctly.
 
 [**Download my Free Mini eBook on how to Master Pinterest SEO.**](https://www.subscribepage.com/pinterest-freebie){: target="_blank"}
 
