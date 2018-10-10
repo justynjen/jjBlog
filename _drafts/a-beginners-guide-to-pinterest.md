@@ -1,6 +1,6 @@
 ---
 layout: posts
-date: 2018-10-10 16:00:00
+date: 2018-10-10 12:00:00
 feature-image_path: /uploads/haute-stock-photography-spots-and-stripes-final-13.jpg
 pinterest-image_path: /uploads/beginners-guide-to-pinterest-100.jpg
 title: A Beginner's Guide to Pinterest
