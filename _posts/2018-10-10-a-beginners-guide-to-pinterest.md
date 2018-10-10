@@ -23,7 +23,7 @@ First things first, **Pinterest is not another social media network.** Please do
 
 #### Treating Pinterest like a Search Engine
 
-When you start treating Pinterest like a search engine you also have to start thinking about your keywords. If you are a beginner on Pinterest then this is the number one place you need to start. If you’ve been attempting to work on Pinterest for &nbsp;a while now then I want you to go back through every single blog post you have and work on this. Every blog post that you write should contain keywords. Keywords are the things that search engines look for when they are scanning for results to give a user. If you aren’t using keywords, then your blogs are never going to show up in search results. For every blog post you write, you need to be doing keyword research and then you need to be using those keywords correctly.
+When you start treating Pinterest like a search engine you also have to start thinking about your keywords. If you are a beginner on Pinterest then this is the number one place you need to start. If you’ve been attempting to work on Pinterest for  a while now then I want you to go back through every single blog post you have and work on this. Every blog post that you write should contain keywords. Keywords are the things that search engines look for when they are scanning for results to give a user. If you aren’t using keywords, then your blogs are never going to show up in search results. For every blog post you write, you need to be doing keyword research and then you need to be using those keywords correctly.
 
 [**Download my Free Mini eBook on how to Master Pinterest SEO.**](https://www.subscribepage.com/pinterest-freebie){: target="_blank"}
 
