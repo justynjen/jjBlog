@@ -1,15 +1,17 @@
 ---
 layout: posts
-date: 2018-10-08 16:00:00
+date: 2018-10-10 16:00:00
 feature-image_path: /uploads/haute-stock-photography-spots-and-stripes-final-13.jpg
 pinterest-image_path: /uploads/beginners-guide-to-pinterest-100.jpg
 title: A Beginner's Guide to Pinterest
 Author: Justyn
 published: true
 tags:
-  - '-travel'
-  - Egypt
-  - Solo Travel
+  - Freelancing
+  - Pinterest
+  - Work Online
+  - Online Marketing
+  - Pinterest Marketing
 comments: false
 ---
 
