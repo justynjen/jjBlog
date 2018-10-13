@@ -2,15 +2,15 @@
 layout: posts
 date: 2018-03-19 00:00:00
 feature-image_path: /uploads/9 Tools for Digital Nomads.jpg
-pinterest-image_path: /uploads/Freelancers-tools-pin.jpg
+pinterest-image_path:
 title: 9 Online Tools for Freelancers
 permalink: online-freelancer-tools
 Author: Justyn
 tags:
   - Travel
 comments: true
-category: Digital Nomad
-published: true
+category:
+published: false
 ---
 
 Today I am sharing with you my top 9 tools that you better have in your Freelancing toolkit. These are the things that I use everyday to get my work done, invoice my clients, track my time and make sure that I am getting my tasks done. Whether you are just starting out in this Digital Nomad journey or you are a seasoned worker, I think that these digital nomad tools will really help you!
