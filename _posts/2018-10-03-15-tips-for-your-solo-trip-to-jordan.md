@@ -2,7 +2,7 @@
 layout: posts
 date: 2018-10-03 15:00:00
 feature-image_path: /uploads/jordan-petra-town.jpg
-pinterest-image_path: /uploads/artboard-1-103.jpg
+pinterest-image_path: /uploads/trial-100.jpg
 title: 15 Tips for Your Solo Trip to Jordan
 Author: Justyn
 published: true
@@ -15,9 +15,9 @@ tags:
 comments: false
 ---
 
-Jordan was unlike any other place that I have been. I was a bit nervous when I first decided to go, as I often am when I travel in a new region of the world. I took the bus from [Nazareth](/how-i-spent-the-weekend-in-nazareth/) to Amman. The bus dropped me off in the middle of nowhere and everyone wanted me to pay way too much for a taxi into the city. However, regardless of the rough start, Jordan was full of amazing surprises.&nbsp;
+Jordan was unlike any other place that I have been. I was a bit nervous when I first decided to go, as I often am when I travel in a new region of the world. I took the bus from [Nazareth](/how-i-spent-the-weekend-in-nazareth/) to Amman. The bus dropped me off in the middle of nowhere and everyone wanted me to pay way too much for a taxi into the city. However, regardless of the rough start, Jordan was full of amazing surprises. 
 
-I want to help you prepare for your trip to Jordan so you aren't as taken off guard as I was at first. Here's 15 things to know before you travel solo to Jordan.&nbsp;
+I want to help you prepare for your trip to Jordan so you aren't as taken off guard as I was at first. Here's 15 things to know before you travel solo to Jordan. 
 
 #### general tips
 
@@ -25,7 +25,7 @@ I want to help you prepare for your trip to Jordan so you aren't as taken off gu
 2. [Get the Jordan Pass.](https://www.jordanpass.jo/Contents/What_is_Jordan_Pass.aspx){: target="_blank"} It helps with the Visa and everything you want to see (Like Petra) The Jordan Pass has varying levels so you can get a pass that really works for you. I know that the pass may seem really spendy, but these tourist attractions in Jordan are expensive as is the Visa, so I promise the pass really does save you money.
 3. Get cash for Jordan. I tried to pay for the bus to Petra with my card and it got denied which was very stressful. Then I tried to get cash out and the ATM wouldn't work. Be prepared and take cash with you.
 4. Book a taxi to come get you in advance. That's what I did when I was flying out of Amman. That was I could share the taxi cost with other people, cause you can often go to your hotel or hostel and ask for a shared taxi.
-5. Go to the Dead Sea from Jordan! There were a lot fewer people when I went and it was amazing.&nbsp;
+5. Go to the Dead Sea from Jordan! There were a lot fewer people when I went and it was amazing. 
 
 #### if you're taking the bus
 
@@ -35,15 +35,15 @@ I want to help you prepare for your trip to Jordan so you aren't as taken off gu
 
 #### for petra
 
-1. You can take the bus early in the morning from Amman and back to Amman around 6pm from Petra.&nbsp;
-2. [The Jordan pass](https://www.jordanpass.jo/Contents/What_is_Jordan_Pass.aspx){: target="_blank"} is the best way to get a ticket for Petra. You can get the 3 day pass and it also pays for your Visa and 40 other attractions. Also, try to spend 3 days in Petra, because you can do so many hikes that I missed out on only having one day.&nbsp;&nbsp;
-3. Keep an eye on the weather, Petra is known for flooding so know that you might need extra days if the weather looks bad.&nbsp;
+1. You can take the bus early in the morning from Amman and back to Amman around 6pm from Petra. 
+2. [The Jordan pass](https://www.jordanpass.jo/Contents/What_is_Jordan_Pass.aspx){: target="_blank"} is the best way to get a ticket for Petra. You can get the 3 day pass and it also pays for your Visa and 40 other attractions. Also, try to spend 3 days in Petra, because you can do so many hikes that I missed out on only having one day.  
+3. Keep an eye on the weather, Petra is known for flooding so know that you might need extra days if the weather looks bad. 
 4. Stay in Wadi Musa so that you can continue to explore Petra and Wadi Rum
 5. You don't need a guide to see anything once you are inside. I had a run in with a guy who demanded $50 for a tour. He said he would go to the tourist police but luckily when he did, the tourist police took my side (even though there isn't sides to take - you don't need a tour guide walking around Petra)
 
 #### eating vegan
 
-1. People didn't understand that I didn't eat meat. I would ask a restaurant if they had meatless options and was often offered chicken or fish. It's easier to just ask if they have falafel, hummus or vegetables.&nbsp;
+1. People didn't understand that I didn't eat meat. I would ask a restaurant if they had meatless options and was often offered chicken or fish. It's easier to just ask if they have falafel, hummus or vegetables. 
 2. Get comfortable with lots of Falafel. I ate falafel balls everyday while I was in Jordan. It was a lot easier than trying to explain my diet. (And I do mean falafel balls, not wraps or anything like that, they just serve you falafel balls with hummus)
 
 My biggest takeaways from Jordan were how nice the people were and how safe I felt all the time. While there are people who want to scam you, I found that if you are nice, ask for a reasonable price and talk to the locals, that goes a long way. Don't be nervous about your solo trip to Jordan and I hope that these tips help you feel even more prepared when you go.
