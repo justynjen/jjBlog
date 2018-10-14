@@ -2,7 +2,7 @@
 layout: posts
 date: 2018-07-04 14:00:00
 feature-image_path: /uploads/haute-chocolate-styled-stock-photography-black-white.jpg
-pinterest-image_path: /uploads/first-client-pin.jpg
+pinterest-image_path: /uploads/get-your-first-client-online-pin-100.jpg
 title: 5 Ways to Get Your First Client Today!
 Author: Justyn
 tags:
