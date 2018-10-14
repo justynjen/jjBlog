@@ -2,7 +2,7 @@
 layout: posts
 date: 2018-03-29 00:00:00
 feature-image_path: /uploads/haute-stock-photography-pink-mint-marble.jpg
-pinterest-image_path: /uploads/ted-talks-pin.jpg
+pinterest-image_path: /uploads/ted-talks-100.jpg
 title: 7 Ted Talks Everyone Should Listen Too
 Author: Justyn
 permalink: 7-ted-talks

@@ -2,7 +2,7 @@
 layout: posts
 date: 2018-04-23 00:00:00
 feature-image_path: /uploads/black-coffee-blur-cup-and-saucer.jpg
-pinterest-image_path: /uploads/pinterest-business-pin.jpg
+pinterest-image_path: /uploads/grow-on-pinterest-for-business-100.jpg
 title: Pinterest For Business - How Pinterest Can Help You Grow
 Author: Justyn
 tags:

@@ -2,7 +2,7 @@
 layout: posts
 date: 2018-10-08 16:00:00
 feature-image_path: /uploads/pyramids-of-giza-egypt.jpg
-pinterest-image_path: /uploads/artboard-1-104.jpg
+pinterest-image_path: /uploads/solo-tip-to-egypt-100.jpg
 title: 20 Tips For Traveling Alone in Egypt
 Author: Justyn
 published: true
@@ -13,13 +13,13 @@ tags:
 comments: false
 ---
 
-[I loved Egypt!](/10-things-i-loved-about-egypt/)&nbsp;I have wanted to go to for a really long time but for some reason I always talked myself out of going out of fear. This year though, I realized that was stupid and I booked a ticket. I went to Egypt alone, as a very white, very blonde and very American. I was nervous but honestly, I knew that I would be fine. Since going I have had so many women reach out to me to hear how my trip went and ask if it’s safe for them to go too. That’s what led me to write this post. My 20 tips for your solo trip to Egypt.
+[I loved Egypt!](/10-things-i-loved-about-egypt/) I have wanted to go to for a really long time but for some reason I always talked myself out of going out of fear. This year though, I realized that was stupid and I booked a ticket. I went to Egypt alone, as a very white, very blonde and very American. I was nervous but honestly, I knew that I would be fine. Since going I have had so many women reach out to me to hear how my trip went and ask if it’s safe for them to go too. That’s what led me to write this post. My 20 tips for your solo trip to Egypt.
 
 #### Book a hostel
 
 I recommend stay at Dahab Hostel. I stayed at Dahab in a private room for only $7. They even sent me an airport pickup for only $6. They have a beautiful rooftop garden with tons of pillows and seating areas where you can chat and play games with other hostel guests and anytime you want to eat they will order food for you and have it delivered. The other great thing about Dahab is that they organize tours all over Egypt that you can go on. [Book a stay in Cairo today.](https://www.booking.com/city/eg/cairo.en.html?aid=1624497&amp;no_rooms=1&amp;group_adults=1){: target="_blank"}
 
-#### Organize a taxi pickup &nbsp;
+#### Organize a taxi pickup  
 
 My pickup from the airport was only $6 and my taxi driver was awesome. He had a sign with my name on it and provided water for me. I paid the hostel and they took care of paying him so it was perfect.
 
@@ -77,7 +77,7 @@ Mine was 30 gigs for only $6. After getting my sim from the airport, I went to a
 
 #### Luxor
 
-Take the train to Luxor and stay for a few nights. Luxor is amazing and it has tons of history. I want to go back to Egypt just to be able to spend more time there.&nbsp;[You can book your stay in Luxor here.](https://www.booking.com/city/eg/luxor.en.html?aid=1624497&amp;no_rooms=1&amp;group_adults=1){: target="_blank"}
+Take the train to Luxor and stay for a few nights. Luxor is amazing and it has tons of history. I want to go back to Egypt just to be able to spend more time there. [You can book your stay in Luxor here.](https://www.booking.com/city/eg/luxor.en.html?aid=1624497&amp;no_rooms=1&amp;group_adults=1){: target="_blank"}
 
 #### Coffee
 
@@ -89,10 +89,10 @@ Avoid the nonalcoholic beer. It’s nasty yo. That’s all I need to say on the 
 
 #### Cash
 
-Get cash out of the ATM. I never paid with card. I got cash out a couple times, but Egypt is really cheap so don’t take out way too much. Also, be aware when you are traveling alone in Egypt not to carry too much cash on you at once. I never felt unsafe, but just be careful. Leave your passport, extra cash and credit cards in your room.&nbsp;
+Get cash out of the ATM. I never paid with card. I got cash out a couple times, but Egypt is really cheap so don’t take out way too much. Also, be aware when you are traveling alone in Egypt not to carry too much cash on you at once. I never felt unsafe, but just be careful. Leave your passport, extra cash and credit cards in your room. 
 
 #### Museums & other attractions
 
 Head to the museums later in the day. Kids are there for school trips and they will want 100 pictures and they will follow you around the whole time. It’s just like the pyramids, go later in the day to avoid the crowds of children.
 
-\*\* This post contains affiliate links. By purchasing through these links you help to support me and my blog as I receive a percentage at no additional cost to you! Thank you for supporting me and what I love to do.&nbsp;&nbsp;
+\*\* This post contains affiliate links. By purchasing through these links you help to support me and my blog as I receive a percentage at no additional cost to you! Thank you for supporting me and what I love to do.
