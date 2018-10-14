@@ -2,7 +2,7 @@
 layout: posts
 date: 2018-03-19 00:00:00
 feature-image_path: /uploads/9 Tools for Digital Nomads.jpg
-pinterest-image_path:
+pinterest-image_path: /uploads/freelancing-pin-100.jpg
 title: 9 Online Tools for Freelancers
 permalink: online-freelancer-tools
 Author: Justyn
