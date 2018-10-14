@@ -2,7 +2,7 @@
 layout: posts
 date: 2018-04-24 00:00:00
 feature-image_path: /uploads/haute-stock-photography-sand.jpg
-pinterest-image_path: /uploads/freelancer-tools-pin.jpg
+pinterest-image_path: /uploads/freelancing-tools-101.jpg
 title: 15 Tools That Every Freelancer Needs To Work From Anywhere
 Author: Justyn
 tags:
@@ -16,15 +16,15 @@ Being a freelancer requires that you have a few essential things with you all th
 
 #### HP Spectre Laptop.
 
-[This Laptop](https://amzn.to/2pDS8aJ){: target="_blank"} is amazing. I cannot speak highly of it. It’s light weight and extremely powerful. It has an incredible 4k touch screen that I use for Digital Illustration. The screen has 4k resolution and this computer is a winner when it comes to multitasking.![](//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&amp;l=am2&amp;o=1&amp;a=B076QQRWZF)&nbsp;Find it on [Amazon.](https://amzn.to/2pDS8aJ){: target="_blank"}
+[This Laptop](https://amzn.to/2pDS8aJ){: target="_blank"} is amazing. I cannot speak highly of it. It’s light weight and extremely powerful. It has an incredible 4k touch screen that I use for Digital Illustration. The screen has 4k resolution and this computer is a winner when it comes to multitasking.![](//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&amp;l=am2&amp;o=1&amp;a=B076QQRWZF) Find it on [Amazon.](https://amzn.to/2pDS8aJ){: target="_blank"}
 
 #### The Surface Arc Mouse.
 
-[This mouse](https://amzn.to/2yhIIFC){: target="_blank"} folds up to be basically flat. I love it. It's absolutely perfect for travel because it slides right into your bag. Also, the battery life lasts forever so you don't really have to worry about carrying extra batteries. I love having a mouse on hand.![](//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&amp;l=am2&amp;o=1&amp;a=B00FG7MZP0)&nbsp;[Have a look at the one I have.](https://amzn.to/2yhIIFC){: target="_blank"}
+[This mouse](https://amzn.to/2yhIIFC){: target="_blank"} folds up to be basically flat. I love it. It's absolutely perfect for travel because it slides right into your bag. Also, the battery life lasts forever so you don't really have to worry about carrying extra batteries. I love having a mouse on hand.![](//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&amp;l=am2&amp;o=1&amp;a=B00FG7MZP0) [Have a look at the one I have.](https://amzn.to/2yhIIFC){: target="_blank"}
 
 #### Laptop screen pen.
 
-I use my computer pen all the time. It helps me add customization to my blog and graphics.&nbsp;[This pen is amazing.](https://amzn.to/2BZKTkG){: target="_blank"} It takes my design work to the next levels, and allows me to make personal notes of my portfolio to point out to people exactly what I want them to see. (Certain computers do come with their own pen, but it your doesn’t, check this out!) Another GREAT option is the [Wacom Pen.](https://amzn.to/2y895P3){: target="_blank"}&nbsp;
+I use my computer pen all the time. It helps me add customization to my blog and graphics. [This pen is amazing.](https://amzn.to/2BZKTkG){: target="_blank"} It takes my design work to the next levels, and allows me to make personal notes of my portfolio to point out to people exactly what I want them to see. (Certain computers do come with their own pen, but it your doesn’t, check this out!) Another GREAT option is the [Wacom Pen.](https://amzn.to/2y895P3){: target="_blank"} 
 
 #### Battery pack.
 
@@ -32,7 +32,7 @@ Having a really good battery pack can really change things for you. Being able t
 
 #### Travel universal cable
 
-What better way to stay organized then with a power cord organizer?! This way you can always find what you are looking for. No more lost cords, anywhere! I love it. I swear I have always been that person that loses all their cords and then finds them all tangled into one jumbled mess! But no more! Now I can always find everything and it’s amazing. You have to get one of these. Just throw it into your bag and you will always have everything you need. [I use the this one.&nbsp;](https://amzn.to/2ylcOrX){: target="_blank"}
+What better way to stay organized then with a power cord organizer?! This way you can always find what you are looking for. No more lost cords, anywhere! I love it. I swear I have always been that person that loses all their cords and then finds them all tangled into one jumbled mess! But no more! Now I can always find everything and it’s amazing. You have to get one of these. Just throw it into your bag and you will always have everything you need. [I use the this one. ](https://amzn.to/2ylcOrX){: target="_blank"}
 
 #### Power converter.
 
@@ -44,11 +44,11 @@ This is the best way to save your back when you are always working from your lap
 
 #### Travel Microphone.
 
-Now a travel microphone might not be for everyone, but I really think that it comes in handy more than people think it will. [This little guy folds right up](https://amzn.to/2C0WU9z){: target="_blank"} to fit basically anywhere. Pull it out to record podcasts, interviews, webinars, online classes and more. Never be hard to hear again! This will change everything for you.&nbsp;
+Now a travel microphone might not be for everyone, but I really think that it comes in handy more than people think it will. [This little guy folds right up](https://amzn.to/2C0WU9z){: target="_blank"} to fit basically anywhere. Pull it out to record podcasts, interviews, webinars, online classes and more. Never be hard to hear again! This will change everything for you. 
 
 #### Wireless Headphones
 
-Having a good pair of bluetooth headphones is the best. [These little ](https://amzn.to/2BZr0ud){: target="_blank"}[ones](__notset__)&nbsp;don’t even have cords that you have to deal with. You just throw them in your purse or backpack and then you always have them when you need them. Say goodbye to messy cords and always having to untangle your headphones. This will solve all those problems for you.
+Having a good pair of bluetooth headphones is the best. [These little ](https://amzn.to/2BZr0ud){: target="_blank"}[ones](__notset__) don’t even have cords that you have to deal with. You just throw them in your purse or backpack and then you always have them when you need them. Say goodbye to messy cords and always having to untangle your headphones. This will solve all those problems for you.
 
 #### Universal Surge Protector / Power Strip
 
@@ -62,13 +62,13 @@ This backpack has changed the game for me. This bad boy holds EVERYTHING and ope
 
 This phone might not be your first choice when you think of your next upgrade, but let me let you know right now why you need it as a freelancer. First thing, my whole life and business are in my google drive and this is the google phone. Meaning this phone connects directly to my business. It also has A TON of storage and an amazing camera. You can snap all the travel pics to make your friends and family jealous. Plus it still costs a lot less than the beloved iPhone. [Find one here.](https://amzn.to/2pEhyVG){: target="_blank"}
 
-#### Portable External Hard Drive&nbsp;
+#### Portable External Hard Drive 
 
-I don’t go anywhere without my storage device. It is my life. Everything goes straight from my laptop to my google drive and my portable storage. I don’t leave anything up to chance, I back everything up. I love having my storage drive to store photos, websites and word documents and eBooks. I have [this thing organized](https://amzn.to/2C3YpEc){: target="_blank"}&nbsp;and if anything was my personal assistant, [it would be this.](https://amzn.to/2C3YpEc){: target="_blank"}
+I don’t go anywhere without my storage device. It is my life. Everything goes straight from my laptop to my google drive and my portable storage. I don’t leave anything up to chance, I back everything up. I love having my storage drive to store photos, websites and word documents and eBooks. I have [this thing organized](https://amzn.to/2C3YpEc){: target="_blank"} and if anything was my personal assistant, [it would be this.](https://amzn.to/2C3YpEc){: target="_blank"}
 
 #### Skyroam Solis Portable Wi-Fi.
 
-If you have this bad boy you don’t need much else. Never worry about Wi-Fi again because you finally have your own to carry around with you all the time. I wouldn’t be able to survive without the Skyroam. It’s a total game changer. Every freelancer out there [needs one of these now.](https://amzn.to/2Rujf4G){: target="_blank"}&nbsp;
+If you have this bad boy you don’t need much else. Never worry about Wi-Fi again because you finally have your own to carry around with you all the time. I wouldn’t be able to survive without the Skyroam. It’s a total game changer. Every freelancer out there [needs one of these now.](https://amzn.to/2Rujf4G){: target="_blank"} 
 
 #### Kindle eReader![](//ir-na.amazon-adsystem.com/e/ir?t=justynjen07-20&amp;l=am2&amp;o=1&amp;a=B06XD5YCKX).
 
@@ -76,6 +76,6 @@ This eReader is the best for travel because it has those pages that actually loo
 
 This may seem like a lot, but I swear I can’t take a trip without all of this with me. My business just wouldn’t run the same without it. What do you have to have in order to have your freelance business run smoothly?
 
-&nbsp;
+ 
 
 > \*\* This post contains affiliate links, which means if you buy anything, I get a portion of the proceeds at no additional cost to you! This simply means that I get to keep doing what I love, thanks to your support. Thanks in advance! \*\*
