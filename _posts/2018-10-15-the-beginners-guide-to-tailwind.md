@@ -1,6 +1,6 @@
 ---
 layout: posts
-date: 2018-10-10 12:00:00
+date: 2018-10-15 12:00:00
 feature-image_path: /uploads/haute-stock-photography-spots-and-stripes-final-2.jpg
 pinterest-image_path: /uploads/tailwind-pin-100.jpg
 title: The Beginners' Guide to Tailwind
