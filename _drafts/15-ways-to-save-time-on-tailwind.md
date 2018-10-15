@@ -37,6 +37,16 @@ After you have set the interval you can hit Schedule now and all those pins will
 
 The smart queue is one of the best ways that you can save time on Tailwind. The smart schedule picks the perfect times for you to pin. Next time you go to save a pin, just click at to queue and it schedules it at the perfect time for you.&nbsp;
 
-Another time saving secret to Tailwind is being released in waves for Beta testing at the moment. This is the Smart Loop. Smart Loop's are amazing and I have been waiting for Tailwind to roll out this feature for the whole year basically. When you use a smart loop, you add your pins, your boards and board rules and Tailwind does the rest. It will loop your relevant content so you never have to worry about doing it yourself again.
+Another time saving secret to Tailwind is being released in waves for Beta testing at the moment. This is the Smart Loop. Smart Loop's are amazing and I have been waiting for Tailwind to roll out this feature for the whole year basically. When you use a smart loop, you add your pins, your boards and board rules and Tailwind does the rest. It will recirculate your relevant content so you never have to worry about doing it yourself again. (Smart Loop also gives you data about each pin so that you can hone in on what's working the best for you.)
 
 You can also save time on using Tailwind by keeping an eye on your analytics. How does this save you time? Well when you track your analytics, you can better see what your audience wants. And when you know what your audience wants, you can stop spending time creating content that isn't going to get you anywhere. You can create content that's going to grow your business and you can create that content even faster.
+
+Batching your content and shuffling your queue is going to change the way that you use Tailwind. When you have a massive schedule you might find that you are still spending so much time filling up your queue every week. Batching your pins is the best way to combat this!&nbsp;
+
+Different ways that you can batch your content include:&nbsp;
+
+* Batching from your group boards. This is also a great way to make sure that you are sharing enough content and engaging in groups enough.&nbsp;
+* Batching content from your favorite bloggers. I have a few bloggers that I love and am always happy to engage with. When I know they have a lot of content out, I will go batch through all of their content and share tons of their pins at once.
+* Batch your content by category. This is an awesome way to fill up new boards. I will often search Pinterest by category and fill up an entire board with 50 new pins.&nbsp;
+
+After you batch a ton of content, make sure that you shuffle your queue. This helps your content look more spread out. This way your audience doesn't see 100 pins from one blogger or topic all at once. I like to do this because it makes my content look more natural.&nbsp;
