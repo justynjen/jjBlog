@@ -64,3 +64,5 @@ The last way that you are going to save time on Tailwind is by batching your day
 [Are you not on Tailwind yet?! Sign up to get your first month totally free.](https://www.tailwindapp.com/i/justynjen){: target="_blank"}&nbsp;
 
 Want more resources on how to grow and 10x your traffic using Tailwind and Pinterest? Sign up for my new course today! It's going to walk you through everything from business accounts, to proper pinning, to making money directly on Pinterest. I threw all my knowledge into one comprehensive course and I can't wait to share it with you.&nbsp;
+
+Learn more here.
