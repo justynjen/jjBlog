@@ -17,9 +17,6 @@ tags:
 comments: false
 ---
 
-I talk A LOT about Pinterest. Today I want to talk to you about something else; Tailwind!
-{: .present-before-paste}
-
 Tailwind was a game changer for my blog and business and for those of you who aren’t familiar with what Tailwind is, it’s an online pin scheduling platform and it is amazing. *Honestly.*
 {: .present-before-paste}
 
@@ -38,32 +35,32 @@ Firstly, you need to understand how you can get the most out of Tailwind. Just l
 ***Disclosure:** I’m an affiliate for Tailwind and will earn a referral fee if you sign up via my link. You can schedule and publish 100 Pins FREE! If you purchase a plan, you won’t pay a cent more by using my link. Thanks for your support!*
 {: .present-before-paste}
 
-However, if you aren’t yet using Pinterest, then make sure that you read my Ultimate Guide to Pinterest first! It’s important that you are growing your Pinterest, then it’s not going to help you to start on Tailwind.
+However, if you aren’t yet using Pinterest, then make sure that you read my [Ultimate Guide to Pinterest](/a-beginners-guide-to-pinterest/) first! It’s important that you are growing your Pinterest, then it’s not going to help you to start on Tailwind.
 {: .present-before-paste}
 
 #### What is Tailwind for Pinterest?
 {: .present-before-paste}
 
-Tailwind is the Pinterest marketing toolkit for bloggers and online businesses. This scheduler is the official partner of Pinterest. This means that it won’t get shut down like other schedulers have. Tailwind helps you drive your leads, traffic and sales from Pinterest and once you have things set up, it’s actually pretty easy to do.
+Tailwind is the Pinterest marketing toolkit for bloggers and online businesses. This scheduler is the *official partner* of Pinterest. This means that it won’t get shut down like other schedulers have. Tailwind helps you drive your leads, traffic and sales from Pinterest back to your website or blog and once you have things set up, it’s pretty easy to do.
 {: .present-before-paste}
 
 When you are using Tailwind, you don’t have to find time to pin daily. You can sit down once a week and let Tailwind post for you. They even create a smart schedule, making sure that you pin at the best times of day for you.
 {: .present-before-paste}
 
-Along with a perfect schedule, Tailwind also offers analytics that show you what content is really resonating with you audience. This way you can make more content that people are looking for and try improving content that isn’t working for you.
+Along with a perfect schedule, Tailwind also offers analytics that show you what content is really resonating with your audience. This way you can make more content that people are looking for and try improving content that isn’t working for you.
 {: .present-before-paste}
 
 ##### Tailwind’s marketing tool does the following things:
 {: .present-before-paste}
 
-* It creates a queue that you can fill to auto post for you.{: .present-before-paste}
-* Posts things at the best times for engagement.{: .present-before-paste}
-* Repeats your content at an interval that you choose.{: .present-before-paste}
-* Helps you discover relevant content to share.{: .present-before-paste}
-* Connects you with pinners in your niche using Tribes{: .present-before-paste}
-* Monitors conversations on your Pins.{: .present-before-paste}
-* Amplifies your reach.{: .present-before-paste}
-* And measures the results.{: .present-before-paste}
+* It creates a queue that you can fill to auto post for you.
+* Posts things at the best times for engagement.
+* Repeats your content at an interval that you choose.
+* Helps you discover relevant content to share with your own audience.
+* Connects you with pinners in your niche using Tribes.
+* Monitors conversations on your Pins.
+* Amplifies your reach.
+* And measures the results!
 
 All these features within one extremely affordable tool.
 {: .present-before-paste}
@@ -79,14 +76,14 @@ It’s so easy to set up your schedule. All you have to do is let Tailwind know 
 ##### There are a few different ways that you can add pins to Pinterest.
 {: .present-before-paste}
 
-1. Schedule them from Pinterest and add them to your queue.
-2. Schedule them directly from your website.
+1. Schedule content from Pinterest and add it to your queue.
+2. Schedule content directly from your website.
 3. Upload pins directly to Tailwind in a similar way that you do on Pinterest.
 
 If you want to pin using the top 2 options, you have to add the Tailwind extension to your browser. Once you have that installed, you just have to hover over the image that you want to save and click the Tailwind button and you can save anything you want.
 {: .present-before-paste}
 
-When you want to add a pin to more than one board, you should first add your pin to the most relevant boards. You can add a pin to as many boards as you want. Now when you add a pin to more than one board, I recommend that you use an interval so that pins go out to Pinterest on different days and at different times. This can help so that you don’t spam your page and boards all at once.
+When you want to add a pin to more than one board, you should first add your pin to the most relevant boards. You can add a pin to as many boards as you want. When you add a pin to more than one board, I recommend that you use *an interval* so that pins go out to Pinterest on different days and at different times. This can help so that you don’t spam your page and boards all at once.
 {: .present-before-paste}
 
 Once you’re done, just hit schedule pins and you’re all set!
