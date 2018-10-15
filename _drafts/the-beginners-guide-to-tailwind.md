@@ -12,6 +12,8 @@ tags:
   - Work Online
   - Online Marketing
   - Pinterest Marketing
+  - Tailwind
+  - Tailwind Marketing
 comments: false
 ---
 
