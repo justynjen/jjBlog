@@ -15,8 +15,34 @@ tags:
 comments: false
 ---
 
-The best thing about Tailwind is that it saves you SO much time on Pinterest and it helps you grow your reach and engagement massively. If you haven't read my beginners' guide to Tailwind yet, I urge you to check it out first. Then come back here and learn how to save even more time!&nbsp;
+The best thing about Tailwind is that it saves you SO much time on Pinterest and it helps you grow your reach and engagement massively. If you haven't read my beginners' guide to Tailwind yet, I urge you to check it out first. Then come back here and learn how to save even more time through this platform.&nbsp;
+
+What I love about Tailwind is the amount of time it saves me every week. I am able to schedule my own and my clients pins every week and it only takes me a couple of hours. Then I can get back to creating more amazing content and practicing new strategies for the future.&nbsp;
+
+Let's get started talking about Tailwind.&nbsp;
 
 ***Disclosure:** I’m an affiliate for Tailwind and will earn a referral fee if you sign up via my link. You can schedule and publish 100 Pins FREE! If you purchase a plan, you won’t pay a cent more by using my link. Thanks for your support!*
+
+Just a recap for those of you who are new here, I am a Pinterest Strategist. I offer consultations and programs to help you grow your blog and online business through Pinterest and I have an online shop FULL of educational resources and templates to help you grow even more.&nbsp;
+
+In this post I am going to be sharing 15 ways that you can save *even more* time on Pinterest by using Tailwind.&nbsp;
+
+You can start saving even more time on Tailwind by setting up board lists. These are a way for you to add all the relevant boards to a single list. This comes in handy for scheduling.&nbsp;
+
+The next time that you want to schedule a pin, instead of sorting through every board you want to add that pin too, you just click the name of the board list that you created. That adds all boards to the pin automatically.
+
+Another way to save time is to use the interval scheduling. Once you have clicked for your board list and added all of the boards to that pin, you should use an interval to separate them so that all your pins don't spam your audience and boards all at once.&nbsp;
+
+After you have set the interval you can hit Schedule now and all those pins will be added to your smart queue.
+
+The smart queue is one of the best ways that you can save time on Tailwind. The smart schedule picks the perfect times for you to pin. Next time you go to save a pin, just click at to queue and it schedules it at the perfect time for you.&nbsp;
+
+Another time saving secret to Tailwind is being released in waves for Beta testing at the moment. This is the Smart Loop. Smart Loop's are amazing and I have been waiting for Tailwind to roll out this feature for the whole year basically. When you use a smart loop, you add your pins, your boards and board rules and Tailwind does the rest. It will loop your relevant content so you never have to worry about doing it yourself again.
+
+You can also save time on using Tailwind by keeping an eye on your analytics. How does this save you time? Well when you track your analytics, you can better see what your audience wants. And when you know what your audience wants, you can stop spending time creating content that isn't going to get you anywhere. You can create content that's going to grow your business and you can create that content even faster.&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
