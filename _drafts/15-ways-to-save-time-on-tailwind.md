@@ -14,3 +14,9 @@ tags:
   - Pinterest Marketing
 comments: false
 ---
+
+The best thing about Tailwind is that it saves you SO much time on Pinterest and it helps you grow your reach and engagement massively. If you haven't read my beginners' guide to Tailwind yet, I urge you to check it out first. Then come back here and learn how to save even more time!&nbsp;
+
+***Disclosure:** I’m an affiliate for Tailwind and will earn a referral fee if you sign up via my link. You can schedule and publish 100 Pins FREE! If you purchase a plan, you won’t pay a cent more by using my link. Thanks for your support!*
+
+&nbsp;
