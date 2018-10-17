@@ -1,6 +1,6 @@
 ---
 layout: posts
-date: 2018-10-10 12:00:00
+date: 2018-10-16 12:00:00
 feature-image_path: /uploads/haute-stock-photography-falling-leaves-final-14.jpg
 pinterest-image_path: /uploads/tailwind-timeaving-pin-101.jpg
 title: 8 Ways to Save Even More Time with Tailwind
