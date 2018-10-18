@@ -1,9 +1,9 @@
 ---
 layout: posts
-date: 2018-10-16 12:00:00
-feature-image_path:
-pinterest-image_path:
-title: How to Design Viral Pins!
+date: 2018-10-18 12:00:00
+feature-image_path: /uploads/thought-catalog-641073-unsplash.jpg
+pinterest-image_path: /uploads/viral-pins1-100.jpg
+title: How To Design Pins That Will Go Viral Every Time
 Author: Justyn
 published: true
 tags:
