@@ -69,4 +69,4 @@ If you want to know more about Pinterest, you can read my new eBook, the [Pinter
 * [How to Save Even More Time on Pinterest with Tailwind](/8-ways-to-save-even-more-time-with-tailwind/)
 * [The Beginner's Guide to Tailwind](/the-beginners-guide-to-tailwind/)
 
-&nbsp;
+P.S! To see even better results on Pinterest and to have even more pins go viral, you should enable Rich Pins. Pinterest teaches you exactly how to do that [here.](https://developers.pinterest.com/docs/rich-pins/overview/?){: target="_blank"}&nbsp;The info you’ll provide on the image will also be used by search engines for context and indexing, and will show up on the pin as well. It's an amazing way to have viral pins lead straight back to you!&nbsp;
