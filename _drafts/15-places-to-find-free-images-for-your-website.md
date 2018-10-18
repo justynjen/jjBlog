@@ -2,8 +2,8 @@
 layout: posts
 date: 2018-10-16 12:00:00
 feature-image_path: /uploads/haute-stock-photography-falling-leaves-final-15.jpg
-pinterest-image_path: /uploads/tailwind-timeaving-pin-101.jpg
-title: 15 Places to Find Free Images for Your Website
+pinterest-image_path:
+title: 15 Websites With The Best Free Stock Photos
 Author: Justyn
 published: true
 tags:
@@ -16,3 +16,4 @@ tags:
   - Tailwind Marketing
 comments: false
 ---
+
