@@ -51,6 +51,8 @@ An important thing to remember when you are creating pins is that around 75% of 
 
 Try not to cram too much into one pin. Just give people an appealing enough title to make them want to click to your website. [If you need help with your pin designs, you can buy the 10 Pin Templates for Canva that I designed for you! These templates are so easy to use!](https://justynjen.teachable.com/p/pinterest-playbook){: target="_blank"} You just pop in your title and branding, and you are good to go!&nbsp;
 
+![](/uploads/pin-template-bonus-pack-1.png)
+
 Please don't forget to also fill out the pin description when you are adding a pin to Pinterest! So many people don't fill this spot in and it's such valuable real estate for your Pinterest SEO.&nbsp;
 
 #### Step 4: Branding
