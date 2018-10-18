@@ -5,7 +5,7 @@ feature-image_path: /uploads/haute-stock-photography-spots-and-stripes-final-15.
 pinterest-image_path:
 title: What You Should Do When You Experience A Drop In Pinterest Traffic
 Author: Justyn
-published: true
+published: false
 tags:
   - Freelancing
   - Pinterest
