@@ -43,4 +43,12 @@ I am going to share with you 18 places that you can find awesome stock photos fo
 17. [Skitter Photos](https://skitterphoto.com/){: target="_blank"}
 18. [Death to Stock Photo](https://deathtothestockphoto.com/){: target="_blank"}
 
+Now you might notice that popular stock images get used over and over again, and when you use them your graphics and posts no longer look unique. If you want things to stand out, you still want to be using unique graphics. In order to make stock photos look custom and unique for you, do some digging. Here's my top 3 tips for using free stock images in a new and unique way!&nbsp;
+
+1. The power of cropping! Make sure to crop the images. If you see an aspect of an image you like, just use that image. Crop and use images to your advantage.&nbsp;
+2. Do some digging. My favorite place to go digging for stock images in UnSplash. They have awesome galleries that other people have put together and I have been able to use those collections to find images I love.&nbsp;
+3. Always be on the lookout for new images to use. Be up to date when new images get added!&nbsp;
+
+Lastly, I do have one place that I purchase stock images from and no this is not an affiliate, just a place I really do love for Stock Images. [Hautestock ](https://members.hautestock.co/){: target="_blank"}updates every single month with BEAUTIFUL and unique images. Quite honestly, I think it's completely worth the money, so if you do want another option, check them out!&nbsp;
+
 &nbsp;
