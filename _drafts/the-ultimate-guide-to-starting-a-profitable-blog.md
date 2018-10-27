@@ -200,3 +200,21 @@ When you have a mailing list, you have people that trust you, that want to learn
 #### Making Money
 
 The holy grail of why you are here. This is of course the Ultimate Guide to Creating a PROFITABLE Blog after all.&nbsp;
+
+There are several ways that you can monetize your blog. Let's start with my favorite:&nbsp;
+
+### Affiliate Marketing
+
+Affiliate Marketing is when you write a blog or share a product with a special link. This link is special because it has a tracking cookie and when people purchase using that link, it costs them nothing more but the company pays you a portion of the money made. This is an amazing way to make money as a blogger. It's the top way that I monetize my blog.&nbsp;
+
+ALWAYS DISCLOSE AFFILIATE LINKS. Otherwise you can get kicked out of programs and you can get in a lot of trouble!
+
+### Sponsored Posts
+
+Next up, Sponsored Posts! This is when companies PAY YOU to promote the product on your blog. I do this occasionally but I am extremely picky about the companies that I am willing to work with. If I am going to have a brand partnership, I want something long term. I don't like to work with companies just once and be done with them. I want to work with brands for a while.&nbsp;
+
+When you work with a brand for a sponsored post, you should always let your audience know that the brand paid you.&nbsp;
+
+### Ads
+
+Lastly, you can use Ads. I don't use any ads on my blog. And I also have an Ad blocker so I can't even see the ads that you use on your site. That's just my personal opinion though. This being said though, if you do want to use ads, please don't use them until you have a LOT of traffic. If you don't have a lot of traffic, then your ads are going to make no difference whatsoever.&nbsp;
