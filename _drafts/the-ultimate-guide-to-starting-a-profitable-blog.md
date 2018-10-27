@@ -218,3 +218,15 @@ When you work with a brand for a sponsored post, you should always let your audi
 ### Ads
 
 Lastly, you can use Ads. I don't use any ads on my blog. And I also have an Ad blocker so I can't even see the ads that you use on your site. That's just my personal opinion though. This being said though, if you do want to use ads, please don't use them until you have a LOT of traffic. If you don't have a lot of traffic, then your ads are going to make no difference whatsoever.&nbsp;
+
+**BONUS MONETIZATION STRATEGY!!&nbsp;**
+
+Not sure if that's a word but there is one more way that you can make money using you blog and that is;
+
+### Selling Digital Products
+
+I love this and it's the way that my blog makes the most money. I use my blog to sell online products that I have created. These products for me include my [Pinterest Playbook Course](https://justynjen.teachable.com/p/pinterest-playbook-course){: target="_blank"} where I teach bloggers and online businesses how they can grow their traffic and make more money on Pinterest and my [Pinterest Templates and eBook](https://justynjen.teachable.com/p/pinterest-playbook){: target="_blank"} that helps you better use Pinterest as well. I also have a new course rolling out soon where I will be teaching bloggers Affiliate Marketing.&nbsp;
+
+Selling online products is a great way to make money on your blog, but make sure that you are giving the people who buy your products LOTS of value.&nbsp;
+
+[If you want to support my blog, go ahead and check out my store today!&nbsp;](https://justynjen.teachable.com/){: target="_blank"}
