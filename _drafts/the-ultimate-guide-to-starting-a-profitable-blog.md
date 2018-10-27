@@ -1,8 +1,8 @@
 ---
 layout: posts
 date: 2018-10-23 12:00:00
-feature-image_path: /uploads/haute-stock-photography-boho-office-collection-final-24.jpg
-pinterest-image_path: /uploads/stock-images-pin.png
+feature-image_path:
+pinterest-image_path:
 title: The Ultimate Guide to Starting a Profitable Blog
 Author: Justyn
 published: true
@@ -230,3 +230,14 @@ I love this and it's the way that my blog makes the most money. I use my blog to
 Selling online products is a great way to make money on your blog, but make sure that you are giving the people who buy your products LOTS of value.&nbsp;
 
 [If you want to support my blog, go ahead and check out my store today!&nbsp;](https://justynjen.teachable.com/){: target="_blank"}
+
+Now if you've made it to the end of this VERY long guide, I have some extra special bonuses for you.&nbsp;
+
+#### Special Bonuses
+
+1. Get my free guide to affiliate programs that every blogger should be apart of. This guide helps you know what affiliate programs you should sign up for and it also explains a bit more behind affiliate marketing.&nbsp;
+2. Get $50 off my Pinterest Playbook Course! This course helps you market your blog through Pinterest. This is perfect for new bloggers because it's going to help you gain a ton of traffic through Pinterest. You won't feel like a newbie blogger for too long because pretty soon you'll be getting thousands of monthly views with this course. It also includes a special module teaching you how to make money through Affiliate Links on Pinterest. (Coupon Code: BloggingPost)
+
+Thanks so much for reading along. I hope that you can start your very own and very profitable blog, starting today! Remember, I know that blogging is expensive in the beginning, but if you set up your blog like I have shown in this guide, I promise that you are going to have an extremely profitable blog in the long run.&nbsp;
+
+Happy Blogging.
