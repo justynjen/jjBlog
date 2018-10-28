@@ -50,7 +50,7 @@ Let's take gardening for example. Do you spend your weekends gardening? If you c
 When you are picking a niche, pick just ONE thing. At least start with just one thing. This was one of my biggest struggles until very recently. I wanted to write about travel even though I wasn't writing anything unique and no one was reading my posts, I also wanted to write about Pinterest (the posts everyone was reading) and I wanted to write about Vegan Food and Vegan Travel. So you know what I did? I started 2 blogs. Because then I could focus on each niche. Having a niche simply helps you to target your audience. It also helps you to make more money and get more traffic in the long run.&nbsp;
 {: .present-before-paste}
 
-**I really recommend picking a niche. Grab my free download of 800 blog niches that you could write about!&nbsp;**
+**I really recommend picking a niche. Grab my free download of over 100 blog niches that you could write about!&nbsp;**
 {: .present-before-paste}
 
 ##### Step 2:&nbsp;
