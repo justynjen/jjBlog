@@ -48,6 +48,8 @@ When you are picking a niche, pick just ONE thing. At least start with just one 
 
 [**I really recommend picking a niche. Grab my free download of over 100 blog niches that you could write about!&nbsp;**](https://www.subscribepage.com/100-blog-niches){: target="_blank"}
 
+[![](blob:https://app.cloudcannon.com/7cb4c376-24d4-45c6-976a-c5cdc8258cfe)](https://www.subscribepage.com/100-blog-niches){: target="_blank"}
+
 ##### Step 2:&nbsp;
 
 #### Picking a platform
