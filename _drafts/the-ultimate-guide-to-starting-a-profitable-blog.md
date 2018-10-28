@@ -154,7 +154,7 @@ You can set this up very easily in your mailing software. There are SO many mail
 * [Mailerlite](https://app.mailerlite.com/){: target="_blank"}
 * [Mailchimp](https://mailchimp.com/){: target="_blank"}
 * [Aweber](https://www.aweber.com/){: target="_blank"}
-* [Covertkit](https://convertkit.com/){: target="_blank"}
+* [Covertkit](https://mbsy.co/pTSzl){: target="_blank"}
 * [Active Campaign](https://www.activecampaign.com/){: target="_blank"}
 
 They usually offer a few trial, and some stay free until you have a certain number of subscribers.&nbsp;
@@ -177,7 +177,7 @@ There are several ways that you can monetize your blog. Let's start with my favo
 
 ### Affiliate Marketing
 
-Affiliate Marketing is when you write a blog or share a product with a special link. This link is special because it has a tracking cookie and when people purchase using that link, it costs them nothing more but the company pays you a portion of the money made. This is an amazing way to make money as a blogger. It's the top way that I monetize my blog.&nbsp;
+[Affiliate Marketing](https://www.subscribepage.com/affiliate-bloggers){: target="_blank"} is when you write a blog or share a product with a special link. This link is special because it has a tracking cookie and when people purchase using that link, it costs them nothing more but the company pays you a portion of the money made. This is an amazing way to make money as a blogger. It's the top way that I monetize my blog.&nbsp;
 
 ALWAYS DISCLOSE AFFILIATE LINKS. Otherwise you can get kicked out of programs and you can get in a lot of trouble!
 
@@ -207,7 +207,7 @@ Now if you've made it to the end of this VERY long guide, I have some extra spec
 
 #### Special Bonuses
 
-1. Get my free guide to affiliate programs that every blogger should be apart of. This guide helps you know what affiliate programs you should sign up for and it also explains a bit more behind affiliate marketing.&nbsp;
+1. Get my [free guide to affiliate programs that every blogger should be apart of. ](https://www.subscribepage.com/affiliate-bloggers){: target="_blank"}This guide helps you know what [affiliate programs](https://www.subscribepage.com/affiliate-bloggers){: target="_blank"} you should sign up for and it also explains a bit more behind affiliate marketing.&nbsp;
 2. **Get $50 off my Pinterest Playbook Course!** This course helps you market your blog through Pinterest. This is perfect for new bloggers because it's going to help you gain a ton of traffic through Pinterest. You won't feel like a newbie blogger for too long because pretty soon you'll be getting thousands of monthly views with this course. It also includes a special module teaching you how to make money through Affiliate Links on Pinterest. (Coupon Code: BloggingPost)
 
 Thanks so much for reading along. I hope that you can start your very own and very profitable blog, starting today! Remember, I know that blogging is expensive in the beginning, but if you set up your blog like I have shown in this guide, I promise that you are going to have an extremely profitable blog in the long run.&nbsp;
