@@ -19,15 +19,14 @@ comments: false
 ---
 
 I've been blogging for the past 3 years but it wasn't until very recently that I became a running a profitable blog. I want to share with you what changed in my world. What took me from just blogging, to blogging for a living and I want this journey to help you also start your own profitable blog. Let's start from the beginning though, everything you need to start a profitable blog!&nbsp;
-{: .present-before-paste}
+
+###### This page contains useful resources to help you live and work while traveling. Nobody's paid me to include anything, they're just the things I use everyday, however I do receive a small commission if you buy something via these links (at no extra cost to you!) It all helps me run this site, thanks for your support!
 
 #### So you want to start a blog
 
 Welcome! I am so excited that you want to start a blog. This guide is going to teach you exactly how to do that and how to do it profitably. Like I said above, my blog was not always profitable and for a long time I have no idea what I was doing. That's why I am teaching you how to start the right way.
-{: .present-before-paste}
 
 Here's what this guide will cover, in case you want to skip to a section more relevant to you.&nbsp;
-{: .present-before-paste}
 
 * Niche Up
 * Picking a platform
@@ -42,29 +41,22 @@ Here's what this guide will cover, in case you want to skip to a section more re
 #### Choosing your blogs topic
 
 I have some good news for you. You can literally blog about ANYTHING. I'm serious. You can start a blog about anything that you want. I have met people that blog about travel, food, gardening, trending diets, blogging or running a business, S&M, gaming, movies, pets, being a mom and more. The options are endless and if you are like me, that can actually be pretty overwhelming. So what do you do when you can start a blog about anything? I recommend some inner reflection. What are you passionate about? What would make waking up in the morning more fun? What's your favorite thing to do when you aren't working? Blog about that.&nbsp;
-{: .present-before-paste}
 
 Let's take gardening for example. Do you spend your weekends gardening? If you could have gardening and writing about gardening pay your bills, would you be overjoyed? Well guess what you can.&nbsp;
-{: .present-before-paste}
 
 When you are picking a niche, pick just ONE thing. At least start with just one thing. This was one of my biggest struggles until very recently. I wanted to write about travel even though I wasn't writing anything unique and no one was reading my posts, I also wanted to write about Pinterest (the posts everyone was reading) and I wanted to write about Vegan Food and Vegan Travel. So you know what I did? I started 2 blogs. Because then I could focus on each niche. Having a niche simply helps you to target your audience. It also helps you to make more money and get more traffic in the long run.&nbsp;
-{: .present-before-paste}
 
 **I really recommend picking a niche. Grab my free download of over 100 blog niches that you could write about!&nbsp;**
-{: .present-before-paste}
 
 ##### Step 2:&nbsp;
 
 #### Picking a platform
 
 When I say picking a platform I mean a few different things. You need to pick the platform your blog is going to be on. I highly recommend Wordpress. Now, Wordpress isn't my favorite thing BUT it is the best option for bloggers. They have the ideal set up for blogs. They have the plugins and data base that you really need to succeed. Plus they might be harder to learn at first, but they are WAY easier to rock in the long run.&nbsp;
-{: .present-before-paste}
 
 Ps, I have some secrets up my sleeve to help you set up your blog on Wordpress even easier than you could ever imagine!&nbsp;
-{: .present-before-paste}
 
 The other platforms that I want you to consider when you are starting a blog that you want to be profitable are the social media and advertising platforms that you want to use. I never recommend that someone put all their eggs in one basket, basically meaning that you should diversify but keep in mind that each platform takes TIME and it's going to be a lot of work. Platforms you can tackle for self promotion include:&nbsp;
-{: .present-before-paste}
 
 * Instagram&nbsp;
 * Facebook&nbsp;
@@ -75,69 +67,50 @@ The other platforms that I want you to consider when you are starting a blog tha
 * Pinterest/Google/SEO
 
 For my blog I focus mostly on the last option. I always focus on using high power keywords for each of my blog posts and I create several pin images to go with each post. I also promote each blog post on Facebook, Instagram and Stumbleupon. I have played around with using Twitter but it's never been a goldmine for me so I haven't focused a lot on that platform.&nbsp;
-{: .present-before-paste}
 
 Build out these platforms to focus on your blog. You need to start a Facebook Business Page for your blog. You need to professionalize your Instagram and transition your Pinterest account into a business account. (Which I can help you do here.)
-{: .present-before-paste}
 
 Once you have all your social profiles streamlined and your account on Wordpress setup, you can move onto Domains and Hosting.
-{: .present-before-paste}
 
 ##### Step 3:
 
 #### Domains & Hosting
 
 You have to start with you domain and hosting. Domain is the web address of your blog. This is what is going to determine what your blog is called. If you are anything like me you'll end up buying at least 10 domains. I might even have more than that. I buy all of my domains from Bluehost. I know you have a lot of choices when it comes to your hosting but Bluehost stands out above the rest. My favorite thing about them is their customer support. I have helped lots of clients transition over to Bluehost and helps that process be seamless. They'll talk you through every problem you might have.&nbsp;
-{: .present-before-paste}
 
 So name your blog and make sure that you can buy that domain. Domains I have used have been adventuresofamiddlechild.com (I thought this was too long) justyngourdin.com (this seemed too formal and business like) and now I am using justynjen.com. Naming your blog can actually be the hardest part!&nbsp;
-{: .present-before-paste}
 
 Tips for naming your blog:&nbsp;
-{: .present-before-paste}
 
 1. Pick a name that can grow with you. Never name your blog after a time in your life like 20 year old traveler. What happens when you've built a brand around being a 20 year old traveler and now you are 30 and want to do something else? Name your blog something that can grow and change with you.
 2. Name your blog something short and easy to remember. I moved away from Adventures of a middle child because it was so long. I loved the meaning but I couldn't get the name out before people were on to the next thing.&nbsp;
 3. Also name your blog something relevant but also appropriate. I don't recommend naming it something silly or profane unless you plan on this to just be your blog forever and you don't want to monetize it with brand partnerships. But we'll get to that later.&nbsp;
 
 To start your blog on Bluehost (with Wordpress) just head over to [Bluehost](https://www.bluehost.com/track/justynjen/){: target="_blank"} and hit the green button that says "Start Now".
-{: .present-before-paste}
 
 [![](/uploads/starting-a-profitable-blog.png)](https://www.bluehost.com/track/justynjen/){: target="_blank"}
-{: .present-before-paste}
 
 I suggest going with the Prime option, especially because it's on sale! For only $6 a month for unlimited metering and unlimited websites! Meaning you could start lots of money making blogs!&nbsp;
-{: .present-before-paste}
 
 Listen, I know that when you are just starting out, you don't want to pour a ton of money into something that you aren't even sure is going to make you money yet… But I HIGHLY recommend starting out on Bluehost with the highest quality hosting. This way, when you grow and are huge and profitable, you don't to transition over to a more powerful platform that can handle your whole website.&nbsp;
-{: .present-before-paste}
 
 After you hit Get Started and choose your hosting package, you are going to enter your new domain. Type in your domain and hit enter. Next it's going to show you if that domain is available. And if it's not, Bluehost will give you options for another one that is.&nbsp;
-{: .present-before-paste}
 
 Pick your domain and then fill out your account information.&nbsp;
-{: .present-before-paste}
 
 ![](/uploads/starting-a-profitable-blog-with-bluehost.png)
-{: .present-before-paste}
 
 Then you can pay. The options to pay will give you from 1 year to 4 years, paid upfront. I paid for 4 years upfront because I knew that I wanted to give this blog the best effort for at least a few years. If you aren't sure blogging is for you, sign up for the 1 year hosting. Also ALWAYS buy domain protection. I made the mistake of not buying protection and after buying my blog I had about 25 phone calls a day of scammers that wanted to help me set up my site and optimize it. It's terrible. Save yourself the trouble and buy domain protection.&nbsp;
-{: .present-before-paste}
 
 If you have any questions about the signup process you can talk to support through the whole process!&nbsp;
-{: .present-before-paste}
 
 Once you have the purchasing process done, you'll be logged into your account and you can install Wordpress directly from Bluehost. That's one of the best things about using Bluehost. It's so easy to get Wordpress setup.&nbsp;
-{: .present-before-paste}
 
 Now you just need to Install Wordpress. You do this by first choosing the domain that you want Wordpress connected too. Type your domain for your new blog into the option on the screen.&nbsp;
-{: .present-before-paste}
 
 If you want help with the installation process - send me an email at [hello@justynjen.com](mailto:hello@justynjen.com) and I am happy to help with anything!&nbsp;
-{: .present-before-paste}
 
 Go through the steps with Bluehost, they walk you through everything! It's easy and seamless.&nbsp;
-{: .present-before-paste}
 
 ##### Step 4:
 {: .present-before-paste}
