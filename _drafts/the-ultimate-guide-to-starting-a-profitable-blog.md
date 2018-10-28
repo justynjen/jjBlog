@@ -46,9 +46,9 @@ Let's take gardening for example. Do you spend your weekends gardening? If you c
 
 When you are picking a niche, pick just ONE thing. At least start with just one thing. This was one of my biggest struggles until very recently. I wanted to write about travel even though I wasn't writing anything unique and no one was reading my posts, I also wanted to write about Pinterest (the posts everyone was reading) and I wanted to write about Vegan Food and Vegan Travel. So you know what I did? I started 2 blogs. Because then I could focus on each niche. Having a niche simply helps you to target your audience. It also helps you to make more money and get more traffic in the long run.&nbsp;
 
-[**I really recommend picking a niche. Grab my free download of over 100 blog niches that you could write about!&nbsp;**](https://www.subscribepage.com/100-blog-niches){: target="_blank"}
+[![](blob:https://app.cloudcannon.com/9626b293-b5d2-4a6e-ada6-abc156331332)](https://www.subscribepage.com/100-blog-niches){: target="_blank"}
 
-[![](blob:https://app.cloudcannon.com/7cb4c376-24d4-45c6-976a-c5cdc8258cfe)](https://www.subscribepage.com/100-blog-niches){: target="_blank"}
+[**I really recommend picking a niche. Grab my free download of over 100 blog niches that you could write about!&nbsp;**](https://www.subscribepage.com/100-blog-niches){: target="_blank"}
 
 ##### Step 2:&nbsp;
 
@@ -201,14 +201,14 @@ I love this and it's the way that my blog makes the most money. I use my blog to
 
 Selling online products is a great way to make money on your blog, but make sure that you are giving the people who buy your products LOTS of value.&nbsp;
 
-[If you want to support my blog, go ahead and check out my store today!&nbsp;](https://justynjen.teachable.com/){: target="_blank"}
+[If you want to support my blog, go ahead and check out my store.](https://justynjen.teachable.com/){: target="_blank"}
 
 Now if you've made it to the end of this VERY long guide, I have some extra special bonuses for you.&nbsp;
 
 #### Special Bonuses
 
-1. Get my [free guide to affiliate programs that every blogger should be apart of. ](https://www.subscribepage.com/affiliate-bloggers){: target="_blank"}This guide helps you know what [affiliate programs](https://www.subscribepage.com/affiliate-bloggers){: target="_blank"} you should sign up for and it also explains a bit more behind affiliate marketing.&nbsp;
-2. **Get $50 off my Pinterest Playbook Course!** This course helps you market your blog through Pinterest. This is perfect for new bloggers because it's going to help you gain a ton of traffic through Pinterest. You won't feel like a newbie blogger for too long because pretty soon you'll be getting thousands of monthly views with this course. It also includes a special module teaching you how to make money through Affiliate Links on Pinterest. (Coupon Code: BloggingPost)
+1. Get my [free guide to affiliate programs that every blogger should be apart of. ](https://www.subscribepage.com/affiliate-bloggers){: target="_blank"}This guide helps you know what [affiliate programs](https://www.subscribepage.com/affiliate-bloggers){: target="_blank"} you should sign up for and it also explains a bit more behind affiliate marketing. It's the quickest way to start making a bit of money on your blog today.
+2. **Get $50 off my [Pinterest Playbook Course!](https://justynjen.teachable.com/){: target="_blank"}** This course helps you market your blog through Pinterest. This is perfect for new bloggers because it's going to help you gain a ton of traffic through Pinterest. You won't feel like a newbie blogger for too long because pretty soon you'll be getting thousands of monthly views with this course. It also includes a special module teaching you how to make money through Affiliate Links on Pinterest. (Coupon Code: BloggingPost)
 
 Thanks so much for reading along. I hope that you can start your very own and very profitable blog, starting today! Remember, I know that blogging is expensive in the beginning, but if you set up your blog like I have shown in this guide, I promise that you are going to have an extremely profitable blog in the long run.&nbsp;
 
