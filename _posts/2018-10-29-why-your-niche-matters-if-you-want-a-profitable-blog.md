@@ -90,7 +90,7 @@ Big niches that other people are blogging in right now are:&nbsp;
   * Youtubing&nbsp;
   * Scrapbooking
 
-As you can see, people are blogging about just about everything. **Blogs that make the most money are blogs that are well researched and planned.** Blogs that don't just happen over night and blogs that last the ages. **B****\*\*logs** that withstand time are the most likely to make the most money!\*\* Which is why I NEVER GAVE UP!&nbsp;
+As you can see, people are blogging about just about everything. **Blogs that make the most money are blogs that are well researched and planned.** Blogs that don't just happen over night and blogs that last the ages. **Blogs that withstand time are the most likely to make the most money!&nbsp;**Which is why I NEVER GAVE UP!&nbsp;
 
 Are you ready to start a profitable blog?[ Go ahead and download this special guide with over 100 blog niches that could be highly profitable for you.&nbsp;](https://www.subscribepage.com/100-blog-niches){: target="_blank"}
 
