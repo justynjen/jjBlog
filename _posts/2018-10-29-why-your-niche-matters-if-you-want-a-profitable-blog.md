@@ -50,11 +50,11 @@ Next up,&nbsp;
 
 I talked briefly about why your blog topic matters, especially when it comes to running a profitable blog but I want to share a few specific reasons.&nbsp;
 
-1. Having a blog niche helps you become an expert in your field. When you are an expert people are going to be way more loyal. You are going to land more blog subscribers and you will get more traffic.&nbsp;
+* Having a blog niche helps you become an expert in your field. When you are an expert people are going to be way more loyal. You are going to land more blog subscribers and you will get more traffic.&nbsp;
 
-2. When you pick a blog niche and focus down on the keywords that relate to that niche, you are WAY more likely to show up in Google and Pinterest search results. These search engines will start to recognize you as an expert in your industry. If you are constantly blogging about different things, your keyword and search engine optimization won't be as strong and you'll be less likely to trend.&nbsp;
+* When you pick a blog niche and focus down on the keywords that relate to that niche, you are WAY more likely to show up in Google and Pinterest search results. These search engines will start to recognize you as an expert in your industry. If you are constantly blogging about different things, your keyword and search engine optimization won't be as strong and you'll be less likely to trend.&nbsp;
 
-3. With a strong blog niche, you can reach out and land even more sponsored posts. You'll be able to work with bigger brands and make more money from a single collaboration. However, if you want a big part of your blog to be sponsored posts then you need to choose a blog topic that you could get a lot of companies involved in.&nbsp;
+* With a strong blog niche, you can reach out and land even more sponsored posts. You'll be able to work with bigger brands and make more money from a single collaboration. However, if you want a big part of your blog to be sponsored posts then you need to choose a blog topic that you could get a lot of companies involved in.&nbsp;
 
 Next up, other people!&nbsp;
 
