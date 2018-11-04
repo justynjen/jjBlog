@@ -18,3 +18,4 @@ tags:
 comments: false
 ---
 
+As a blogger sometimes I get serious writers block. Staying creative and motivated is one of the hardest things about blogging for me. Some weeks I just can't think of anything helpful to write about. That's why over the past week I have decided to create a list of ALL the things I could write about for my blog. Then I decided to make a list of all the thing you could write about, no matter what your niche is! I'm sharing that list with you today so that next time you can't think of what to write about, just head over to the master list and pick something out.&nbsp;
