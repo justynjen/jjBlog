@@ -3,7 +3,7 @@ layout: posts
 date: 2018-10-29 00:00:00
 feature-image_path: /uploads/haute-stock-photography-coffee-shop-collection-final-9.jpg
 pinterest-image_path: /uploads/profitable-blog.png
-title: 'Blog Tips: 250+ Blog Post Ideas + Free Download!'
+title: 250+ Ideas for Your Next Blog Post + a Free Download!
 Author: Justyn
 published: true
 tags:
@@ -17,3 +17,4 @@ tags:
   - Stock Photos
 comments: false
 ---
+
