@@ -18,7 +18,7 @@ tags:
 comments: false
 ---
 
-Keeping a list of blog post ideas helps you fight writer's block and stay in the blogging groove. We all know that the worst thing that can happen to bloggers is writers block. Staying creative and motivated is one of the hardest things about blogging. Some weeks I just can't think of anything helpful to write about.
+Keeping a list of blog post ideas helps you fight writer's block and stay in the blogging groove. We all know that the worst thing that can happen to bloggers is writers block. Staying creative and motivated is one of the hardest things about blogging. I don't know about you but I have some weeks where I can't think of anything to write about and other weeks I have 100 ideas.
 
 That's why over the past week I have decided to [create a list of ALL the things](https://www.subscribepage.com/blog-post-ideas){: target="_blank"} I could write about for my blog. Then I decided to make a list of all the thing you could write about, no matter what your niche is! I'm sharing that list with you today so that next time you can't think of what to write about, just head over to the master list and pick something out.&nbsp;
 
