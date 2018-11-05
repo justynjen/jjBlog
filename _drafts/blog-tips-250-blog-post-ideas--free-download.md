@@ -2,7 +2,7 @@
 layout: posts
 date: 2018-11-04 00:00:00
 feature-image_path: /uploads/haute-stock-photography-boho-office-collection-final-18.jpg
-pinterest-image_path:
+pinterest-image_path: /uploads/250-ideas-for-your-next.png
 title: 250+ Ideas for Your Next Blog Post + a Free Download!
 Author: Justyn
 published: true
@@ -88,7 +88,7 @@ Here's some blog post ideas for every niche but you can also grab my free sheet 
 * Favorite Heels
 * Workout Outfit Finds
 * Style Icons
-* 10 Ways to Style a... (Scarf, White Shirt, Pair of Shoes)
+* 10 Ways to Style a… (Scarf, White Shirt, Pair of Shoes)
 
 #### Personal Blogs
 
@@ -129,6 +129,6 @@ Here's some blog post ideas for every niche but you can also grab my free sheet 
 * Favorite Places to Eat
 * Your Favorite Food Bloggers
 
-For the full list grab the download! I will add ideas to the list and update it all the time so it always stay current. If you want to make changes or add to it, please just make a copy!
+[To get t](__notset__)[he full list grab the download I have for you!](https://www.subscribepage.com/blog-post-ideas){: target="_blank"} I will add ideas to the list and update it all the time so it always stay current. If you want to make changes or add to it, please just make a copy!
 
 Happy blogging!&nbsp;
