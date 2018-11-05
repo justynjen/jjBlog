@@ -47,6 +47,24 @@ The Headline Analyzer is probably the best thing ever invented for bloggers. It 
 
 #### 3. Social Media
 
-Next up is social media. Using Social Media to share your blog after it's posted is a great way to let people know it's out there. You want to get lots of hits to your website from social media because that helps programs like Google see how valuable your site it.&nbsp;
+Next up is social media. Using Social Media to share your blog after it's posted is a great way to let people know it's out there. You want to get lots of hits to your website from social media because that helps programs like Google see how valuable your site it. When you are sharing to social media you should create some social images for sharing.
+
+The places that you can share your blog post are:&nbsp;
+
+* Instagram Post
+* Instagram Stories&nbsp;
+* Your Facebook Page
+* Various Facebook Groups
+* Your Facebook Stories
+* StumbleUpon
+* Reddit
+* Tumblr
+* Twitter
+
+I recommend that you create different graphics for each social media share. [Canva](https://www.canva.com/){: target="_blank"} is a great place to create those graphics. For Instagram and Facebook Stories you are going to want to create long images with lots of info. For the Facebook Shares you want the long rectangle images and then for Instagram you want to use square graphics. (Those are just a few options but there are lots graphics that you could create)
+
+Once the post is uploaded, create those graphics and share them with the link everywhere that you usually post.
+
+&nbsp;
 
 &nbsp;
