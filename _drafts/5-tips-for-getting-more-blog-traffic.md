@@ -1,6 +1,6 @@
 ---
 layout: posts
-date: 2018-11-04 00:00:00
+date: 2018-11-05 00:00:00
 feature-image_path: /uploads/haute-stock-photography-coffee-shop-collection-final-22.jpg
 pinterest-image_path: /uploads/5-tips-for.png
 title: 5 Tips for Driving Traffic to Your Blog
@@ -64,6 +64,24 @@ The places that you can share your blog post are:&nbsp;
 I recommend that you create different graphics for each social media share. [Canva](https://www.canva.com/){: target="_blank"} is a great place to create those graphics. For Instagram and Facebook Stories you are going to want to create long images with lots of info. For the Facebook Shares you want the long rectangle images and then for Instagram you want to use square graphics. (Those are just a few options but there are lots graphics that you could create)
 
 Once the post is uploaded, create those graphics and share them with the link everywhere that you usually post.
+
+#### 4. Facebook Groups
+
+Facebook Groups are an awesome way that you can share you blog to an even larger audience. I recommend joining at least 5 different Facebook Groups that allow you to share your posts. Usually these groups will allow you to share your posts a certain day a week so mark your calendar and make sure that you are sharing that day! They also let you do social media posting on certain days so that can be a great way to get tons of new engagement!&nbsp;
+
+When you are sharing in Facebook Groups, make sure that you always engage with other's articles. A lot of people ask that you leave an engaging comment so just always set aside some time in the day to participate.&nbsp;
+
+#### 5. Pinterest!&nbsp;
+
+Of course you had to know that I would talk about Pinterest. I have a ton of resources for Pinterest and how to use it to best grow your blog and get more traffic so be sure that you check those out but in the meantime, the best way that you can start to get more traffic to your blog is by creating pin images to share for Pinterest. I recommend that every for every blog post you create 5-7 pins, put 1 or 2 of those pins on your website and then share the rest onto Pinterest. Always use keyword rich descriptions if you want to get a lot of traffic from that pin back to your blog. Once you have shared to Pinterest make sure that you schedule it to repost often so that you content never goes dry. You can do this using Tailwind's new looping feature.&nbsp;
+
+I teach you all about Pinterest and Tailwinds in my brand new [Pinterest Course](https://justynjen.teachable.com/p/pinterest-playbook-course/){: target="_blank"}[: The Pinterest Playbook](https://justynjen.teachable.com/p/pinterest-playbook-course/){: target="_blank"}, which you can enroll in&nbsp;[right here!](https://justynjen.teachable.com/p/pinterest-playbook-course/){: target="_blank"}
+
+If you follow these steps you are going to get so much more traffic to your blog with every post you share, I can guarantee that. Thanks for reading along my 5 tips for driving more traffic to your blog, I hope you found these tips helpful.
+
+See you in the course and in the meantime happy blogging!&nbsp;
+
+If you want to learn even more about blogging and Pinterest you can check out my other Pinterest resources on my [blog!](/blog/)&nbsp;
 
 &nbsp;
 
