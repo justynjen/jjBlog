@@ -26,7 +26,7 @@ Alright guys, I am writing this post for 2 reasons.&nbsp;
 
 This isn't an income report, and this isn't one of those, Learn how I made X amount in just 1 month blogging. This post is just what I have learned over the past 3 years of this blog making very little money and how I have changed that.&nbsp;
 
-In my Ultimate Guide to Starting a Profitable Blog I talk briefly about the different ways that you can make money blogging but in this post I want to explore those a lot more.&nbsp;
+In my post, [The&nbsp;](__notset__)[Ultimate Guide to Starting a Profitable Blog](/the-ultimate-guide-to-starting-a-profitable-blog/) I talk briefly about the different ways that you can make money blogging but in this post I want to explore those a lot more.&nbsp;
 
 There are 4 main ways that bloggers can make money these days online.&nbsp;
 
@@ -64,4 +64,8 @@ The last way that bloggers make money online is through online products.&nbsp;
 
 #### Digital Downloads & Courses
 
-&nbsp;
+I currently have a set of [Pinterest Templates](https://justynjen.teachable.com/p/pinterest-playbook){: target="_blank"} and an [Online Course](https://justynjen.teachable.com/p/pinterest-playbook-course){: target="_blank"} that I know use to create additional income for my blog. Having an online store with digital products is a great way to make money as a blogger. As a blogger, the chances are that you are probably an expert at what you blog about. Why not use your skills as a blogger to help others grow? That's what compelled me to create my [Pinterest Course.](https://justynjen.teachable.com/p/pinterest-playbook-course){: target="_blank"} I've seen so much success on Pinterest and I've been able to make so much money on that platform that I wanted to help others do the same. I recommend that when you start growing an audience and you become more of an expert in what you are writing about, starting thinking of digital items that you can sell.&nbsp;
+
+#### Wrapping up
+
+Just to wrap up, I really hope that this blog post has helped you to better understand how I make money on my blog. Whether you were simply curious or you were wondering if making money on a blog was something that you could do as well, I hope this had all the information that you were looking for!&nbsp;
