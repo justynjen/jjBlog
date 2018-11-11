@@ -1,8 +1,8 @@
 ---
 layout: posts
 date: 2018-11-05 00:00:00
-feature-image_path: /uploads/haute-stock-photography-coffee-shop-collection-final-22.jpg
-pinterest-image_path: /uploads/5-tips-for.png
+feature-image_path: /uploads/justynjen-jeep-bali.jpg
+pinterest-image_path: /uploads/23-things-you-might-not-know-about-me.png
 title: 23 Things You Might Not Know About Me
 Author: Justyn
 published: true
