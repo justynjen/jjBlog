@@ -63,4 +63,6 @@ Titles should always include information. This post for example,&nbsp;**Why is y
 
 The best practice for creating the best titles is to write 20-25 titles for every blog you are going to write. This isn't as hard as it sounds. You just sit down with a piece of paper or a blank screen and start writing down every idea that comes to mind. Eventually you'll get really good at this and you'll have 20 titles written down in a matter of minutes. This way you are always thinking outside the box and giving yourself time to come up with the best title possible.&nbsp;
 
+If you follow these steps, I can guarantee you that more people are going to stop their scroll and click through to your website. Which is after all, the ultimate goal of blogging.&nbsp;
+
 &nbsp;
