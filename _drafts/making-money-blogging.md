@@ -59,3 +59,9 @@ Next up,&nbsp;
 I have found myself explaining my collaborations more and more to people. Collaborations are when you work with companies on a marketing campaign for their products or service. A collaboration could include free product in exchange for an Instagram review or huge paid campaigns where you create content for your blog, Instagram and YouTube on a consistent basis for a company.&nbsp;
 
 As a new blogger I joined a few programs that help connect influencers with companies that want collaborations and I did a lot of collaborations in exchange for free product. Now that I am a bit more established I negotiate and get paid for almost every collaboration that I do. Right now, these are a BIG part of my income though they take up a lot of my time because I always have to go looking for new collaborations.&nbsp;
+
+The last way that bloggers make money online is through online products.&nbsp;
+
+#### Digital Downloads & Courses
+
+&nbsp;
