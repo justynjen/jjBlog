@@ -22,7 +22,7 @@ I'm turning 23 this week so I thought I would write a fun post for all of my new
 
 1. My name is pronounced just(in)
 
-2. I am a middle child with an older sister and younger brother
+2. I'm the middle child of 3.&nbsp;
 
 3. I have been traveling full time almost 3,5 years now and time has FLOWN by
 
@@ -56,9 +56,9 @@ I'm turning 23 this week so I thought I would write a fun post for all of my new
 
 18. I've been politely asked to leave Europe for accidentally over staying my Schengen Visa. (They were very understanding because apparently it happens a lot)
 
-19. Before embarking on this dream chasing adventure I worked as a Care Assistant in Nursing Homes and Hospice for over 4 years
+19. Before embarking on this dream chasing adventure I worked as a Care Assistant in Nursing Homes and Hospice for over 4 years and my dream was to be a nurse. (It was my parents who encouraged me to put school on hold)
 
-20. I'm only just over 5 feet tall. I always think I look taller than this but my friends have informed me that's not true.
+20. I hate wearing shoes inside. I will always slip my shoes off when I go inside someones house even when they stop me to tell me I don't have too. I can't wear shoes indoors.
 
 21. I once called my dad just to have someone to talk to while I tried to wash a spider down the drain, which took me over half an hour and an entire bottle of hairspray. (When I went to Australia I used to check my whole room for the creepy buggers every night before sleeping) Also I probably won't sleep tonight because now I'm thinking about them.
 
