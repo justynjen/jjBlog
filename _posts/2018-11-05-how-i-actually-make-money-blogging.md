@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-11-05 00:00:00
-feature-image_path: /uploads/gabriel-beaudry-519960-unsplash.jpg
+feature-image_path: /uploads/toa-heftiba-510010-unsplash.jpg
 pinterest-image_path: /uploads/how-i-actually-make-money.png
 title: How I Actually Make Money Blogging
 Author: Justyn
