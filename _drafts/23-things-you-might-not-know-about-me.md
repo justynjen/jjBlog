@@ -30,7 +30,7 @@ I'm turning 23 this week so I thought I would write a fun post for all of my new
 
 5. I have visited over 50 countries, all before turning 23. I hope to visit several more before turning 24!
 
-6. I am from Utah, USA
+6. I am from Utah, but I did spend part of my childhood in Texas!
 
 7. I am a HUGE book nerd and used to read under the covers with a flashlight at night. (My mom even got in trouble with my school when I was little because they thought she was letting me read too mature of books i.e. Eragon when I was in the 4th grade)
 
@@ -38,11 +38,11 @@ I'm turning 23 this week so I thought I would write a fun post for all of my new
 
 9. I am very passionate about art. I used to draw all the time when I was younger and I dreamt of being a tattooist.&nbsp;
 
-10. My second toe is my longest toe and growing up my dad tormented me by calling me long toe (because apparently this is unnatural) - to the point where I refused to wear sandals until very recently
+10. My second toe is my longest toe and growing up my dad tormented me by calling me long toe (because apparently this is unnatural) - to the point where I refused to wear sandals until very recently&nbsp;
 
 11. The first foreign country I ever went to was Russia. And I was terrified. I haven't been back but would actually love to visit a few friends I have that live there.
 
-12. I got a tattoo in a skate park/bar in Bali. And yes it's of a bandaid.&nbsp;
+12. I got a tattoo in a skate park/bar in Bali. And yes it's of a band-aid. (I want to get dinosaurs 🐱‍🐉 tattooed on it so people stop thinking it's a skateboard)
 
 13. My favorite place in the world is Japan because their toilets are incredible
 
@@ -58,12 +58,12 @@ I'm turning 23 this week so I thought I would write a fun post for all of my new
 
 19. Before embarking on this dream chasing adventure I worked as a Care Assistant in Nursing Homes and Hospice for over 4 years
 
-20. I'm only just over 5 feet tall
+20. I'm only just over 5 feet tall. I always think I look taller than this but my friends have informed me that's not true.
 
-21. Sometimes I have dreams that spiders are in my bed and it causes me not to sleep for nights on end. I am TERRIFIED of spiders. (When I went to Australia I used to check my whole room for the creepy buggers every night before sleeping) Also I probably won't sleep tonight because now I'm thinking about them.
+21. I once called my dad just to have someone to talk to while I tried to wash a spider down the drain, which took me over half an hour and an entire bottle of hairspray. (When I went to Australia I used to check my whole room for the creepy buggers every night before sleeping) Also I probably won't sleep tonight because now I'm thinking about them.
 
-22. My first paycheck from my blog was $3.90 from Affiliate Marketing
+22. Everyone always asks me what the scariest place I've ever been was but I can honestly say that I haven't been anywhere that scares me as much as the US does lately (because of the shootings here. I actually have felt safer in parts of the world that are worn torn and recovering)
 
-23. I launched my first course last month to teach other people how to market themselves and their blogs on Pinterest
+23. Almost every time I fly I imagine the plane blowing up like in Final Destination yet my favorite thing to do is fly... ✈
 
 &nbsp;
