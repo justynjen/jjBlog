@@ -36,7 +36,7 @@ I'm turning 23 this week so I thought I would write a fun post for all of my new
 
 8. I've been skydiving and paragliding but I am WAY too scared to bungee jump
 
-9. I am very passionate about art. I used to draw all the time when I was younger and I dreamt of being a tattooist.&nbsp;
+9. I used to be a HORRIBLE cook. Seriously ask my family. One time I tried to thicken mac and cheese by putting flour in it and another time I couldn't find baking powder so I thought powered sugar would be a good substitute. But when I became Vegan I made it my goal to learn how to cook delicious food for myself and I have gotten so much better. 😊
 
 10. My second toe is my longest toe and growing up my dad tormented me by calling me long toe (because apparently this is unnatural) - to the point where I refused to wear sandals until very recently&nbsp;
 
