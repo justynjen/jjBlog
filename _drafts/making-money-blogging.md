@@ -50,4 +50,12 @@ My main tips for affiliate marketing are:&nbsp;
 * Disclose your affiliate links so users are aware they will be buying through them - even though it doesn't cost them anything.&nbsp;
 * [And lastly, grab my free download all about affiliate programs that you can join](https://www.subscribepage.com/affiliate-bloggers){: target="_blank"} (I include over 40 that I am a part of for different products and services!)
 
-&nbsp;
+Affiliate marketing can be an easy way to make money blogging but you need to keep in mind that you aren't going to make a lot at first. To succeed with affiliate marketing you need traffic and loyal fans who love what you promote. This is why I suggest writing blog posts instead of just throwing links up. (I personally have both those since I do have my resources page!)
+
+Next up,&nbsp;
+
+#### Collaborations
+
+I have found myself explaining my collaborations more and more to people. Collaborations are when you work with companies on a marketing campaign for their products or service. A collaboration could include free product in exchange for an Instagram review or huge paid campaigns where you create content for your blog, Instagram and YouTube on a consistent basis for a company.&nbsp;
+
+As a new blogger I joined a few programs that help connect influencers with companies that want collaborations and I did a lot of collaborations in exchange for free product. Now that I am a bit more established I negotiate and get paid for almost every collaboration that I do. Right now, these are a BIG part of my income though they take up a lot of my time because I always have to go looking for new collaborations.&nbsp;
