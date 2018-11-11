@@ -17,3 +17,19 @@ tags:
   - Stock Photos
 comments: false
 ---
+
+I'm turning 23 this year so I thought I would write a fun post for all of my new followers with 23 things that you might not know about me!&nbsp;
+
+1. My name is pronounced just(in)
+
+2. I am a middle child with an older sister and younger brother
+
+3. I have been traveling full time almost 3,5 years now and time has FLOWN by
+
+4. Last year while living in Bali I completely ran out of money, maxed out my credit card and finally learned how to master working online&nbsp;
+
+5. I have visited over 50 countries, all before turning 23. I hope to visit several more before turning 24!
+
+6. I am from Utah&nbsp;
+
+7.&nbsp;
