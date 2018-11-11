@@ -62,7 +62,7 @@ I'm turning 23 this week so I thought I would write a fun post for all of my new
 
 21. I once called my dad just to have someone to talk to while I tried to wash a spider down the drain, which took me over half an hour and an entire bottle of hairspray. (When I went to Australia I used to check my whole room for the creepy buggers every night before sleeping) Also I probably won't sleep tonight because now I'm thinking about them.
 
-22. Everyone always asks me what the scariest place I've ever been was but I can honestly say that I haven't been anywhere that scares me as much as the US does lately (because of the shootings here. I actually have felt safer in parts of the world that are worn torn and recovering)
+22.&nbsp;
 
 23. Almost every time I fly I imagine the plane blowing up like in Final Destination yet my favorite thing to do is fly... ✈
 
