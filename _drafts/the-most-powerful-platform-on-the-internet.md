@@ -7,6 +7,10 @@ title: The Most Powerful Platform on the Internet
 Author: Justyn
 published: false
 tags:
+  - Pinterest
+  - Tailwind
+  - Pinterest Marketing
+  - Pinterest Course
 comments: false
 ---
 
