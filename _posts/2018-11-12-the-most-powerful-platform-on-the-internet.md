@@ -86,7 +86,7 @@ Pinterest is currently valued at more than&nbsp;[$11 billion](http://venturebeat
 * Articles: More than 14 million articles are Pinned each day.
 * [Average time spent on Pinterest per visit is 14.2 minutes.](https://mashable.com/2012/04/29/pinterest-interest/){: target="_blank"}
 
-If you want to learn even more about how this platform can work for you, make sure to signup for my Pinterest Playbook Course. This course covers finding your audience, marketing on Pinterest, understanding analytics, grabbing emails and loyal fans from the platform and more.&nbsp;
+If you want to learn even more about how this platform can work for you, make sure to signup for my [Pinterest Playbook Course.](https://justynjen.teachable.com/p/pinterest-playbook-course){: target="_blank"} This course covers finding your audience, marketing on Pinterest, understanding analytics, grabbing emails and loyal fans from the platform and more.&nbsp;
 
 My number 1 intention for this course was to create a course packed with so much value that you would see results in your own life in only a few months time. If you have any questions you can always reach out to me at [hello@justynjen.com](mailto:hello@justynjen.com).
 
