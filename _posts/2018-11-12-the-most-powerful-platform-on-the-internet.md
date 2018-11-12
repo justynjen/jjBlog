@@ -5,7 +5,7 @@ feature-image_path: /uploads/christin-hume-505826-unsplash.jpg
 pinterest-image_path: /uploads/text-placeholder.png
 title: The Most Powerful Platform on the Internet
 Author: Justyn
-published: false
+published: true
 tags:
   - Pinterest
   - Tailwind
