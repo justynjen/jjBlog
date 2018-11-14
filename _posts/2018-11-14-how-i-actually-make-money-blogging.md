@@ -1,11 +1,11 @@
 ---
 layout: posts
 date: 2018-11-14 00:00:00
-feature-image_path: /uploads/haute-stock-photography-september-instaquotes-10.png
+feature-image_path:
 pinterest-image_path: /uploads/how-i-actually-make-money-1.png
 title: How I Actually Make Money Blogging
 Author: Justyn
-published: true
+published: false
 tags:
   - Blogging
   - Making Money
