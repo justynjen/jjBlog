@@ -5,7 +5,7 @@ feature-image_path: /uploads/haute-stock-photography-coffee-shop-collection-fina
 pinterest-image_path: /uploads/how-i-actually-make-money.png
 title: How I Actually Make Money Blogging
 Author: Justyn
-published: false
+published: true
 tags:
   - Freelancing
   - Pinterest
