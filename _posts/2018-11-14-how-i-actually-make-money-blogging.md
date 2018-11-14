@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: default
 date: 2018-11-14 00:00:00
 feature-image_path: /uploads/anete-lusina-609857-unsplash.jpg
 pinterest-image_path: /uploads/how-i-actually-make-money-1.png
