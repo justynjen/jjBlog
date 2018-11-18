@@ -1,12 +1,16 @@
 ---
 layout: posts
-date: 2018-11-25 00:00:00
-feature-image_path:
-pinterest-image_path:
+date: 2018-11-18 00:00:00
+feature-image_path: /uploads/gabriel-beaudry-519960-unsplash-1.jpg
+pinterest-image_path: /uploads/top-tips-for-throwing-an-amazing-birthday-bash-on-a-budget.png
 title: 7 Myths About Pinterest Debunked!
 Author: Justyn
-published: false
+published: true
 tags:
+  - Pinterest
+  - Online Marketing
+  - Pinterest Marketing
+  - Blogging
 comments: false
 ---
 
