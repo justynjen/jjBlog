@@ -10,3 +10,4 @@ tags:
 comments: false
 ---
 
+It's officially that time of year again when we start our holiday shopping. If you have a travel lover in your life, like me, you might find that you have a harder time shopping for them. What do you buy someone who's always on the go and doesn't have room for 'excess'?&nbsp;
