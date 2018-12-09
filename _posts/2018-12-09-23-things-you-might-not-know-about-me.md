@@ -1,20 +1,20 @@
 ---
 layout: posts
-date: 2018-11-25 00:00:00
-feature-image_path: /uploads/img-2409.jpg
-pinterest-image_path: /uploads/23-things-you-might-not-know-about-me.png
+date: 2018-12-09 00:00:00
+feature-image_path: /uploads/haute-stock-photography-coffee-shop-collection-final-5.jpg
+pinterest-image_path: /uploads/23-things-you-might-not-know-about-me-1.png
 title: 23 Things You Might Not Know About Me
 Author: Justyn
-published: false
+published: true
 tags:
 comments: false
 ---
 
-I'm turning 23 this week so I thought I would write a fun post for all of my new followers with **23 things that you might not know about me!&nbsp;**
+I'm turning 23 this week so I thought I would write a fun post for all of my new followers with **23 things that you might not know about me! **
 
 My name is pronounced just(in)
 
-I'm the middle child of 3.&nbsp;
+I'm the middle child of 3. 
 
 I have been traveling full time almost 3,5 years now and time has FLOWN by
 
@@ -30,7 +30,7 @@ I've been skydiving and paragliding but I am WAY too scared to bungee jump
 
 I used to be a HORRIBLE cook. Seriously ask my family. One time I tried to thicken mac and cheese by putting flour in it and another time I couldn't find baking powder so I thought powered sugar would be a good substitute. But when I became Vegan I made it my goal to learn how to cook delicious food for myself and I have gotten so much better. 😊
 
-My second toe is my longest toe and growing up my dad tormented me by calling me long toe (because apparently this is unnatural) - to the point where I refused to wear sandals until very recently&nbsp;
+My second toe is my longest toe and growing up my dad tormented me by calling me long toe (because apparently this is unnatural) - to the point where I refused to wear sandals until very recently 
 
 The first foreign country I ever went to was Russia. And I was terrified. I haven't been back but would actually love to visit a few friends I have that live there.
 
