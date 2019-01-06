@@ -94,10 +94,16 @@ Faroe Islands - Words can’t describe how stunning the Faroe Islands are. I’v
 feel like you need WAY more time to explore.
 {: .present-before-paste}
 
-Argentina - My grandparents lived in Argentina for a few years and I’ve wanted to go and visit because they have told me absolutely amazing stories about their time there.
+#### Argentina &nbsp;
 {: .present-before-paste}
 
-Where to stay in Argentina : Buenos Aires. Culture Trip shared a great article with 6 reasons why you should visit Buenos Aires in your life and I have to tell you, they convinced me! &nbsp;If you need to find somewhere to stay in Buenos Aires then you can find a room here.
+My grandparents lived in Argentina for a few years and I’ve wanted to go and visit because they have told me absolutely amazing stories about their time there.
+{: .present-before-paste}
+
+##### Where to stay in Argentina &nbsp;
+{: .present-before-paste}
+
+Buenos Aires. Culture Trip shared a great article with 6 reasons why you should visit Buenos Aires in your life and I have to tell you, they convinced me! &nbsp;If you need to find somewhere to stay in Buenos Aires then you can find a room here.
 {: .present-before-paste}
 
 When visiting Argentina, one thing that you CAN’T miss is the Torres del Paine National Park. It’s something that you have to see in your lifetime. Plan on camping and make sure that you are prepared to stay warm and be blown away by the sights. If you’re interested, there are plenty of places that you can book trips and guided tours through Torres del Paine.
