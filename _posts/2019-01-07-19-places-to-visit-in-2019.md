@@ -1,6 +1,6 @@
 ---
 layout: posts
-date: 2018-12-09 00:00:00
+date: 2019-01-07 00:00:00
 feature-image_path: /uploads/mark-harpur-748500-unsplash.jpg
 pinterest-image_path: /uploads/19-places-to-go-in-2019-1.png
 title: 19 Places to Visit in 2019
@@ -20,7 +20,7 @@ Every year I sit down and think of all the places that I would love to travel to
 ## Here’s my 19 Places to visit in 2019!
 {: .present-before-paste}
 
-#### Georgia&nbsp;
+#### Georgia 
 {: .present-before-paste}
 
 Georgia is a stunning country with an amazing visa of 365 days on arrival for Americans. I can’t tell you why I’ve never been before! The prices are great and it’s an extremely untouched place for people looking to travel to Europe this year. Next time you’re planning a holiday, make sure to consider Georgia.
@@ -38,10 +38,10 @@ Mtskheta - Mtskheta is the religious capital and spiritual heart of Georgia. Tha
 #### Latvia
 {: .present-before-paste}
 
-I’ve been to Latvia once before and would really love to go back! I want to travel back with my blogger friend Bri from [A Little Piece of Bri Elise](https://alittlepieceofbrielise.com){: target="_blank"}&nbsp; because she speaks fluent Russian and has been teaching me quite a lot. I want to go somewhere that I can practice my new skill and Latvia seems like the perfect choice.
+I’ve been to Latvia once before and would really love to go back! I want to travel back with my blogger friend Bri from [A Little Piece of Bri Elise](https://alittlepieceofbrielise.com){: target="_blank"}  because she speaks fluent Russian and has been teaching me quite a lot. I want to go somewhere that I can practice my new skill and Latvia seems like the perfect choice.
 {: .present-before-paste}
 
-##### Where to visit in Latvia &nbsp;
+##### Where to visit in Latvia  
 {: .present-before-paste}
 
 My top recommendation for visiting Latvia is to see the colorful capital Riga. This city is full of picturesque architecture, trendy cafes and buzzing bars. Looking for a room in Riga? [Book one today!](https://www.booking.com/searchresults.en.html?city=-3212216&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=1){: target="_blank"}
@@ -50,7 +50,7 @@ My top recommendation for visiting Latvia is to see the colorful capital Riga. T
 Jurmala - Just a 20 minute drive from Riga you have to check out this seaside resort unlike any other. This is your chance to get back to nature as you stroll through the pine fringed shoreline. [Book a room today.](https://www.booking.com/searchresults.en.html?city=-3209113&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=1){: target="_blank"}
 {: .present-before-paste}
 
-#### Namibia &nbsp;
+#### Namibia  
 {: .present-before-paste}
 
 Now Africa is a big one for me right now. I’ve only been to Egypt and I am dying to explore more of Africa this year. I will have to let you know how it goes!
@@ -59,7 +59,7 @@ Now Africa is a big one for me right now. I’ve only been to Egypt and I am dyi
 ##### Where to visit in Namibia
 {: .present-before-paste}
 
-The top places to visit in Namibia include the Epupa Falls, Walvis Bay, the Namib-Naukluft National Park and the Etosha National Park. These two national parks are the the largest game parks in Namibia where you can see all kinds of incredible wildlife and the Etosha National Park is home to thousands of Flamingos. Are you planning a visit? [Book a room here.&nbsp;](https://www.booking.com/searchresults.en.html?city=-2587496&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=1){: target="_blank"}
+The top places to visit in Namibia include the Epupa Falls, Walvis Bay, the Namib-Naukluft National Park and the Etosha National Park. These two national parks are the the largest game parks in Namibia where you can see all kinds of incredible wildlife and the Etosha National Park is home to thousands of Flamingos. Are you planning a visit? [Book a room here. ](https://www.booking.com/searchresults.en.html?city=-2587496&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=1){: target="_blank"}
 {: .present-before-paste}
 
 #### Zimbabwe
@@ -113,7 +113,7 @@ After spending a couple of days in Lisbon you can head south to Porto where you 
 Then before you leave head to Ericeira, a quiet fishing town where you can spend your days filling up on pastries and coffees in the sun. [Find your accommodation in Ericeira here.](https://www.booking.com/searchresults.en.html?city=-2164547&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA){: target="_blank"}
 {: .present-before-paste}
 
-#### Malta &nbsp;
+#### Malta  
 {: .present-before-paste}
 
 A great place to visit for sun, sea and culture, Malta has just recently popped up on my radar. In this last year I met someone from Malta and he sold me on adding it to my bucket list right away. Make sure that you spend a weekend in Gozo and explore the colorful backstreets of Vittoriosa. [Book your stay today!](https://www.booking.com/searchresults.en.html?city=-19069&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA){: target="_blank"}
@@ -137,13 +137,13 @@ Nepal has been another country that has been calling to me for years. I’ve hea
 Then [travel to Pokhara](https://www.booking.com/searchresults.en.html?city=-1022488&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA){: target="_blank"} to begin your Nepalese journey. Earlier this year at travelcon I met an amazing girl who spends most of her year traveling through Nepal so if you want any advice on what to do or see, make sure that you [check out Michelle.](https://www.fulltimeexplorer.com/){: target="_blank"}
 {: .present-before-paste}
 
-#### Myanmar &nbsp;
+#### Myanmar  
 {: .present-before-paste}
 
 I was meant to go to Myanmar just two years ago but my trip plans fell through. I hope to change that this year with the chance to visit this unique country. There’s been a lot of controversy about travel to Myanmar but I encourage you to read this article by the [Wayfaress](https://www.thewayfaress.com/blog/myanmar-travel-boycott){: target="_blank"} if you were at all questioning a trip, and keep in mind that when traveling to countries like Myanmar, keep your money in the hands of the locals. Stay with local accommodation, eat at locally owned restaurants and buy handmade goods directly from those making them.
 {: .present-before-paste}
 
-#### Guatemala&nbsp;
+#### Guatemala 
 {: .present-before-paste}
 
 A wonderful friend of mine, [Taylor,](https://remotelikeme.com){: target="_blank"} lives in Guatemala and she’s always posting the coolest pictures and telling me stories of everything she gets up to over there. I really hope to make a trip out to visit her this year. I know that I will make a stop in Antigua when I arrive and wander the colorful city streets. If you are looking for somewhere to stay in Antigua, [check here!](https://www.booking.com/searchresults.en.html?city=-1131627&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA){: target="_blank"}
@@ -155,19 +155,19 @@ A wonderful friend of mine, [Taylor,](https://remotelikeme.com){: target="_blank
 #### Faroe Islands
 {: .present-before-paste}
 
-Words can’t describe how stunning the Faroe Islands are. I’ve had dreams of exploring the rugged landscape and since I will already have my trekking boots on, why not visit these Islands as well. When traveling to the Faroe islands make sure that you visit Saksun Church, Streymoy, Mulafossur Waterfall (Vagar Island) and Lake S&oslash;rv&aacute;gsvatn, Suduroy but honestly there is so much to see here you are going to feel like you need WAY more time to explore.
+Words can’t describe how stunning the Faroe Islands are. I’ve had dreams of exploring the rugged landscape and since I will already have my trekking boots on, why not visit these Islands as well. When traveling to the Faroe islands make sure that you visit Saksun Church, Streymoy, Mulafossur Waterfall (Vagar Island) and Lake Sørvágsvatn, Suduroy but honestly there is so much to see here you are going to feel like you need WAY more time to explore.
 {: .present-before-paste}
 
-#### Argentina &nbsp;
+#### Argentina  
 {: .present-before-paste}
 
 My grandparents lived in Argentina for a few years and I’ve wanted to go and visit because they have told me absolutely amazing stories about their time there.
 {: .present-before-paste}
 
-##### Where to stay in Argentina &nbsp;
+##### Where to stay in Argentina  
 {: .present-before-paste}
 
-Buenos Aires- Culture Trip shared a [great article](https://theculturetrip.com/south-america/argentina/articles/6-reasons-why-you-should-visit-buenos-aires-at-least-once-in-your-lifetime/){: target="_blank"} with 6 reasons why you should visit Buenos Aires in your life and I have to tell you, they convinced me! &nbsp;If you need to find somewhere to stay in Buenos Aires then you can [find a room here.](https://www.booking.com/searchresults.en.html?city=-979186&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA){: target="_blank"}
+Buenos Aires- Culture Trip shared a [great article](https://theculturetrip.com/south-america/argentina/articles/6-reasons-why-you-should-visit-buenos-aires-at-least-once-in-your-lifetime/){: target="_blank"} with 6 reasons why you should visit Buenos Aires in your life and I have to tell you, they convinced me!  If you need to find somewhere to stay in Buenos Aires then you can [find a room here.](https://www.booking.com/searchresults.en.html?city=-979186&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA){: target="_blank"}
 {: .present-before-paste}
 
 When visiting Argentina, one thing that you CAN’T miss is the Torres del Paine National Park. It’s something that you have to see in your lifetime. Plan on camping and make sure that you are prepared to stay warm and be blown away by the sights. If you’re interested, there are plenty of places that you can book trips and guided tours through Torres del Paine.
@@ -182,16 +182,16 @@ Because it's incredible. Another great country if you want to visit the Torres d
 ##### Where to visit in Chile
 {: .present-before-paste}
 
-&nbsp;Santiago - the capital of Chile. Make sure that stroll through the historic streets of Santiago, taking in all that the Chilean culture has to offer. [Book a room in Santiago today.](https://www.booking.com/searchresults.en.html?city=-901202&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA){: target="_blank"}
+ Santiago - the capital of Chile. Make sure that stroll through the historic streets of Santiago, taking in all that the Chilean culture has to offer. [Book a room in Santiago today.](https://www.booking.com/searchresults.en.html?city=-901202&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA){: target="_blank"}
 {: .present-before-paste}
 
-From Santiago make sure that you plan a trip out to Easter Island. When going all the way to Chile, Easter Island cannot be missed! [Intrepid has another great trip](http://www.tkqlhce.com/click-8896674-12239281){: target="_blank"} that takes you around Easter Island and helps you enjoy all the beauty of this unique destination! &nbsp;&nbsp;
+From Santiago make sure that you plan a trip out to Easter Island. When going all the way to Chile, Easter Island cannot be missed! [Intrepid has another great trip](http://www.tkqlhce.com/click-8896674-12239281){: target="_blank"} that takes you around Easter Island and helps you enjoy all the beauty of this unique destination!   
 {: .present-before-paste}
 
 ![](/uploads/thomas-griggs-641511-unsplash.jpg)
 {: .present-before-paste}
 
-#### Hawaii &nbsp;
+#### Hawaii  
 {: .present-before-paste}
 
 The Hawaiian Islands honestly can’t be beat. I’ve never been to Hawaii personally but I have just always wanted to go. From the gorgeous white beaches to the lush green forests and towering waterfalls, there’s so much to see on each island, I better just plan on spending the whole year there ;) For me, I dream of going to Kauai and Maui.
@@ -203,12 +203,12 @@ The Hawaiian Islands honestly can’t be beat. I’ve never been to Hawaii perso
 The raddest blogger I know lives in Cape Town and her photos are always drool worthy. To get inspired make sure that you [check out her blog.](https://theblondeabroad.com/ultimate-cape-town-travel-guide/){: target="_blank"} My favorite thing about her guide for Cape Town is all the handy information that she gives you right from the start. She really shares with you all the secrets of visiting this incredible city. She has accommodation recommendations as well as how to get around and stay safe. I promise you’ll have a ticket booked to Cape Town as soon as you see her photos. This year I hope to get the chance to finally check it out for myself. Check out the amazing hotels you can [book in Cape Town here.](https://www.booking.com/searchresults.en.html?city=-1217214&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA){: target="_blank"}
 {: .present-before-paste}
 
-#### Scotland&nbsp;
+#### Scotland 
 
 My goal for this year is to take my parents on a trip to Scotland. I would love to hire a car and just drive the countryside with them. I know that’s a trip that I’ve done before but I’d love the chance to take my parents.
 {: .present-before-paste}
 
-##### Where to visit in Scotland &nbsp;
+##### Where to visit in Scotland  
 
 Edinburgh is one of my favorite cities that I have been to in the world actually. The people were amazing, it was so easy to get around and the city is beautiful. I highly recommend starting your Scotland adventure from Edinburgh and if you need somewhere to stay, [make sure you book here!](https://www.booking.com/searchresults.en.html?city=-2595386&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA){: target="_blank"}
 {: .present-before-paste}
@@ -223,7 +223,7 @@ Vietnam was on my list for 2018 and I still didn’t make it there so I am deter
 
 ##### Top Places to base yourself for travel around Vietnam
 
-Firstly, head to [Hanoi.](https://www.booking.com/searchresults.en.html?city=-3714993&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA){: target="_blank"}&nbsp;You should visit Hanoi for the centuries old architecture and the rich culture from China, France and Southeast Asian Influences.
+Firstly, head to [Hanoi.](https://www.booking.com/searchresults.en.html?city=-3714993&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA){: target="_blank"} You should visit Hanoi for the centuries old architecture and the rich culture from China, France and Southeast Asian Influences.
 {: .present-before-paste}
 
 Ho Chi Minh City. In the south of Vietnam, Ho Chi Minh City has rich French influence with many structures looking French as well as being made completely out of French materials. When traveling south through the country you have to make sure to stop here. [You can find a place to stay in Ho Chi Minh City here.](https://www.booking.com/searchresults.en.html?city=-3730078&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA)
