@@ -25,25 +25,25 @@ Georgia is a stunning country with an amazing visa of 365 days on arrival for Am
 ##### Where to Visit in Georgia
 {: .present-before-paste}
 
-Tbilisi- The capital of Georgia and one of the best cities in Georgia to visit. Make sure that you walk through the colorful old town, rich with history as Tbilisi has been the capital of Georgia since the 5th century. Getting to Tbilisi is extremely easy. You can find helpful information about the public transportation in Georgia here. Wondering where to stay in Tbilisi? Find a room here.
+Tbilisi- The capital of Georgia and one of the best cities in Georgia to visit. Make sure that you walk through the colorful old town, rich with history as Tbilisi has been the capital of Georgia since the 5th century. Getting to Tbilisi is extremely easy. You can find helpful information about the public transportation in Georgia [here.](https://www.journalofnomads.com/georgia-budget/){: target="_blank"} Wondering where to stay in Tbilisi? [Find a room here.](https://www.booking.com/searchresults.en.html?city=900047975&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=1){: target="_blank"}
 {: .present-before-paste}
 
-Mtskheta - Mtskheta is the religious capital and spiritual heart of Georgia. That’s what makes it such an important city to visit on your trip through Georgia. (It’s also one of the oldest cities in Georgia and was the capital before it was switched). Wondering where to stay in Mtskheta? Find a room here.
+Mtskheta - Mtskheta is the religious capital and spiritual heart of Georgia. That’s what makes it such an important city to visit on your trip through Georgia. (It’s also one of the oldest cities in Georgia and was the capital before it was switched). Wondering where to stay in Mtskheta? [Find a room here.](https://www.booking.com/searchresults.en.html?city=-2328893&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=1){: target="_blank"}
 {: .present-before-paste}
 
 #### Latvia
 {: .present-before-paste}
 
-I’ve been to Latvia once before and would really love to go back! I want to travel back with my blogger friend Bri from https://alittlepieceofbrielise.com because she speaks fluent Russian and has been teaching me quite a lot. I want to go somewhere that I can practice my new skill and Latvia seems like the perfect choice.
+I’ve been to Latvia once before and would really love to go back! I want to travel back with my blogger friend Bri from [A Little Piece of Bri Elise](https://alittlepieceofbrielise.com){: target="_blank"}&nbsp; because she speaks fluent Russian and has been teaching me quite a lot. I want to go somewhere that I can practice my new skill and Latvia seems like the perfect choice.
 {: .present-before-paste}
 
 ##### Where to visit in Latvia &nbsp;
 {: .present-before-paste}
 
-My top recommendation for visiting Latvia is to see the colorful capital Riga. This city is full of picturesque architecture, trendy cafes and buzzing bars. Looking for a room in Riga? Book one today!
+My top recommendation for visiting Latvia is to see the colorful capital Riga. This city is full of picturesque architecture, trendy cafes and buzzing bars. Looking for a room in Riga? [Book one today!](https://www.booking.com/searchresults.en.html?city=-3212216&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=1){: target="_blank"}
 {: .present-before-paste}
 
-Jurmala - Just a 20 minute drive from Riga you have to check out this seaside resort unlike any other. This is your chance to get back to nature as you stroll through the pine fringed shoreline. Book a room today.
+Jurmala - Just a 20 minute drive from Riga you have to check out this seaside resort unlike any other. This is your chance to get back to nature as you stroll through the pine fringed shoreline. [Book a room today.](https://www.booking.com/searchresults.en.html?city=-3209113&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=1){: target="_blank"}
 {: .present-before-paste}
 
 #### Namibia &nbsp;
@@ -55,7 +55,7 @@ Now Africa is a big one for me right now. I’ve only been to Egypt and I am dyi
 ##### Where to visit in Namibia
 {: .present-before-paste}
 
-The top places to visit in Namibia include the Epupa Falls, Walvis Bay, the Namib-Naukluft National Park and the Etosha National Park. These two national parks are the the largest game parks in Namibia where you can see all kinds of incredible wildlife and the Etosha National Park is home to thousands of Flamingos. Are you planning a visit? Book a room here.&nbsp;
+The top places to visit in Namibia include the Epupa Falls, Walvis Bay, the Namib-Naukluft National Park and the Etosha National Park. These two national parks are the the largest game parks in Namibia where you can see all kinds of incredible wildlife and the Etosha National Park is home to thousands of Flamingos. Are you planning a visit? [Book a room here.&nbsp;](https://www.booking.com/searchresults.en.html?city=-2587496&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=1){: target="_blank"}
 {: .present-before-paste}
 
 #### Zimbabwe
