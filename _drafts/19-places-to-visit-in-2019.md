@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2018-12-09 00:00:00
-feature-image_path:
+feature-image_path: /uploads/19-places-to-go-in-2019.png
 pinterest-image_path:
 title: 19 Places to Visit in 2019
 Author: Justyn
