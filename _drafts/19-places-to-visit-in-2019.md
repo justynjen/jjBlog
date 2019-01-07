@@ -7,6 +7,10 @@ title: 19 Places to Visit in 2019
 Author: Justyn
 published: true
 tags:
+  - travel
+  - Bucketlist
+  - '2019'
+  - Goals for 2019
 comments: false
 ---
 
