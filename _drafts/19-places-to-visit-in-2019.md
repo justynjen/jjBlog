@@ -13,73 +13,106 @@ comments: false
 Every year I sit down and think of all the places that I would love to travel to in the coming months. Sometimes I visit them all, sometimes I only visit one or two. This year I am making it my goal to really spend more time traveling and creating amazing content. Whether you get to take one vacation a year or spend all your time traveling like I do, I want to help you decide where you are going to go in 2019.
 {: .present-before-paste}
 
-Here’s my 19 Places to visit in 2019!
+## Here’s my 19 Places to visit in 2019!
 {: .present-before-paste}
 
-Georgia - Georgia is a stunning country with an amazing visa of 365 days on arrival for Americans. I can’t tell you why I’ve never been before! The prices are great and it’s an extremely untouched place for people looking to travel to Europe this year. Next time you’re planning a holiday, make sure to consider Georgia.
+#### Georgia&nbsp;
 {: .present-before-paste}
 
-Where to Visit in Georgia : Tbilisi. The capital of Georgia and one of the best cities in Georgia to visit. Make sure that you walk through the colorful old town, rich with history as Tbilisi has been the capital of Georgia since the 5th century. Getting to Tbilisi is extremely easy. You can find helpful information about the public transportation in Georgia here. Wondering where to stay in Tbilisi? Find a room here.
+Georgia is a stunning country with an amazing visa of 365 days on arrival for Americans. I can’t tell you why I’ve never been before! The prices are great and it’s an extremely untouched place for people looking to travel to Europe this year. Next time you’re planning a holiday, make sure to consider Georgia.
 {: .present-before-paste}
 
-Mtskheta : Mtskheta is the religious capital and spiritual heart of Georgia. That’s what makes it such an important city to visit on your trip through Georgia. (It’s also one of the oldest cities in Georgia and was the capital before it was switched). Wondering where to stay in Mtskheta? Find a room here.
+##### Where to Visit in Georgia
 {: .present-before-paste}
 
-Latvia - I’ve been to Latvia once before and would really love to go back! I want to travel back with my blogger friend Bri from https://alittlepieceofbrielise.com because she speaks fluent Russian and has been teaching me quite a lot. I want to go somewhere that I can practice my new skill and Latvia seems like the perfect choice.
+Tbilisi- The capital of Georgia and one of the best cities in Georgia to visit. Make sure that you walk through the colorful old town, rich with history as Tbilisi has been the capital of Georgia since the 5th century. Getting to Tbilisi is extremely easy. You can find helpful information about the public transportation in Georgia here. Wondering where to stay in Tbilisi? Find a room here.
 {: .present-before-paste}
 
-Where to visit in Latvia : My top recommendation for visiting Latvia is to see the colorful capital Riga. This city is full of picturesque architecture, trendy cafes and buzzing bars. Looking for a room in Riga? Book one today!
+Mtskheta - Mtskheta is the religious capital and spiritual heart of Georgia. That’s what makes it such an important city to visit on your trip through Georgia. (It’s also one of the oldest cities in Georgia and was the capital before it was switched). Wondering where to stay in Mtskheta? Find a room here.
 {: .present-before-paste}
 
-Jurmala : Just a 20 minute drive from Riga you have to check out this seaside resort unlike any other. This is your chance to get back to nature as you stroll through the pine fringed shoreline. Book a room today.
+#### Latvia
 {: .present-before-paste}
 
-Namibia - Now Africa is a big one for me right now. I’ve only been to Egypt and I am dying to explore more of Africa this year. I will have to let you know how it goes!
+I’ve been to Latvia once before and would really love to go back! I want to travel back with my blogger friend Bri from https://alittlepieceofbrielise.com because she speaks fluent Russian and has been teaching me quite a lot. I want to go somewhere that I can practice my new skill and Latvia seems like the perfect choice.
 {: .present-before-paste}
 
-The top places to visit in Namibia include the Epupa Falls, Walvis Bay, the Namib-Naukluft National Park and the Etosha National Park. These two national parks are the the largest game parks in Namibia where you can see all kinds of incredible wildlife and the Etosha National Park is home to thousands of Flamingos. Are you planning a visit? Book a room here. &nbsp;
+##### Where to visit in Latvia &nbsp;
 {: .present-before-paste}
 
-Zimbabwe - Another stunning country in Africa.
+My top recommendation for visiting Latvia is to see the colorful capital Riga. This city is full of picturesque architecture, trendy cafes and buzzing bars. Looking for a room in Riga? Book one today!
 {: .present-before-paste}
 
-Zimbabwe is home to the incredible Victoria Falls, something that you have to make a stop at on a trip to Africa. Book a room around Victoria Falls.
+Jurmala - Just a 20 minute drive from Riga you have to check out this seaside resort unlike any other. This is your chance to get back to nature as you stroll through the pine fringed shoreline. Book a room today.
 {: .present-before-paste}
 
-You should be going to Zimbabwe for the wildlife, the scenery, the history and of course the people. While staying in Zimbabwe make sure that you check out the Hwange National Park and spend some time in the capital city, Harare.
+#### Namibia &nbsp;
 {: .present-before-paste}
 
-Iran - Iran is the number one country that I want to go to in the entire world. I’ve heard nothing but amazing things about the people, the culture and the scenery. I don’t know how I am going to get there but I know this year I want to make it happen.
+Now Africa is a big one for me right now. I’ve only been to Egypt and I am dying to explore more of Africa this year. I will have to let you know how it goes!
 {: .present-before-paste}
 
-The best option for visiting Iran for Americans can be found with Intrepid Travel. I have heard amazing things from their trips and may even take one myself this year. No matter what country you are from, these tours through Iran with Intrepid are incredible. Check out Intrepids trips here and search for Iran.
+##### Where to visit in Namibia
 {: .present-before-paste}
 
-Uzbekistan - Every photo that I see from Uzbekistan is absolutely incredible. I hope to be heading here this year. From the absolutely stunning architecture to the incredible culture, Uzbekistan will be the most fascinating country that you travel to this year, believe me.
+The top places to visit in Namibia include the Epupa Falls, Walvis Bay, the Namib-Naukluft National Park and the Etosha National Park. These two national parks are the the largest game parks in Namibia where you can see all kinds of incredible wildlife and the Etosha National Park is home to thousands of Flamingos. Are you planning a visit? Book a room here.&nbsp;
 {: .present-before-paste}
 
-Where to go in Uzbekistan : You will be sure to have the country all to yourself. Make sure that you check out Tashkent, the capital for it’s mix of modern and soviet-era architecture. As well as Samarkand for it’s impressive mosques and Bukahara for the Ark Citadel. Start booking your trip to Uzbekistan right away, before this untouched destination gets discovered! And for the Ultimate Guide and knowing everything before you go, make sure to check out this article I love from Lost with Purpose.
+#### Zimbabwe
 {: .present-before-paste}
 
-Portugal - Always a fun country to visit with amazing food, great beaches and unbeatable cities.
+Another stunning country in Africa.
 {: .present-before-paste}
 
-Top Cities to visit in Portugal include Lisbon, for the history, great Pastel de Nata and perfectly tiled old city. I recommend starting your trip to Portugal in Lisbon before heading south to explore more of the country. Book a stay in Lisbon here.
+Zimbabwe is home to the incredible Victoria Falls, something that you have to make a stop at on a trip to Africa. [Book a room around Victoria Falls.](https://www.booking.com/searchresults.en.html?city=-2323247&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=1){: target="_blank"}
 {: .present-before-paste}
 
-After spending a couple of days in Lisbon you can head south to Porto where you can see the stunning cliff sides and pristine beaches. I recommend staying at least a few days because believe me, when you get there you aren’t ever going to want to leave. Find a room here.
+You should be going to Zimbabwe for the wildlife, the scenery, the history and of course the people. While staying in Zimbabwe make sure that you check out the Hwange National Park and spend some time in the capital city, [Harare.](https://www.booking.com/searchresults.en.html?city=-2312291&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=1){: target="_blank"}
 {: .present-before-paste}
 
-Then before you leave head to Ericeira, a quiet fishing town where you can spend your days filling up on pastries and coffees in the sun. Find your accommodation in Ericeira here.
+#### Iran
+{: .present-before-paste}
+
+Iran is the number one country that I want to go to in the entire world. I’ve heard nothing but amazing things about the people, the culture and the scenery. I don’t know how I am going to get there but I know this year I want to make it happen.
+{: .present-before-paste}
+
+The best option for visiting Iran for Americans can be found with Intrepid Travel. I have heard amazing things from their trips and may even take one myself this year. No matter what country you are from, these tours through Iran with Intrepid are incredible. [Check out Intrepids trips here](http://www.tkqlhce.com/click-8896674-12239281){: target="_blank"} and search for Iran.
+{: .present-before-paste}
+
+#### Uzbekistan
+{: .present-before-paste}
+
+Every photo that I see from Uzbekistan is absolutely incredible. I hope to be heading here this year. From the absolutely stunning architecture to the incredible culture, Uzbekistan will be the most fascinating country that you travel to this year, believe me.
+{: .present-before-paste}
+
+##### Where to go in Uzbekistan
+{: .present-before-paste}
+
+You will be sure to have the country all to yourself. Make sure that you check out Tashkent, the capital for it’s mix of modern and soviet-era architecture. As well as Samarkand for it’s impressive mosques and Bukahara for the Ark Citadel. [Start booking your trip to Uzbekistan right away](https://www.booking.com/index.html?aid=1624497){: target="_blank"}, before this untouched destination gets discovered! And for the Ultimate Guide and knowing everything before you go, make sure to check out this article I love from [Lost with Purpose.](https://www.lostwithpurpose.com/things-to-know-uzbekistan/){: target="_blank"}
+{: .present-before-paste}
+
+#### Portugal
+{: .present-before-paste}
+
+Always a fun country to visit with amazing food, great beaches and unbeatable cities.
+{: .present-before-paste}
+
+Top Cities to visit in Portugal include Lisbon, for the history, great Pastel de Nata and perfectly tiled old city. I recommend starting your trip to Portugal in Lisbon before heading south to explore more of the country. [Book a stay in Lisbon here.](https://www.booking.com/searchresults.en.html?city=-2167973&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=1){: target="_blank"}
+{: .present-before-paste}
+
+After spending a couple of days in Lisbon you can head south to Porto where you can see the stunning cliff sides and pristine beaches. I recommend staying at least a few days because believe me, when you get there you aren’t ever going to want to leave. [Find a room here.](https://www.booking.com/searchresults.en.html?city=-2173088&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA){: target="_blank"}
+{: .present-before-paste}
+
+Then before you leave head to Ericeira, a quiet fishing town where you can spend your days filling up on pastries and coffees in the sun. [Find your accommodation in Ericeira here.](https://www.booking.com/searchresults.en.html?city=-2164547&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA){: target="_blank"}
 {: .present-before-paste}
 
 #### Malta &nbsp;
 {: .present-before-paste}
 
-A great place to visit for sun, sea and culture, Malta has just recently popped up on my radar. In this last year I met someone from Malta and he sold me on adding it to my bucket list right away. Make sure that you spend a weekend in Gozo and explore the colorful backstreets of Vittoriosa. Book your stay today!
+A great place to visit for sun, sea and culture, Malta has just recently popped up on my radar. In this last year I met someone from Malta and he sold me on adding it to my bucket list right away. Make sure that you spend a weekend in Gozo and explore the colorful backstreets of Vittoriosa. [Book your stay today!](https://www.booking.com/searchresults.en.html?city=-19069&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA){: target="_blank"}
 {: .present-before-paste}
 
-#### [Tibet ](__notset__)
+#### Tibet
 {: .present-before-paste}
 
 This region of the world is something that I’ve dreamed of visiting. Aptly named the roof of the world, I’ve dreamed of trekking the Himalayas, seeing a new culture and way of life way up high in the world.
