@@ -73,25 +73,43 @@ After spending a couple of days in Lisbon you can head south to Porto where you 
 Then before you leave head to Ericeira, a quiet fishing town where you can spend your days filling up on pastries and coffees in the sun. Find your accommodation in Ericeira here.
 {: .present-before-paste}
 
-Malta - A great place to visit for sun, sea and culture, Malta has just recently popped up on my radar. In this last year I met someone from Malta and he sold me on adding it to my bucket list right away. Make sure that you spend a weekend in Gozo and explore the colorful backstreets of Vittoriosa. Book you stay today!
+#### Malta &nbsp;
 {: .present-before-paste}
 
-Tibet - This region of the world is something that I’ve dreamed of visiting. Aptly named the roof of the world, I’ve dreamed of trekking the Himalayas, seeing a new culture and way of life way up high in the world.
+A great place to visit for sun, sea and culture, Malta has just recently popped up on my radar. In this last year I met someone from Malta and he sold me on adding it to my bucket list right away. Make sure that you spend a weekend in Gozo and explore the colorful backstreets of Vittoriosa. Book your stay today!
 {: .present-before-paste}
 
-Nepal - Nepal has been another country that has been calling to me for years. I’ve heard nothing but absolutely amazing things about Nepal and I hope this year can be the year I finally trek the to Everest Base Camp. That would be a huge accomplishment to tick off my bucket list. If you are looking to visit Nepal, I highly recommend starting your trip in Kathmandu but getting into the mountains as soon as possible because the views look like nothing I’ve ever seen. Book a room in Kathmandu here. Then travel to Pokhara to begin your Nepalese journey. Earlier this year at travelcon I met an amazing girl who spends most of her year traveling through Nepal so if you want any advice on what to do or see, make sure that you check out Michelle.
+#### [Tibet ](__notset__)
 {: .present-before-paste}
 
-Myanmar - I was meant to go to Myanmar just two years ago but my trip plans fell through. I hope to change that this year with the chance to visit this unique country. There’s been a lot of controversy about travel to Myanmar but I encourage you to read this article by the Wayfaress if you were at all questioning a trip, and keep in mind that when traveling to countries like Myanmar, keep your money in the hands of the locals. Stay with local accommodation, eat at locally owned restaurants and buy handmade goods directly from those making them.
+This region of the world is something that I’ve dreamed of visiting. Aptly named the roof of the world, I’ve dreamed of trekking the Himalayas, seeing a new culture and way of life way up high in the world.
 {: .present-before-paste}
 
-Guatemala - A wonderful friend of mine, Taylor, lives in Guatemala and she’s always posting the coolest pictures and telling me stories of everything she gets up to over there. I really hope to make a trip out to visit her this year. I know that I will make a stop in Antigua when I arrive and wander the colorful city streets. If you are looking for somewhere to stay in Antigua, check here!
+#### Nepal
 {: .present-before-paste}
 
-Faroe Islands - Words can’t describe how stunning the Faroe Islands are. I’ve had dreams of exploring the rugged landscape and since I will already have my trekking boots on, why not visit these Islands as well. When traveling to the Faroe islands make sure that you visit Saksun Church, Streymoy, Mulafossur Waterfall (Vagar Island) and Lake S&oslash;rv&aacute;gsvatn, Suduroy but honestly there is so much to see here you are going to
+Nepal has been another country that has been calling to me for years. I’ve heard nothing but absolutely amazing things about Nepal and I hope this year can be the year I finally trek the to Everest Base Camp. That would be a huge accomplishment to tick off my bucket list. If you are looking to visit Nepal, I highly recommend starting your trip in Kathmandu but getting into the mountains as soon as possible because the views look like nothing I’ve ever seen. [Book a room in Kathmandu here.](https://www.booking.com/searchresults.en.html?city=-1022136&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA){: target="_blank"}
 {: .present-before-paste}
 
-feel like you need WAY more time to explore.
+Then [travel to Pokhara](https://www.booking.com/searchresults.en.html?city=-1022488&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA){: target="_blank"} to begin your Nepalese journey. Earlier this year at travelcon I met an amazing girl who spends most of her year traveling through Nepal so if you want any advice on what to do or see, make sure that you [check out Michelle.](https://www.fulltimeexplorer.com/){: target="_blank"}
+{: .present-before-paste}
+
+#### Myanmar &nbsp;
+{: .present-before-paste}
+
+I was meant to go to Myanmar just two years ago but my trip plans fell through. I hope to change that this year with the chance to visit this unique country. There’s been a lot of controversy about travel to Myanmar but I encourage you to read this article by the [Wayfaress](https://www.thewayfaress.com/blog/myanmar-travel-boycott){: target="_blank"} if you were at all questioning a trip, and keep in mind that when traveling to countries like Myanmar, keep your money in the hands of the locals. Stay with local accommodation, eat at locally owned restaurants and buy handmade goods directly from those making them.
+{: .present-before-paste}
+
+#### Guatemala&nbsp;
+{: .present-before-paste}
+
+A wonderful friend of mine, [Taylor,](https://remotelikeme.com){: target="_blank"} lives in Guatemala and she’s always posting the coolest pictures and telling me stories of everything she gets up to over there. I really hope to make a trip out to visit her this year. I know that I will make a stop in Antigua when I arrive and wander the colorful city streets. If you are looking for somewhere to stay in Antigua, [check here!](https://www.booking.com/searchresults.en.html?city=-1131627&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA){: target="_blank"}
+{: .present-before-paste}
+
+#### Faroe Islands
+{: .present-before-paste}
+
+Words can’t describe how stunning the Faroe Islands are. I’ve had dreams of exploring the rugged landscape and since I will already have my trekking boots on, why not visit these Islands as well. When traveling to the Faroe islands make sure that you visit Saksun Church, Streymoy, Mulafossur Waterfall (Vagar Island) and Lake S&oslash;rv&aacute;gsvatn, Suduroy but honestly there is so much to see here you are going to feel like you need WAY more time to explore.
 {: .present-before-paste}
 
 #### Argentina &nbsp;
@@ -103,7 +121,7 @@ My grandparents lived in Argentina for a few years and I’ve wanted to go and v
 ##### Where to stay in Argentina &nbsp;
 {: .present-before-paste}
 
-Buenos Aires. Culture Trip shared a great article with 6 reasons why you should visit Buenos Aires in your life and I have to tell you, they convinced me! &nbsp;If you need to find somewhere to stay in Buenos Aires then you can find a room here.
+Buenos Aires- Culture Trip shared a [great article](https://theculturetrip.com/south-america/argentina/articles/6-reasons-why-you-should-visit-buenos-aires-at-least-once-in-your-lifetime/){: target="_blank"} with 6 reasons why you should visit Buenos Aires in your life and I have to tell you, they convinced me! &nbsp;If you need to find somewhere to stay in Buenos Aires then you can [find a room here.](https://www.booking.com/searchresults.en.html?city=-979186&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA){: target="_blank"}
 {: .present-before-paste}
 
 When visiting Argentina, one thing that you CAN’T miss is the Torres del Paine National Park. It’s something that you have to see in your lifetime. Plan on camping and make sure that you are prepared to stay warm and be blown away by the sights. If you’re interested, there are plenty of places that you can book trips and guided tours through Torres del Paine.
