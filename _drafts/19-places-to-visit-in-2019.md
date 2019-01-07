@@ -89,6 +89,9 @@ The best option for visiting Iran for Americans can be found with Intrepid Trave
 Every photo that I see from Uzbekistan is absolutely incredible. I hope to be heading here this year. From the absolutely stunning architecture to the incredible culture, Uzbekistan will be the most fascinating country that you travel to this year, believe me.
 {: .present-before-paste}
 
+![](/uploads/darrell-chaddock-353390-unsplash.jpg)
+{: .present-before-paste}
+
 ##### Where to go in Uzbekistan
 {: .present-before-paste}
 
@@ -122,6 +125,9 @@ A great place to visit for sun, sea and culture, Malta has just recently popped 
 This region of the world is something that I’ve dreamed of visiting. Aptly named the roof of the world, I’ve dreamed of trekking the Himalayas, seeing a new culture and way of life way up high in the world.
 {: .present-before-paste}
 
+![](/uploads/daniele-salutari-351722-unsplash.jpg)
+{: .present-before-paste}
+
 #### Nepal
 {: .present-before-paste}
 
@@ -141,6 +147,9 @@ I was meant to go to Myanmar just two years ago but my trip plans fell through. 
 {: .present-before-paste}
 
 A wonderful friend of mine, [Taylor,](https://remotelikeme.com){: target="_blank"} lives in Guatemala and she’s always posting the coolest pictures and telling me stories of everything she gets up to over there. I really hope to make a trip out to visit her this year. I know that I will make a stop in Antigua when I arrive and wander the colorful city streets. If you are looking for somewhere to stay in Antigua, [check here!](https://www.booking.com/searchresults.en.html?city=-1131627&amp;aid=1624497&amp;no_rooms=1&amp;group_adults=2&amp;room1=A%2CA){: target="_blank"}
+{: .present-before-paste}
+
+![](/uploads/mark-harpur-748500-unsplash-1.jpg)
 {: .present-before-paste}
 
 #### Faroe Islands
@@ -177,6 +186,9 @@ Because it's incredible. Another great country if you want to visit the Torres d
 {: .present-before-paste}
 
 From Santiago make sure that you plan a trip out to Easter Island. When going all the way to Chile, Easter Island cannot be missed! [Intrepid has another great trip](http://www.tkqlhce.com/click-8896674-12239281){: target="_blank"} that takes you around Easter Island and helps you enjoy all the beauty of this unique destination! &nbsp;&nbsp;
+{: .present-before-paste}
+
+![](/uploads/thomas-griggs-641511-unsplash.jpg)
 {: .present-before-paste}
 
 #### Hawaii &nbsp;
