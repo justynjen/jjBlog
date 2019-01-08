@@ -37,15 +37,10 @@ In the [Pinterest Playbook Course](https://justynjen.teachable.com/p/pinterest-p
 * What tools you should be using
 * How to pitch yourself to clients and educate clients about why they should be working on Pinterest
 * What services to offer and how much to charge (including real life examples from my business)
-
 * Where to look for clients how to pitch them (with templates!)
-
 * How to interview and onboard new clients
-
 * Invoicing and contract tips and tricks
-
 * How to read analytics and client reporting
-
 * And much, much more!
 
 The biggest question I get is if this course is worth it.. Don't just take it from me, you can also take it from a couple of my students.&nbsp;
