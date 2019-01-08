@@ -20,19 +20,17 @@ Surprise, I've got the perfect opportunity for you and NO it doesn't involve sel
 
 For those of you who didn't already know, I work online as a Pinterest Manager and Strategist. It's something that I have been so lucky to do for the past year and I've learned so much about how to create a genuine strategy to help people succeed and see real growth come from their Pinterest accounts. (But let's be honest, you're not here to read about how I've already made it, you're here to find out how you can make it!)
 
-> This page contains useful resources to help you live and work while traveling. Nobody's paid me to include anything, they're just the things I use everyday, however I do receive a small commission if you buy something via these links (at no extra cost to you!) It all helps me run this site, thanks for your support!
+I've traveled full time for the past 3 and a half (going on 4 years now!) And I can tell you that a lot of my success has come from being able to [work on Pinterest.](https://justynjen.teachable.com/p/pinterest-playbook-course){: target="_blank"} It's been a total game changer for me.&nbsp;
 
-I've traveled full time for the past 3 and a half (going on 4 years now!) And I can tell you that a lot of my success has come from being able to work on Pinterest. It's been a total game changer for me.&nbsp;
+Working online as a [Pinterest Manager](https://justynjen.teachable.com/p/pinterest-playbook-course){: target="_blank"} is in high demand right now. Not only do bloggers use Pinterest, but so do business owners. Growth on Pinterest right now is exponential and you're just in time to jump on the band wagon.&nbsp;
 
-Working online as a Pinterest Manager is in high demand right now. Not only do bloggers use Pinterest, but so do business owners. Growth on Pinterest right now is exponential and you're just in time to jump on the band wagon.&nbsp;
+##### So what does a Pinterest Manager do?
 
-##### So what does a Pinterest VA do?
+A Pinterest Manager offers Pinterest management services. Millions and millions of people around the world use Pinterest every single day. Pinterest is very time consuming for someone who is building a business. That is where people like you and I come in. We can save the day for the business owner by taking over their day to day Pinterest tasks, from designing pins to scheduling pins to applying to group boards and optimizing their account, you will help generate massive traffic to their business from Pinterest. The best part is, you can do all this while working from anywhere in the world, like I do.&nbsp;
 
-A Pinterest VA offers Pinterest management services. Millions and millions of people around the world use Pinterest every single day. Pinterest is very time consuming for someone who is building a business. That is where people like you and I come in. We can save the day for the business owner by taking over their day to day Pinterest tasks, from designing pins to scheduling pins to applying to group boards and optimizing their account, you will help generate massive traffic to their business from Pinterest. The best part is, you can do all this while working from anywhere in the world, like I do.&nbsp;
+General day to day tasks for a Pinterest Manager include pinning for your clients, designing viral pins and gauging and understanding their analytics to help them succeed. There's a lot of strategy that goes into helping someone maximise their business on Pinterest and that's why I've created the Pinterest Playbook Course. I've spent the entire last year learning directly from Pinterest in various classes and webinars how to help others and myself succeed and I've generated all of that knowledge into the [Pinterest Playbook.&nbsp;](https://justynjen.teachable.com/p/pinterest-playbook-course){: target="_blank"}
 
-General day to day tasks for a Pinterest Manager include pinning for your clients, designing viral pins and gauging and understanding their analytics to help them succeed. There's a lot of strategy that goes into helping someone maximise their business on Pinterest and that's why I've created the Pinterest Playbook Course. I've spent the entire last year learning directly from Pinterest in various classes and webinars how to help others and myself succeed and I've generated all of that knowledge into the Pinterest Playbook.&nbsp;
-
-In the Pinterest Playbook Course you learn:&nbsp;
+In the [Pinterest Playbook Course](https://justynjen.teachable.com/p/pinterest-playbook-course){: target="_blank"} you learn:&nbsp;
 
 * Start with technical training about Pinterest and Tailwind
 * Then we talk about Pin design, making sure that your pins are well designed and bound to go viral.&nbsp;
@@ -61,5 +59,7 @@ AND
 From 2 of my first ever students.&nbsp;
 
 If you're still unsure then make whether or not you should make the leap then don't hesitate to reach out to me at [hello@justynjen.com](mailto:hello@justynjen.com). I'm always here to help and answer all of your questions.&nbsp;
+
+If you're ready to make the leap then jump on the [Pinterest Playbook Course](https://justynjen.teachable.com/p/pinterest-playbook-course){: target="_blank"} today and start working as a Pinterest Manager within the month! I can't wait to see how you succeed on Pinterest.&nbsp;
 
 &nbsp;
