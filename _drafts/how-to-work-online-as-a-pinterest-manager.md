@@ -1,16 +1,16 @@
 ---
 layout: posts
-date: 2019-01-07 00:00:00
-feature-image_path:
-pinterest-image_path:
+date: 2019-01-08 00:00:00
+feature-image_path: /uploads/sq-ivorymix-freebie2.jpg
+pinterest-image_path: /uploads/how-to-work-online-as-a.png
 title: How to Work Online as a Pinterest Manager
 Author: Justyn
 published: true
 tags:
-  - travel
-  - Bucketlist
-  - '2019'
-  - Goals for 2019
+  - Pinterest
+  - Work Online
+  - Pinterest Manager
+  - Pinterest Playbook Course
 comments: false
 ---
 
