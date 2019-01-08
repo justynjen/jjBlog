@@ -48,13 +48,13 @@ In the [Pinterest Playbook Course](https://justynjen.teachable.com/p/pinterest-p
 
 * And much, much more!
 
-The biggest question I get is if this course is worth it.. Well take it from a couple of my students.&nbsp;
+The biggest question I get is if this course is worth it.. Don't just take it from me, you can also take it from a couple of my students.&nbsp;
 
-"Justyn’s Pinterest course is amazing! We invited her to a blogger retreat to talk about the importance of Pinterest for a business. I have personally implemented her teaching to my Pinterest and I just hit 1.1 Million Monthly Viewers on Pinterest! We have now received a lot more traffic to our blog and our overall business! Thank YOU Justyn!"
+"Justyn’s Pinterest course is amazing! We invited her to a blogger retreat to talk about the importance of Pinterest for a business. I have personally implemented her teaching to my Pinterest and I just hit 1.1 Million Monthly Viewers on Pinterest! We have now received a lot more traffic to our blog and our overall business! Thank YOU Justyn!" -Bri
 
 AND
 
-"Justyn literally changed the game for me when it comes to Pinterest marketing! Before her training, I was trying to navigate Pinterest all on my own and failing miserably. I have implemented the things she taught and my Pinterest has grown from 2k monthly engaged to over 1.1M in less than 3 months! My blog traffic has increased as a result and I will be forever grateful for Justyn’s expertise!"
+"Justyn literally changed the game for me when it comes to Pinterest marketing! Before her training, I was trying to navigate Pinterest all on my own and failing miserably. I have implemented the things she taught and my Pinterest has grown from 2k monthly engaged to over 1.1M in less than 3 months! My blog traffic has increased as a result and I will be forever grateful for Justyn’s expertise!" -Britt
 
 From 2 of my first ever students.&nbsp;
 
