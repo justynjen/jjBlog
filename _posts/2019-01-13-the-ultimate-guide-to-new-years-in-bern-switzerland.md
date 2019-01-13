@@ -84,8 +84,6 @@ I found that Bern wasn't the worst city for finding restaurants with Vegan optio
 
 Looking for something else? [Check out my favorite place to go for finding Vegan food to eat.&nbsp;](https://www.happycow.net/europe/switzerland/bern/){: target="_blank"}
 
-&nbsp;
-
 ##### Where to go out in Bern
 
 My FAVORITE thing about Bern is all of the underground restaurants, shops and bars that they have. I love that style of trap door, with the bar underneath. Bern was full of great places to go for a drink with good atmosphere and plenty of people out and about for the New Year celebrations. Here's a quick list of the best bars in Bern.&nbsp;
