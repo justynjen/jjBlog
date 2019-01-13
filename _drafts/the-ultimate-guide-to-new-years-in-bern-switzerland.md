@@ -73,3 +73,19 @@ I found that Bern wasn't the worst city for finding restaurants with Vegan optio
 2. Tibitis was more of a chain style restaurant but it was a popular place to have brunch on Sunday. How it works is that you grab a plate, fill it with whatever you want, then have it weighed and pay what you've picked up. They had SO MANY vegan options that I ended up spending a small fortune just to try them all. I was impressed with the food and definitely recommend it.&nbsp;
 3. Kung Fu Burger - Now, I didn't eat here because it was closed the whole time that I was visiting Bern but it has amazing reviews and I want to go next time I am there. So if you've had their burgers and loved it, let me know!&nbsp;
 4. The Butcher - I'll admit, we weren't sure we were going to be able to find something to eat at a restaurant called The Butcher but we were pleasantly surprised with their wide selections of Vegan options! A great place to go for a burger and a beer.&nbsp;
+
+Looking for something else? [Check out my favorite place to go for finding Vegan food to eat.&nbsp;](https://www.happycow.net/europe/switzerland/bern/){: target="_blank"}
+
+##### Where to go out in Bern
+
+My FAVORITE thing about Bern is all of the underground restaurants, shops and bars that they have. I love that style of trap door, with the bar underneath. Bern was full of great places to go for a drink with good atmosphere and plenty of people out and about for the New Year celebrations. Here's a quick list of the best bars in Bern.&nbsp;
+
+1. Abflugbar - Abflugbar is actually famous around the world for their cocktails. With discreet, sandstone colored walls and unique seating arrangements, this bar might make you feel like you are hanging out in a modern day airport, but don't worry, things here are a lot less hectic.
+2. Adrianos Bar & Cafe - Offers a nice, lively atmosphere, this is one of the most popular spots for a coffee or after work drink among locals.&nbsp;
+3. Apfelgold - This bar is dedicated to the sweet things in life.&nbsp;
+4. Au Trappiste - The popular Beer-Cafe is a cozy meeting-point for people who want to discover something new and relax after a day of work.&nbsp;
+5. Barbiere - They have their own in house brewery so make sure you check them out!&nbsp;
+6. Bonbec Bern - Bonbec has many meanings but it's most literal translation is 'Good Mouth'. That's what you can expect when you head in for freshly prepared Indian Chai, an innovative aperitif culture and a small menu of lovingly arranged dishes inspired by scents all over the world.&nbsp;
+7. Krater Karlo - Newly opened you can head to Krater Karlo for freshly brewed coffee in the morning, stews in the afternoon and lively, unique cocktails after work.&nbsp;
+
+Believe me, you can't go wrong toasting in the new year's in Bern.&nbsp;
