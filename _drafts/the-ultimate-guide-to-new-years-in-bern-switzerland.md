@@ -14,3 +14,4 @@ tags:
 comments: false
 ---
 
+Bern is one of the most quintessential Swiss towns that you could visit. It's the capital of Switzerland, which you might have already known but I found that to be a bit surprising just because Zurich and Geneva were much more well known to me.&nbsp;&nbsp;
