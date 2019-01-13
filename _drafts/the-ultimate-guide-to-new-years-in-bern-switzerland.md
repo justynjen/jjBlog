@@ -2,7 +2,7 @@
 layout: posts
 date: 2019-01-13 00:00:00
 feature-image_path: /uploads/bern-switzerland-einstein-museum.jpg
-pinterest-image_path:
+pinterest-image_path: /uploads/text-placeholder-1.png
 title: 'The Ultimate Guide to New Year''s in Bern, Switzerland'
 Author: Justyn
 published: true
