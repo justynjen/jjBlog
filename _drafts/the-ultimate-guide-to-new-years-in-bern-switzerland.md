@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2019-01-08 00:00:00
-feature-image_path:
+feature-image_path: /uploads/bern-switzerland-einstein-museum.jpg
 pinterest-image_path:
 title: 'The Ultimate Guide to New Year''s in Bern, Switzerland'
 Author: Justyn
@@ -16,6 +16,8 @@ comments: false
 
 Bern is one of the most quintessential Swiss towns that you could visit. It's the capital of Switzerland, which you might have already known but I found that to be a bit surprising just because Zurich and Geneva were much more well known to me. &nbsp;However, spending New Year's in Bern that made this cute Swiss city to grow on me.&nbsp;
 
+![](/uploads/bern-switzerland-einstein-museum.jpg)
+
 Before I share all the secrets for how to make the most out of a New Year in Bern, let me share with you a few things that you might not have known about Bern.&nbsp;
 
 * Bern is the 4th largest city in Switzerland with 130,000 people living there.&nbsp;
@@ -27,6 +29,8 @@ Before I share all the secrets for how to make the most out of a New Year in Ber
 * All of the Old Town is a Unesco heritage site, making tourism big business.
 
 #### Planning your visit
+
+![](/uploads/justynjen-bern-switzerland-outdoors.jpg)
 
 ##### Getting to Bern&nbsp;
 
@@ -43,6 +47,8 @@ During our stay in Bern we had a private room at [Hostel 77.](http://www.hostel7
 ##### What to do in Bern
 
 Here's a quick list of all the sites that you should make sure to see when you are visiting Bern, Switzerland.&nbsp;
+
+![](/uploads/justynjen-bern-switzerland-parlmiament.jpg)
 
 * Bundesplatz (Parliament Square)
 * Kirchenfeldbrucke with it's view of the Parliament Building
@@ -67,6 +73,8 @@ Now we all know that Switzerland is famous for Swiss Chocolate, Syrups and Swiss
 
 ##### Where to eat in Bern (as a Vegan)
 
+![](/uploads/justynjen-vegan-burger-switzerland.jpg)
+
 I found that Bern wasn't the worst city for finding restaurants with Vegan options. Most everywhere we went had something on the menu for us. The top places that you have to eat while you are there are:&nbsp;
 
 1. The Kornhauskeller Restaurant. You can't miss eating here. It is Bern's most luxurious cellar restaurant with high, decorated ceilings and elegant decor, it's the perfect place to have lunch.&nbsp;
@@ -87,5 +95,7 @@ My FAVORITE thing about Bern is all of the underground restaurants, shops and ba
 5. Barbiere - They have their own in house brewery so make sure you check them out!&nbsp;
 6. Bonbec Bern - Bonbec has many meanings but it's most literal translation is 'Good Mouth'. That's what you can expect when you head in for freshly prepared Indian Chai, an innovative aperitif culture and a small menu of lovingly arranged dishes inspired by scents all over the world.&nbsp;
 7. Krater Karlo - Newly opened you can head to Krater Karlo for freshly brewed coffee in the morning, stews in the afternoon and lively, unique cocktails after work.&nbsp;
+
+![](/uploads/bern-switzerland-clock-tower.jpg)
 
 Believe me, you can't go wrong toasting in the new year's in Bern.&nbsp;
