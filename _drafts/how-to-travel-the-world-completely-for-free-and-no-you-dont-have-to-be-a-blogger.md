@@ -2,7 +2,7 @@
 layout: posts
 date: 2019-01-15 00:00:00
 feature-image_path: /uploads/jay-wennington-364037-unsplash.jpg
-pinterest-image_path:
+pinterest-image_path: /uploads/house-sitting.png
 title: >-
   How to Travel the World Completely for Free (and no, you don't have to be a
   blogger!)
@@ -16,7 +16,7 @@ tags:
 comments: false
 ---
 
-Everyone wants to travel more, I think that’s a given. (At least everyone I know is trying to travel more...)
+Everyone wants to travel more, I think that’s a given. (At least everyone I know is trying to travel more…)
 
 What if I told you that there was a no bullshit way to actually travel the world for free. And no. You don’t have to have a blog or be instafamous to do this. What I am going to tell you today is totally going to change the way you vacation. Hopefully it helps you make the most out of your precious vacation days as well.
 
