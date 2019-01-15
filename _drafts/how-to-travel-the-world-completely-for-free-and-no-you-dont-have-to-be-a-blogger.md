@@ -10,9 +10,8 @@ Author: Justyn
 published: true
 tags:
   - travel
-  - Switzerland
   - Travel 2019
-  - New Year's Travel
+  - Trusted House Sitters
 comments: false
 ---
 
