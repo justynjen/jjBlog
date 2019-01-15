@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: 2019-01-15 00:00:00
-feature-image_path: /uploads/jay-wennington-364037-unsplash.jpg
+feature-image_path: /uploads/paul-hanaoka-330307-unsplash.jpg
 pinterest-image_path: /uploads/house-sitting.png
 title: >-
   How to Travel the World Completely for Free (and no, you don't have to be a
