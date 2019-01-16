@@ -2,7 +2,7 @@
 layout: posts
 date: 2018-10-08 16:00:00
 feature-image_path: /uploads/pyramids-of-giza-egypt.jpg
-pinterest-image_path: /uploads/solo-tip-to-egypt-100.jpg
+pinterest-image_path: /uploads/egypt-pin.png
 title: 20 Tips For Traveling Alone in Egypt
 Author: Justyn
 published: true
