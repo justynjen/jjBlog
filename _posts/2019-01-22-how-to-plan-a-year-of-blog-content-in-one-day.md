@@ -1,6 +1,6 @@
 ---
 layout: posts
-date: 2019-01-15 00:00:00
+date: 2019-01-22 00:00:00
 feature-image_path: /uploads/aug18-ivorymix4.jpg
 pinterest-image_path: /uploads/plan-a-years-worth-of-blog-content-1.png
 title: How to Plan a Year of Blog Content in One Day
@@ -18,11 +18,11 @@ One of the hardest things about blogging is keeping up with consistent content, 
 
 Once you have your core content prepared, you can write multiple blog posts and then save them for throughout the year. This way you always have something to post and it won’t be something that you’ve just put together because you forgot that you always post on Sundays or you’ve put it off too much and know that you just need to post anything. When you put content out there that is thrown together or not useful, then it will do your audience no good which won’t help you either.
 
-<br>This guide is meant to help you plan/get ideas for a years worth of content. &nbsp;
+<br>This guide is meant to help you plan/get ideas for a years worth of content.  
 
 ##### How to begin putting together your content for the year.
 
-##### &nbsp;
+#####  
 
 #### Know your goals and limitations.
 
