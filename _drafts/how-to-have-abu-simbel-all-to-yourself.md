@@ -1,8 +1,8 @@
 ---
 layout: posts
-date: 2019-01-22 00:00:00
+date: 2019-03-10 12:00:00
 feature-image_path: /uploads/abu-simbel-temples-all-to-yourself-egypt-travel.jpg
-pinterest-image_path:
+pinterest-image_path: /uploads/visiting-abu-simbel-egypt-from-aswan.png
 title: >-
   How to have the Temples of Abu Simbel all to yourself & tips on visiting Abu
   Simbel from Aswan
@@ -18,9 +18,7 @@ tags:
 comments: false
 ---
 
-&nbsp;
-
-## How to have the temples of Abu Simbel all to yourself!&nbsp;
+## How to have the temples of Abu Simbel all to yourself! 
 
 #### Including tips on visiting from Aswan, Egypt
 
