@@ -16,7 +16,7 @@ tags:
 comments: false
 ---
 
-## How to have the temples of Abu Simbel all to yourself! 
+## The Ultimate Secret to how you can have the temples of Abu Simbel all to yourself
 
 #### Including tips on visiting from Aswan, Egypt
 
