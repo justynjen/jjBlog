@@ -26,17 +26,15 @@ Abu Simbel is one of the most incredible sites that you’ll visit while you’r
 
 For me, the history of Abu Simbel was one of the most fascinating in all of Egypt. But if you’re not here for history then you can just skip right on to the bottom where I share all my secrets for how I had Abu Simbel all to myself while visiting in February, 2019.
 
-![](/uploads/abu-simbel-temples-south-of-aswan-egypt.jpg)
-
 When you first arrive at Abu Simbel you’ll notice the two temples. Keep in mind that these are temples, not tombs. The first temple that you will come to belonged to Nefertari and was built for her by Ramsesses the Second. It stands on the right and then on the left is the grand temple of Ramesses ll. Ramsesses had these two temples constructed here for very important reasons. He wanted to present himself as a God and Nefertari as a Goddess but he had to choose a place that wasn’t already governed by one of the Egyptian Gods. That’s what led to the location of Abu Simbel.
+
+![](/uploads/abu-simbel-temples-south-of-aswan-egypt.jpg)
 
 The two temples of Abu Simbel were carved out of the rock mountain side in the 13th century, which was the 19th dynasty reign of the Pharoah Ramsses ll. The temples were rediscovered (I say rediscovered because up until this point they were unknown to the outside world but they were known by the local Nubian people) in 1813 by Johann Ludwig Burckhardt, a Swiss Discoverer.
 
 In the mid-20th century, the Egyptian government under General Nasser planned to construct the dam to control the unpredictable annual Nile floods and provide hydroelectric power. But such a dam would well and truly place Abu Simbel underwater.
 
 Because of this new problem, in 1959 the Egyptian and Sudanese government’s wrote to UNESCO seeking assistance. So began a huge multinational effort to save Abu Simbel. They moved the temples 65 meters back and 200 meters higher, placing them where they are today. The work took 4 years beginning in 1964 and finally being completed in 1968, costing $40 Million Dollars!
-
-![](/uploads/carvings-outside-temples-of-abu-simbel-egypt.jpg)
 
 To move the temples of Abu Simbel they divided them up into a bunch of smaller pieces and then relocated them and put it all back together like one giant Egyptian jigsaw puzzle. The work was truly remarkable as there was no room for error. To this day if you weren’t to know this story, I am sure that you would have no idea that these temples had moved a centimeter since their original construction.
 
@@ -58,8 +56,6 @@ With a private car it is also possible that you can stay at the temples for as l
 
 After he showed us around, we took full advantage of having the places to ourselves to go crazy taking 100 photos (at least) at each temple. It turned out that these were some of my favorite photos from my entire month in Egypt.
 
-![](/uploads/justynjen-standing-outside-temples-of-abu-simbel-egypt.jpg)
-
 ## Costs
 
 One important thing to always remember in Egypt is to take your student card with you NO MATTER WHAT. With a student card it is possible to get 50% off at every attraction that you will visit.
@@ -71,6 +67,8 @@ One important thing to always remember in Egypt is to take your student card wit
 **Cost for our private tour guide once at Abu Simbel :** 1000 EGP with 100 EGP Tip (split two ways - 550EGP each)
 
 Abu Simbel is one of the most expensive places that you will visit in Egypt - next to Valley of the Kings in Luxor. So it’s very helpful to have your student card to get that discount. And believe me, no matter the costs, visiting Abu Simbel with your own private transfer and having the place completely to yourself is something you HAVE to do.
+
+![](/uploads/justynjen-standing-outside-temples-of-abu-simbel-egypt.jpg)
 
 I want to give a huge thanks to the team at Anakato Nubian Houses for organizing this day for us. It was so special and all thanks to them. You can read about my stay in the Nubian Village soon (I will share a link here when it’s published) and learn more about how you can receive a special discount off your trip to Nubia - the land of smiles!
 
