@@ -22,6 +22,10 @@ comments: false
 
 Abu Simbel is one of the most incredible sites that you’ll visit while you’re in Egypt. It was easily one of my favorite places that I visited in Egypt and I was so lucky to have Abu Simbel almost entirely to myself during my visit. You can find Abu Simbel in the south of Egypt about 50 miles from the border of Sudan and there are a few ways that you can get there but most of them involve traveling from Aswan.
 
+![](/uploads/abu-simbel-egypt-justynjen.jpg)
+
+![](/uploads/abu-simbel-temples-south-of-aswan-egypt.jpg)
+
 For me, the history of Abu Simbel was one of the most fascinating in all of Egypt. But if you’re not here for history then you can just skip right on to the bottom where I share all my secrets for how I had Abu Simbel all to myself while visiting in February, 2019.
 
 When you first arrive at Abu Simbel you’ll notice the two temples. Keep in mind that these are temples, not tombs. The first temple that you will come to belonged to Nefertari and was built for her by Ramsesses the Second. It stands on the right and then on the left is the grand temple of Ramesses ll. Ramsesses had these two temples constructed here for very important reasons. He wanted to present himself as a God and Nefertari as a Goddess but he had to choose a place that wasn’t already governed by one of the Egyptian Gods. That’s what led to the location of Abu Simbel.
@@ -31,6 +35,8 @@ The two temples of Abu Simbel were carved out of the rock mountain side in the 1
 In the mid-20th century, the Egyptian government under General Nasser planned to construct the dam to control the unpredictable annual Nile floods and provide hydroelectric power. But such a dam would well and truly place Abu Simbel underwater.
 
 Because of this new problem, in 1959 the Egyptian and Sudanese government’s wrote to UNESCO seeking assistance. So began a huge multinational effort to save Abu Simbel. They moved the temples 65 meters back and 200 meters higher, placing them where they are today. The work took 4 years beginning in 1964 and finally being completed in 1968, costing $40 Million Dollars!
+
+![](/uploads/carvings-outside-temples-of-abu-simbel-egypt.jpg)
 
 To move the temples of Abu Simbel they divided them up into a bunch of smaller pieces and then relocated them and put it all back together like one giant Egyptian jigsaw puzzle. The work was truly remarkable as there was no room for error. To this day if you weren’t to know this story, I am sure that you would have no idea that these temples had moved a centimeter since their original construction.
 
@@ -45,6 +51,10 @@ Another option is to take a guided tour from Aswan. These tours leave Aswan at 4
 I chose to visit Abu Simbel by car from Aswan instead of taking a tour bus. I left Aswan at 8 in the morning, had breakfast in the car and then had a very enjoyable drive down to Abu Simbel, arriving there at 12pm. By the time we arrived, almost every tour bus had packed up and left, driving it’s load back to Aswan for the night.
 
 By the time we bought our tickets and walked over the temples, it was almost completely empty. Incredible.
+
+![](/uploads/abu-simbel-temples-south-of-aswan-egypt-2.jpg)
+
+![](/uploads/justynjen-standing-outside-temples-of-abu-simbel-egypt.jpg)
 
 With a private car it is also possible that you can stay at the temples for as long as you like, and chances are, your driver or hotel will know someone who can be your local guide when you arrive. That’s what happened for us. Our amazing hotel in Aswan organized this car at my request and drove us to Abu Simbel where they also organized a local guide to meet us and take us around the temples.
 
