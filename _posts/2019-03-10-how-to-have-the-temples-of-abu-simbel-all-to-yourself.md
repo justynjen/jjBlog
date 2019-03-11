@@ -28,9 +28,9 @@ For me, the history of Abu Simbel was one of the most fascinating in all of Egyp
 
 When you first arrive at Abu Simbel you’ll notice the two temples. Keep in mind that these are temples, not tombs. The first temple that you will come to belonged to Nefertari and was built for her by Ramsesses the Second. It stands on the right and then on the left is the grand temple of Ramesses ll. Ramsesses had these two temples constructed here for very important reasons. He wanted to present himself as a God and Nefertari as a Goddess but he had to choose a place that wasn’t already governed by one of the Egyptian Gods. That’s what led to the location of Abu Simbel.
 
-![](/uploads/abu-simbel-temples-south-of-aswan-egypt.jpg)
-
 The two temples of Abu Simbel were carved out of the rock mountain side in the 13th century, which was the 19th dynasty reign of the Pharoah Ramsses ll. The temples were rediscovered (I say rediscovered because up until this point they were unknown to the outside world but they were known by the local Nubian people) in 1813 by Johann Ludwig Burckhardt, a Swiss Discoverer.
+
+![](/uploads/abu-simbel-temples-south-of-aswan-egypt.jpg)
 
 In the mid-20th century, the Egyptian government under General Nasser planned to construct the dam to control the unpredictable annual Nile floods and provide hydroelectric power. But such a dam would well and truly place Abu Simbel underwater.
 
