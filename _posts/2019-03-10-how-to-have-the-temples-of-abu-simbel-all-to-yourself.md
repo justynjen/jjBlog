@@ -24,9 +24,9 @@ Abu Simbel is one of the most incredible sites that you’ll visit while you’r
 
 ![](/uploads/abu-simbel-egypt-justynjen.jpg)
 
-![](/uploads/abu-simbel-temples-south-of-aswan-egypt.jpg)
-
 For me, the history of Abu Simbel was one of the most fascinating in all of Egypt. But if you’re not here for history then you can just skip right on to the bottom where I share all my secrets for how I had Abu Simbel all to myself while visiting in February, 2019.
+
+![](/uploads/abu-simbel-temples-south-of-aswan-egypt.jpg)
 
 When you first arrive at Abu Simbel you’ll notice the two temples. Keep in mind that these are temples, not tombs. The first temple that you will come to belonged to Nefertari and was built for her by Ramsesses the Second. It stands on the right and then on the left is the grand temple of Ramesses ll. Ramsesses had these two temples constructed here for very important reasons. He wanted to present himself as a God and Nefertari as a Goddess but he had to choose a place that wasn’t already governed by one of the Egyptian Gods. That’s what led to the location of Abu Simbel.
 
@@ -54,11 +54,11 @@ By the time we bought our tickets and walked over the temples, it was almost com
 
 ![](/uploads/abu-simbel-temples-south-of-aswan-egypt-2.jpg)
 
-![](/uploads/justynjen-standing-outside-temples-of-abu-simbel-egypt.jpg)
-
 With a private car it is also possible that you can stay at the temples for as long as you like, and chances are, your driver or hotel will know someone who can be your local guide when you arrive. That’s what happened for us. Our amazing hotel in Aswan organized this car at my request and drove us to Abu Simbel where they also organized a local guide to meet us and take us around the temples.
 
 After he showed us around, we took full advantage of having the places to ourselves to go crazy taking 100 photos (at least) at each temple. It turned out that these were some of my favorite photos from my entire month in Egypt.
+
+![](/uploads/justynjen-standing-outside-temples-of-abu-simbel-egypt.jpg)
 
 ## Costs
 
