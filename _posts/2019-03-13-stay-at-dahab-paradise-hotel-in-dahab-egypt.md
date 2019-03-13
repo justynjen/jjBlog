@@ -17,10 +17,6 @@ tags:
 comments: false
 ---
 
-&nbsp;
-
-# Having the perfect stay at Dahab Paradise
-
 I spent 10 days in Dahab getting dive certified and while there I had the chance to stay at a couple different hotels and a hostel. The best place that I had the chance to stay at in Dahab was the Dahab Paradise hotel. I was so lucky to be able to spend my last 4 nights in Dahab here and I almost skipped by bus back to Cairo because I loved it so much.&nbsp;
 
 Here's everything you need to know about staying at the Dahab Paradise Hotel in Dahab, Egypt.&nbsp;
