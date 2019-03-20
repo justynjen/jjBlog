@@ -1,9 +1,9 @@
 // Typography
-$body-font                             : "FreightSans Pro Book", sans-serif;
+$body-font                             : "Fresca", serif;
 $body-font-weight                      : 400;
-$heading-font                          : "Butler", serif;
+$heading-font                          : "Fresca", serif;
 $heading-font-weight                   : 500;
-$alt-font      		                     : "Saturday Script Oblique Alt2", serif;
+$alt-font      		                     : "Shadows Into Light Two", serif;
 $alt-font-weight		                   : 400;
 $base-font-size                        : 15px;
 $base-line-height                      : 1.5;
@@ -17,18 +17,18 @@ $desktop-width                         : 64em;
 
 // Colours
 $black                                 : #2F3542;
-$white                                 : #FFFFFF;
+$white                                 : #fff;
 $lightgrey                             : #F1F2F6;
-$darkgrey                              : #2F3542;
-$turquoise                             : #32CEC7;
-$green																 : #64EDC6;
+$darkgrey                              : #404040;
+$tan                                   : #f0e8dc;
+$green																 : #556F44;
 $yellow																 : #FEEEC2;
 
 // Main Colours
 $background-color                      : $white;
 $main-text-color                       : $black;
 $heading-color                         : $black;
-$accent-color                          : $turquoise;
+$accent-color                          : $green;
 $input-bg-color                        : $white;
 $input-text-color                      : $black;
 
@@ -92,18 +92,15 @@ main {
 }
 
 .site-footer {
-  background: $footer-background-color;
-  color: $footer-text-color;
+  background: $darkgrey;
+  color: $white;
   font-size: $small-font-size;
   overflow: hidden;
+  h2, h3, h4, h5{
+    color: $white;
+  }
 	.footer-content {
 		padding: 3rem 0;
-	}
-	.footer-copyright {
-    background: white;
-    padding: 1.5rem 0;
-    opacity: .5;
-		overflow: hidden;
 	}
   a {
     color: $footer-link-color;
@@ -113,10 +110,16 @@ main {
     }
   }
 }
-
+.footer-copyright {
+  text-align: center;
+  background: white;
+  padding: 1.5rem 0;
+  opacity: .5;
+  overflow: hidden;
+}
 section {
   position: relative;
-	padding: 4rem 0;
+	padding: 3rem 0;
 }
 
 .row {
@@ -627,14 +630,11 @@ figure {
   a {
     display: inline-block;
     font-size: 1.25rem;
-    width: 48px;
-    height: 48px;
+    width: 42px;
+    height: 42px;
     line-height: 48px;
     text-align: center;
-    border-radius: 50%;
-    background: rgba(0,0,0,0.05);
-    background: $accent-color;
-    color: white;
+    color: $accent-color;
     transition: all .2s;
     &:hover {
       opacity: 0.8;

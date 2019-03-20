@@ -12,14 +12,15 @@
   z-index: 1;
   &:after {
     position: absolute;
-    top: 50%; left: 50%;
-    content: '-';
+    top: 50%;
+    left: 50%;
+    content: '_';
     z-index: -1;
     transform: translate(-50%, -50%);
-    color: $accent-color;
+    color: #556F44;
     opacity: .5;
-    font-size: 28em;
-    margin-top: 155px;
+    font-size: 6em;
+    margin-top: -243px;
     pointer-events: none;
   }
 }
@@ -27,6 +28,7 @@
 .underline {
   display: inline-block;
   box-shadow: inset 0px -3px $green;
+  padding-bottom: 0%;
 }
 
 .section-heading {
@@ -37,9 +39,9 @@
   font-size: 3.25em;
   margin-bottom: 1em;
   &:after {
-    color: $yellow;
-    font-size: 18em;
-    margin-top: 60px;
+    color: $green;
+    font-size: 5em;
+    margin-top: -116px;
   }
   &.green {
     &:after {
@@ -52,18 +54,13 @@
       color: $yellow
     }
   }
-  &.turquoise {
-    &:after {
-      color: $turquoise;
-    }
-  }
 }
 
 h5, .h5 {
   font-family: $body-font;
   text-transform: uppercase;
   letter-spacing: 0.025em;
-  margin-bottom: 1.5em;
+  /*margin-bottom: 1.5em;*/
 }
 
 
@@ -74,6 +71,12 @@ h5, .h5 {
 
 .main-nav {
   box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+  /*top: 50%;
+  left: 60%;
+  width: 100%;*/
+  ul{
+    margin-left: 10.5%;
+  }
 }
 
 
@@ -85,7 +88,7 @@ h5, .h5 {
 .sidebar {
   text-align: center;
   p {
-    font-size: 0.9em;
+    font-size: 1em;
   }
   section {
     padding: 1.5em;
@@ -139,14 +142,6 @@ h5, .h5 {
 /********************
   FOOTER
 ********************/
-
-.site-footer {
-  text-align: center;
-  img {
-    width: 360px;
-    max-width: 75%;
-  }
-}
 
 
 
@@ -296,7 +291,7 @@ h5, .h5 {
 }
 
 .section-intro {
-  padding: 0;
+  padding: 2%;
   .row {
     max-width: none;
     .column {
@@ -306,14 +301,32 @@ h5, .h5 {
       }
     }
     .column.intro-image {
-      background: url(https://d1qmdf3vop2l07.cloudfront.net/real-slipper.cloudvent.net/compressed/982f8f29f526cf3db3f2b23df746ae59.jpg) center center no-repeat;
+      background: url(/assets/img/vaughn-jen.jpg) center center no-repeat;
       background-size: cover;
-      min-height: 200px;
+      min-height: 420px;
     }
     p:last-child {
       margin-bottom: 0;
     }
   }
+}
+
+.section-feature {
+.feature-text{
+  box-shadow: 0.5px 0.5px 0.5px rgba(85, 111, 68, 0.5);
+  display: inline-block;
+  text-align: center;
+  background-color: white;
+  padding: 2% 8%;
+  position: relative;
+  text-align: center;
+  top: -10%;
+  left: 30%;
+  }
+}
+
+.section-map{
+  padding: 10px;
 }
 
 .section-stats {
@@ -362,7 +375,7 @@ h5, .h5 {
 ********************/
 
 .blog-entry {
-  font-size: .9em;
+  font-size: 1em;
   margin-bottom: 5em;
   display: flex;
   .blog-entry-image {
@@ -489,5 +502,66 @@ main {
 
 
 /********************
-  JUSTYN CUSTOM CSS
+  CUSTOM CSS
 ********************/
+
+/* Map
+*/
+.map{
+  height: 75vh;
+}
+#mapwrapper {
+	max-width: 1920px;
+	margin: 0 auto;
+	padding: 0 0;
+	background-color: transparent;
+	min-width: 220px;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+#text-abb {
+	font-size: 16px;
+}
+#text-abb text {
+	font-family: Arial, Helvetica, sans-serif;
+}
+#map_base svg {
+	max-height: 100%;
+	width: 100%;
+	margin: 0;
+}
+#map-tip-us {
+    font: 14px/16px Trebuchet MS, Helvetica, Arial, sans-serif;
+    display: none;
+    padding: 3px;
+    border: 1px solid #EBECED;
+    color: #edeef0;
+    z-index: 1000;
+    float: left;
+    position: absolute;
+    /*gradient color*/
+    background: rgb(73, 73, 73);
+    background: -moz-linear-gradient(top, rgba(73, 73, 73, 1) 0%, rgba(101, 101, 101, 1) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(73, 73, 73, 1)), color-stop(100%, rgba(101, 101, 101, 1)));
+    background: -webkit-linear-gradient(top, rgba(73, 73, 73, 1) 0%, rgba(101, 101, 101, 1) 100%);
+    background: -o-linear-gradient(top, rgba(73, 73, 73, 1) 0%, rgba(101, 101, 101, 1) 100%);
+    background: -ms-linear-gradient(top, rgba(73, 73, 73, 1) 0%, rgba(101, 101, 101, 1) 100%);
+    background: linear-gradient(to bottom, rgba(73, 73, 73, 1) 0%, rgba(101, 101, 101, 1) 100%);
+    word-break: keep-all;
+    /*white-space: nowrap;*/
+		box-shadow:1px 2px 4px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow:2px 3px 6px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow:2px 3px 6px rgba(0, 0, 0, 0.5);
+}
+#map-tip-us p {
+	margin: 0!important;
+    color: #edeef0!important;
+}
+#map-tip-us img {
+	float: left;
+	padding: 3px;
+}
