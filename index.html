@@ -1,41 +1,21 @@
 ---
 layout: default
-title: Traveling Trails
+title: Justyn Jen
 ---
-<section class="masthead" style="background-image:url('assets/img/background1.jpg')">
-  <h1 class="absolute-center">We're Traveling Trails</h1>
+
+<section class="masthead" style="background-image:url(https://d1qmdf3vop2l07.cloudfront.net/real-slipper.cloudvent.net/compressed/195e45eccda5def07f583f9d225ec2a0.jpg)">
+  <h1 class="absolute-center">Welcome to the Adventure</h1>
 </section>
+
 <section class="section-intro">
   <div class="row small-up-1 medium-up-2">
-    <div class="column small-order-1 medium-order-2 intro-image"></div>
+    <div class="column small-order-2 medium-order-1 intro-image"></div>
+
     <div class="column small-order-1 medium-order-2 editable">
-      <h5 class="underline">Welcome to our Adventure</h5>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
-  </div>
-</section>
-
-<section class="section-feature">
-  {% include feature-squares.html %}
-</section>
-
-<section class="section-map">
-  <div>
-    <h2 class="section-heading">Where We've Been</h2>
-  </div>
-  {% include map.html %}
-</section>
-
-<section class="section-blog">
-  <div class="row column">
-    <h2 class="section-heading">New on the Blog</h2>
-  </div>
-
-  <div class="row column">
-    <div class="slider">
-      {% for post in site.posts limit:9 %}
-        {% include entry-item.html %}
-      {% endfor %}
+      <h2>I'm Justyn</h2>
+      <h4 class="underline">pronounced just(in)</h4>
+      <p>I'm Justyn and I created Justyn Jen to inspire and teach others about traveling full time, Pinterest Marketing and making more money on your blog. I’m your go to Pinterest Guru with a love for all things travel! I have been so lucky to travel the world for over 3 years supporting myself through Pinterest Marketing and Strategy for Bloggers and Businesses. Building this business has been a dream come true. I am here to tell you that you can make money blogging and even better, you can make money traveling. All this has been possible thanks to Pinterest, which is what inspired me to create my very own <a href="https://justynjen.teachable.com/courses">Pinterest Courses!</a> Make sure you check it out and all the free resources on my blog.</p>
+      <p>My happiest days are spent sipping coffee at little cafes and exploring new cities around the world.</p>
     </div>
   </div>
 </section>
@@ -43,9 +23,25 @@ title: Traveling Trails
 <section class="section-mailing-list">
   <div class="row align-center">
     <div class="small-12 medium-11 columns">
-      <h3 class="underline">Grab our checklist for minimalistic living</h3>
-      <p>Find out how we live with less but still have everything we need with this important checklist.</p>
+      <h3>Grab my Ultimate Guide to Pinterest SEO eBook</h3>
+      <p>Optimise your Pinterst profile for significant growth starting today.</p>
       {% include mailing-list.html %}
+    </div>
+  </div>
+</section>
+
+{% include stats.html %}
+
+<section class="section-blog">
+  <div class="row column">
+    <h2 class="section-heading">Read the Blog</h2>
+  </div>
+
+  <div class="row column">
+    <div class="slider">
+      {% for post in site.posts limit:9 %}
+        {% include entry-item.html %}
+      {% endfor %}
     </div>
   </div>
 </section>

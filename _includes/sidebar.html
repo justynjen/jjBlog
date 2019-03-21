@@ -1,44 +1,55 @@
 <aside class="sidebar">
   <section class="sidebar-intro editable">
     <img src="/assets/img/rice-terraces-bali.jpg" alt="Justyn Jen" />
-    <h5>The Trail</h5>
-    <p>Welcome to the trail. We're the Gourdins and we've set out to show you an epic alternative lifestyle that can help you find your freedom, explore the world and live debt free. Are you ready?</p>
-    <a href="/about">More About Us Here!</a>
+    <h5>I'm Justyn</h5>
+    <p>I’m your go to Pinterest Guru with a love for all things travel! I have been so lucky to travel the world for over 3 years supporting myself through Pinterest Marketing and Strategy for Bloggers and Businesses. Building this business has been a dream come true. I am here to tell you that you can make money blogging and even better, you can make money traveling. All this has been possible thanks to Pinterest, which is what inspired me to create my very own <a href="https://justynjen.teachable.com/courses">Pinterest Courses!</a>Make sure you check it out and all the free resources on my blog.</p>
+    <a href="/about">More About Me!</a>
+  </section>
+
+  <section class="sidebar-pinterest">
+    <h5>Pin this Post</h5>
+    <img src="{{ page.pinterest-image_path}}" alt="{{ post.title }}" />
   </section>
 
   <section class="sidebar-entries">
-    <h5>Recent Posts</h5>
+    <h5>Latest Posts</h5>
     {% for post in site.posts limit:3 %}
-    {% include entry-item.html %}
+      {% include entry-item.html %}
     {% endfor %}
   </section>
 
   <section class="sidebar-mailing-list editable">
-    <h5>This Mailing List isn't like other lists...</h5>
-    <p>It's a cool mailing list</p>
-    <a href="https://www.subscribepage.com/100-blog-niches"><button>Join us now!</button></a>
+  	<h5>Download My Free guide to 100+ Profitable blog topics</h5>
+  	<a target="_blank" href="https://www.subscribepage.com/100-blog-niches"><img alt="My Pinterest SEO free download" src="/uploads/profitable-blog-niches.png" width="800" height="2000" /></a><button type="button" name="button">
+      <a href="https://www.subscribepage.com/100-blog-niches">Get it now!</button></a>
   </section>
 
   <section>
-    <h5>Book Your Stay Today</h5>
-    <ins class="bookingaff" data-aid="1624502" data-target_aid="1624502" data-prod="banner" data-width="250" data-height="250" data-lang="en">
+  <h5>What I'm reading</h5>
+  <a target="_blank" href="https://amzn.to/2T2QM6T"><img alt="Sapiens Cover Image for JJ Book Club" src="/uploads/sapiens-cover-image.jpg" width="800" height="2000" /></a><button type="button" name="button">
+    <a href="https://amzn.to/2T2QM6T">Join me!</button></a>
+  </section>
+
+<section>
+<h5>Book Your Stay Today</h5>
+<ins class="bookingaff" data-aid="1624502" data-target_aid="1624502" data-prod="banner" data-width="250" data-height="250" data-lang="en">
     <!-- Anything inside will go away once widget is loaded. -->
     <a href="//www.booking.com?aid=1624502">Booking.com</a>
 </ins>
-    <script type="text/javascript">
-      (function(d, sc, u) {
-        var s = d.createElement(sc),
-          p = d.getElementsByTagName(sc)[0];
-        s.type = 'text/javascript';
-        s.async = true;
-        s.src = u + '?v=' + (+new Date());
-        p.parentNode.insertBefore(s, p);
-      })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
-    </script>
-  </section>
+<script type="text/javascript">
+  (function(d, sc, u) {
+    var s = d.createElement(sc),
+      p = d.getElementsByTagName(sc)[0];
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = u + '?v=' + (+new Date());
+    p.parentNode.insertBefore(s, p);
+  })(document, 'script', '//aff.bstatic.com/static/affiliate_base/js/flexiproduct.js');
+</script>
+</section>
 
-  <section>
-    <h5>Pin With Us!</h5>
-    <a data-pin-do="embedUser" data-pin-board-width="275" data-pin-scale-height="400" data-pin-scale-width="80" href="https://www.pinterest.com/justynjen/"></a>
-  </section>
+<section>
+<h5>Let's Connect on Pinterest</h5>
+<a data-pin-do="embedUser" data-pin-board-width="275" data-pin-scale-height="400" data-pin-scale-width="80" href="https://www.pinterest.com/justynjen/"></a>
+</section>
 </aside>
