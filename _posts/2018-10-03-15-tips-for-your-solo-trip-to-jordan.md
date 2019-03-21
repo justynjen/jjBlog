@@ -2,7 +2,7 @@
 layout: posts
 date: 2018-10-03 15:00:00
 feature-image_path: /uploads/jordan-petra-town.jpg
-pinterest-image_path: /uploads/egypt-pin-1.png
+pinterest-image_path: /uploads/trial-100.jpg
 title: 15 Tips for Your Solo Trip to Jordan
 Author: Justyn
 published: true
